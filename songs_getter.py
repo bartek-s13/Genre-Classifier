@@ -6,6 +6,9 @@ from spotipy import util
 import yaml
 from typing import List
 import re
+import sys
+import pandas as pd
+from pathlib import Path
 
 
 def get_token(credentials_file_path: str, scp: str = None) -> str:
@@ -35,12 +38,40 @@ def get_playlists(playlists:List, keywords:List) -> List:
     keywords = ['.*'+word+'.*' for word in keywords]
     valid_playlists = []
     words = '|'.join(keywords)
-    print(words)
     pattern = re.compile(words)
     for playlist in playlists:
         if pattern.match(playlist['name'].lower()):
             valid_playlists.append((playlist['id'],playlist['name']))
     return valid_playlists
+
+def get_playlist_songs(playlist_id, sp):
+    playlist = sp.playlist(playlist_id)
+    tracks = []
+    for track in playlist['tracks']['items']:
+        if track['track'] is not None:
+            track_data = []
+            track_data.append(track['track']['id'])
+            track_data.append(track['track']['name'])
+            track_data.append(track['track']['artists'][0]['name'])
+            track_data.append(track['track']['album']['name'])
+            tracks.append(track_data)
+    return tracks
+
+
+def get_genre_songs(playlists:List, sp):
+    tracks = []
+    for playlist in playlists:
+        playlist_tracks = get_playlist_songs(playlist[0], sp)
+        tracks.extend(playlist_tracks)
+    return tracks
+
+
+def save_tracks(file_name: str, tracks:List):
+    path = Path("data/titles/"+file_name+'.csv')
+    tracks_df = pd.DataFrame(tracks, columns=['id', 'name', 'artist', 'album'])
+    tracks_df.drop_duplicates(subset='id', inplace=True)
+    tracks_df.to_csv(path, header=True, index=False)
+    print(tracks_df.shape)
 
 
 def get_user(credentials_file_path: str) -> str:
@@ -55,12 +86,16 @@ def get_user(credentials_file_path: str) -> str:
 
 
 if __name__ == '__main__':
+    #input arguments genre, *keywords
     user = get_user('credentials.yaml')
     token = get_token('credentials.yaml')
     sp = spotipy.Spotify(auth=token)
     my_playlists = sp.user_playlists(user)
-    rap_playlists = get_playlists(my_playlists['items'], ['rap', 'hip'])
-    print(rap_playlists)
+
+    valid_playlists = get_playlists(my_playlists['items'], sys.argv[2:])
+    tracks = get_genre_songs(valid_playlists,sp)
+    save_tracks(sys.argv[1], tracks)
+
 
 
 
