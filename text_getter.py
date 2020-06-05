@@ -2,6 +2,8 @@ import pandas as pd
 import re
 from bs4 import BeautifulSoup
 import requests
+import spacy
+from spacy_langdetect import LanguageDetector
 
 
 def request_song_info(song_title, artist_name):
@@ -55,8 +57,20 @@ def get_songs(filename: str):
 
 
 def normalize_lyric(lyric: str):  # TODO: usuwanie stopword i interpunkcji, ale to po tokenizacji
-    lyric = re.sub(r'\[.+?\]', r'', lyric)
-    return re.sub(r'\n', r' ', lyric).strip()
+
+    #TODO sprawdzanie języka na szybko, w get_lyrics jak chciałem dodać warunek w if, to nie zawsze działało, bo się zapętlało
+    if lyric is not None and check_if_english(lyric):
+        lyric = re.sub(r'\[.+?\]', r'', lyric)
+        return re.sub(r'\n', r' ', lyric).strip()
+    return None
+
+
+def check_if_english(lyrics: str) -> bool:
+    nlp = spacy.load('en_core_web_sm')
+    nlp.add_pipe(LanguageDetector(), name='language_detector', last=True)
+    doc = nlp(lyrics)
+    return doc._.language['language'] == 'en'
+
 
 
 if __name__ == "__main__":
@@ -68,5 +82,7 @@ if __name__ == "__main__":
     songs = get_songs("rap_hip_hop")
     for z in songs:
         print(str(z[0]) + '\t' + str(z[1]))
-        print(normalize_lyric(get_lyrics(str(z[1]), str(z[0]))))
-        break
+        lyric = normalize_lyric(get_lyrics(str(z[1]), str(z[0])))
+        if lyric is not None:
+            print(lyric)
+        #break
