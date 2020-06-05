@@ -91,8 +91,9 @@ if __name__ == '__main__':
     user = get_user('credentials.yaml')
     token = get_token('credentials.yaml')
     sp = spotipy.Spotify(auth=token)
-    my_playlists = sp.user_playlists(user)
-
-    valid_playlists = get_playlists(my_playlists['items'], sys.argv[2:])
+    valid_playlists= []
+    for i in range(0,1500,50):
+        my_playlists=(sp.user_playlists(user, offset=i))
+        valid_playlists.extend(get_playlists(my_playlists['items'], sys.argv[2:]))
     tracks = get_genre_songs(valid_playlists, sp)
     save_tracks(sys.argv[1], tracks)
