@@ -21,7 +21,7 @@ def scrap_song_url(url):
     html = BeautifulSoup(page.text, 'html.parser')
     # [h.extract() for h in html('script')]
     lyrics = ""
-    for f in html.find_all('div', class_='lyrics'):
+    for f in html.find_all('div', class_="lyrics"):
         if f is not None:
             lyrics = f.get_text()
     # f = html.find('div', class_='lyrics')
@@ -49,6 +49,19 @@ def get_lyrics(title, artist):
             return get_lyrics(title,
                               artist)  # wywołuje to tak, bo czasami z niewiadomych mi powodów nie wyszukuje niczego
     return None
+
+
+def scrap_song_az_lyrics(url: str):
+    page = requests.get(url)
+    html = BeautifulSoup(page.text, 'html.parser')
+    for f in html.find_all('div', class_='col-xs-12 col-lg-8 text-center'):
+        if f is not None:
+            return f.find_all('div')[5].text
+    return None
+
+
+def scrapping_lyrics(title: str, artist: str) -> str:
+    return scrap_song_az_lyrics(f"https://www.azlyrics.com/lyrics/{''.join(artist.lower().split())}/{''.join(title.lower().split())}.html")
 
 
 def get_songs(filename: str):
@@ -81,8 +94,12 @@ if __name__ == "__main__":
     # get_lyrics("Ms. Jackson", "OutKast")
     songs = get_songs("rap_hip_hop")
     for z in songs:
-        print(str(z[0]) + '\t' + str(z[1]))
+    #     print(str(z[0]) + '\t' + str(z[1]))
         lyric = normalize_lyric(get_lyrics(str(z[1]), str(z[0])))
         if lyric is not None:
             print(lyric)
-        #break
+        break
+        # lyric = scrapping_lyrics("Since u been gone", "Kelly Clarkson")
+        # if lyric:
+        #     print(lyric)
+        # break
