@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Well, I'm standing next to a mountain, chop it down with the edge of my hand
 Well, I'm standing next to a mountain, chop it down with the edge of my hand
 Pick up all the pieces, make an island, might even raise a little sand
@@ -8,4 +9,16 @@ I didn't mean to take up all your sweet time
 Give it right back to you the rest of my days
 I won't see you again in this world, see you in the next one
 Don't be late, don't be late
+=======
+Well, I'm standing next to a mountain, chop it down with the edge of my hand
+Well, I'm standing next to a mountain, chop it down with the edge of my hand
+Pick up all the pieces, make an island, might even raise a little sand
+'Cause I'm a voodoo chile, Lord knows I'm a voodoo chile
+I didn't mean to take up all your sweet time
+Give it right back to you one of these days
+I didn't mean to take up all your sweet time
+Give it right back to you the rest of my days
+I won't see you again in this world, see you in the next one
+Don't be late, don't be late
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Cause I'm a voodoo chile yeah, Lord knows I'm a voodoo chile

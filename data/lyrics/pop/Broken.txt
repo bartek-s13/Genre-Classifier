@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oh, every night is like a daze
 But oh, I'm feeling raise
 Yes, I know I'm running late
@@ -41,4 +42,49 @@ I guess something's broken
 I guess something's broken
 I guess something's broken
 I guess something's broken
+=======
+Oh, every night is like a daze
+But oh, I'm feeling raise
+Yes, I know I'm running late
+Let's wait just one more day
+I know I'm running
+Away from moments
+What am I becoming?
+I guess something's broken
+I guess something's broken
+I guess something's broken
+What am I becoming?
+I guess something's broken
+I guess something's broken
+Oh, every night is like a daze
+But oh, I'm feeling raise
+Yes, I know I'm running late
+Let's wait just one more day
+I know I'm running
+Away from romance
+What am I becoming?
+I guess something's broken
+Yeah, I'm feeling stuck
+Maybe out of luck
+I'm falling in and out of time
+Hope that you come home
+Please pick up the phone
+I need to know if you are fine
+I know I'm running
+Away from romance
+What am I becoming?
+I guess something's broken
+I guess something's broken
+Oh, every night is like a daze
+But oh, I'm feeling raise
+Yes, I know I'm running late
+Let's wait just one more day
+I know I'm running
+Away from romance
+What am I becoming?
+I guess something's broken
+I guess something's broken
+I guess something's broken
+I guess something's broken
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I guess something's broken

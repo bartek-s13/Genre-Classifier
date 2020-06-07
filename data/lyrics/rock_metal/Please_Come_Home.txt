@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My love is with you
 Even though you're far away
 You make me love you
@@ -22,4 +23,30 @@ You've been gone way too long
 Oh, come on home
 Ooh, come home, girl
 Oh, come on home, girl
+=======
+My love is with you
+Even though you're far away
+You make me love you
+And that's where my love will stay
+Those times I get lonely
+You're the one who truly knows me
+I can tell it in the way you talk
+You show me
+
+Why don't you please come home
+Come on home, girl
+You've been gone way too long
+Come on home, girl
+
+As time goes by
+My days go by slower
+My nights are getting colder
+And my mind has gone astray
+Why don't you please come home, oh
+Come on home, girl
+You've been gone way too long
+Oh, come on home
+Ooh, come home, girl
+Oh, come on home, girl
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh please come home, girl

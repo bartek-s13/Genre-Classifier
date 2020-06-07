@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dan...
 Dan bila esok, datang kembali
 Seperti sedia kala dimana kau bisa bercanda
@@ -19,4 +20,27 @@ Bila itu bisa membuatmu kembali bersinar
 Dan berpijar seperti dulu kala
 Caci maki saja diriku
 Bila itu bisa membuatmu kembali bersinar
+=======
+Dan...
+Dan bila esok, datang kembali
+Seperti sedia kala dimana kau bisa bercanda
+Dan...
+Perlahan kaupun, lupakan aku
+Mimpi burukmu
+Dimana t'lah kutancapkan duri tajam
+Kaupun menangis, menangis sedih
+Maafkan aku...
+
+Dan...
+Bukan maksudku, bukan inginku
+Melukaimu sadarkah kau di sini 'kupun terluka
+Melupakanmu, menepikanmu
+Maafkan aku
+
+Lupakanlah saja diriku
+Bila itu bisa membuatmu kembali bersinar
+Dan berpijar seperti dulu kala
+Caci maki saja diriku
+Bila itu bisa membuatmu kembali bersinar
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Dan berpijar seperti dulu kala

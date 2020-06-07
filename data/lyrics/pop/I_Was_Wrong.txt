@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If I told the truth
 You wouldn’t believe me
 You wouldn’t believe me at all
@@ -25,4 +26,33 @@ He was wrong
 He was wrong
 I love him
 Now he’s gone
+=======
+If I told the truth
+You wouldn’t believe me
+You wouldn’t believe me at all
+Always thought
+That he never loved me
+That he didn’t love me at all
+
+I was wrong
+I was wrong
+He loved me all along
+I was wrong
+
+If he told the truth
+Then I would never believe him
+I wouldn’t believe him at all
+He said he thought
+That I didn’t love him
+That I didn’t love him anymore
+
+But he was wrong
+He was wrong
+I love him
+Now he’s gone
+He was wrong
+He was wrong
+I love him
+Now he’s gone
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 He was wrong

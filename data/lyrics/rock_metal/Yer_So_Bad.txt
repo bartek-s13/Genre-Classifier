@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My sister got lucky, married a yuppie
 Took him for all he was worth
 Now she's a swinger dating a singer
@@ -20,4 +21,28 @@ Oh, but not me baby, I've got you to save me
 Oh, yer so bad, best thing I ever had
 In a world gone mad, yer so bad
 Oh, yer so bad, best thing I ever had
+=======
+My sister got lucky, married a yuppie
+Took him for all he was worth
+Now she's a swinger dating a singer
+I can't decide which is worse
+
+But not me baby, I've got you to save me
+Oh, yer so bad, best thing I ever had
+In a world gone mad, yer so bad
+
+My sister's ex-husband can't get no lovin'
+Walks around dog-faced and hurt
+Now he's got nothin', head in the oven
+I can't decide which is worse
+
+But not me baby, I've got you to save me
+Oh, yer so bad, best thing I ever had
+In a world gone mad, yer so bad
+
+Oh, but not me baby, I've got you to save me
+Oh, yer so bad, best thing I ever had
+In a world gone mad, yer so bad
+Oh, yer so bad, best thing I ever had
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In a world gone mad, yer so bad

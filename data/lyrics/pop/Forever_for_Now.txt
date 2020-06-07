@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hush, hush
 Don't say a word
 The faint cries can hardly be heard
@@ -26,4 +27,34 @@ Break like a wave on the run
 Hard to be sure
 I can’t say anymore
 I just know that it won't last
+=======
+Hush, hush
+Don't say a word
+The faint cries can hardly be heard
+A storm lies beyond the horizon, barely
+Don’t stop we'll sleep through the days
+Like children that can’t stay awake
+Stay here untainted and safe...
+
+Stay while the melody’s sung
+Break like a wave on the run
+Hard to be sure
+I can’t say anymore
+I just know
+That it won’t last forever
+
+Rush, rush
+Take me away
+Like hourglass sand that never escapes
+Stars are born and then die, but carefree
+A slow clock that ticks without time
+And watched by an ocean of eyes
+Ending, ascending and then...
+
+Stay while the melody’s sung
+Break like a wave on the run
+Hard to be sure
+I can’t say anymore
+I just know that it won't last
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I just know that it won’t last forever...

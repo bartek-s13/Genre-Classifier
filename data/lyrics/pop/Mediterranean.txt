@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 See, up the sky
 There, we'll be so high
 Feel, the sun in your eyes
@@ -20,4 +21,28 @@ Into the light
 All is so bright
 Bright
 All is so bright
+=======
+See, up the sky
+There, we'll be so high
+Feel, the sun in your eyes
+Yes, all is so bright
+Oh I'm flying towards the sun
+I am dying, right into the light
+Be, a butterfly
+Dare, we can defy
+Free, we'll touch the sky
+Yes, all is so bright
+Oh I'm flying towards the sun
+I am dying, right into the light
+Oh I'm flying towards the sun
+All is so bright
+I am dying, right into the light
+All is so bright
+Towards the sun
+All is so bright
+Into the light
+All is so bright
+Bright
+All is so bright
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Bright

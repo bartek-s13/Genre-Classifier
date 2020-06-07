@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tired and lost
 No one to trust
 Who is there to give the push
@@ -41,4 +42,49 @@ You're blind as the Ancient Kingdom
 
 
 Relive the ages of the moon
+=======
+Tired and lost
+No one to trust
+Who is there to give the push
+All I have learned
+Straighten the curve
+Like a circle to return
+
+The long embrace
+The smell of dirt and roses
+Under the sun
+No sign of bread or water
+I fall asleep under blankets of stars
+
+Ice hit you cold
+Heat of surprise
+Bending mind can't realize
+Faith is in me
+End I can see
+Tears are strong as ten thousand tongues
+
+My sweet mirage
+I bathe in sacred waters
+I kiss the Sky
+Floating in Sultans daughters
+Memories of loved ones only passing me by
+Memories of loved ones are passing me by
+
+Oceans of sand and rust
+Give way and yield my wake
+Oceans of sand and rust
+Give way and yield my wake
+
+They're waiting inside
+They're waiting to wash your eyes out
+Their hands are alive
+Alive with a fervent anger
+Your feet have been tied and your tongue in your hand
+Death of a thousand ravens
+You're down on your knees
+You're blind as the Ancient Kingdom
+
+
+Relive the ages of the moon
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Reeling the water close to you

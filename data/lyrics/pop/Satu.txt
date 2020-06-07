@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aku ini adalah dirimu
 Cinta ini adalah cintamu
 Aku ini adalah dirimu
@@ -31,4 +32,39 @@ Yang selalu kupuja
 Ku sebut namamu
 Di setiap hembusan napasku
 Kusebut namamu
+=======
+Aku ini adalah dirimu
+Cinta ini adalah cintamu
+Aku ini adalah dirimu
+Jiwa ini adalah jiwamu
+Rindu ini adalah rindumu
+Darah ini adalah darahmu
+
+Tak ada yang lain selain dirimu
+Yang selalu kupuja
+Ku sebut namamu
+Di setiap hembusan napasku
+Kusebut namamu
+Kusebut namamu
+
+Dengan tanganmu aku menyentuh
+Dengan kakimu aku berjalan
+Dengan matamu ku memandang
+Dengan telingamu ku mendengar
+Dengan lidahmu aku bicara
+Dengan hatimu aku merasa
+
+Tak ada yang lain selain dirimu
+Yang selalu kupuja
+Ku sebut namamu
+Di setiap hembusan napasku
+Kusebut namamu
+Kusebut namamu
+
+Tak ada yang lain selain dirimu
+Yang selalu kupuja
+Ku sebut namamu
+Di setiap hembusan napasku
+Kusebut namamu
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Kusebut namamu

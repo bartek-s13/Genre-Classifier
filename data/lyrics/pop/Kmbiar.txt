@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Letra de "Kmbiar" ft. Caloncho
 
 Estoy hecha de afán, estoy hecha de miedo
@@ -30,4 +31,38 @@ Ahhhh...
 (Ahhhh...)
 (Sé que no vas a cambiar)
 (Sé que no vas a cambiar)
+=======
+Letra de "Kmbiar" ft. Caloncho
+
+Estoy hecha de afán, estoy hecha de miedo
+En la oscuridad veo lo que no debo
+Y me digo que voy a cambiar
+Me digo que voy a cambiar
+Y no puedo
+Yo ya te regale hasta lo que no tengo
+No me pidas que no me tome todo enserio
+Te dije que voy a cambiar
+Yo te dije que voy a cambiar
+Y no debo
+
+Contigo me trague todo el planeta entero
+Y lo llevo atorado en medio de mi cuello
+Y yo sé que no vas a cambiar
+Sé que no vas a cambiar
+Y no quiero
+Sé que no vas a cambiar (Sé que no voy a cambiar)
+Sé que no vas a cambiar (Sé que no voy a cambiar)
+Ahhhh...
+(Sé que no voy a cambiar)
+(Sé que no voy a cambiar)
+(Ahhhh...)
+(Y yo sé que no vas a cambiar)
+(Sé que no vas a cambiar)
+(Ahhhh...)
+(Y yo sé que no vas a cambiar)
+(Sé que no vas a cambiar)
+(Ahhhh...)
+(Sé que no vas a cambiar)
+(Sé que no vas a cambiar)
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (Ahhhh...)

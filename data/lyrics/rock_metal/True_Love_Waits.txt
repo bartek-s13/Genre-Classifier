@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I’ll drown my beliefs
 To have your babies
 I’ll dress like your niece
@@ -19,4 +20,27 @@ In haunted attics
 And true love lives
 On lollipops and crisps
 Just don’t leave
+=======
+I’ll drown my beliefs
+To have your babies
+I’ll dress like your niece
+And wash your swollen feet
+
+Just don’t leave
+Don’t leave
+
+I’m not living
+I’m just killing time
+Your tiny hands
+Your crazy kitten smile
+
+Just don’t leave
+Don’t leave
+
+And true love waits
+In haunted attics
+And true love lives
+On lollipops and crisps
+Just don’t leave
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Don’t leave

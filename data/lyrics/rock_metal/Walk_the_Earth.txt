@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sunshine is a metaphoric ride
 Caught in the middle of a lightning strike
 We're all floating along changing with the tides
@@ -45,4 +46,53 @@ Like champions
 And we walk the Earth
 With our heads held high
 For the life we want
+=======
+Sunshine is a metaphoric ride
+Caught in the middle of a lightning strike
+We're all floating along changing with the tides
+On the front lines in the back of our minds
+
+With a battle song
+That will lead us on
+
+And we walk the Earth
+With our heads held high
+For the life we want
+Yeah we've gotta fight
+Yeah we walk the Earth
+Like champions
+With heart and soul
+(Like champions)
+
+Our conscious weighs on all of our minds
+So we lay our hearts right on the line
+We keep pushing on, holding steady and strong
+Knocking 'em down just to make a home
+
+Like a battle hymn, yeah
+That will lead us on
+
+And we walk the Earth
+With our heads held high
+For the life we want
+Yeah we've gotta fight
+Yeah we walk the Earth
+Like champions
+With heart and soul
+(Like champions)
+
+
+And we walk the Earth
+With our heads held high
+For the life we want
+Yeah we've gotta fight
+Yeah we walk the Earth
+Like champions
+With heart and soul
+Like champions
+
+And we walk the Earth
+With our heads held high
+For the life we want
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Like champions

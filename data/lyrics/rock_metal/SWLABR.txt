@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Coming to me in the morning, leaving me at night
 Coming to me in the morning, leaving me alone
 You've got that rainbow feel
@@ -24,4 +25,32 @@ Many fantastic colors, makes me feel so good
 You've got that pure feel
 Such good responses
 Got that rainbow feel
+=======
+Coming to me in the morning, leaving me at night
+Coming to me in the morning, leaving me alone
+You've got that rainbow feel
+But the rainbow has a beard
+
+Running to me a-cryin', when he throws you out
+Running to me a-cryin', on your own again
+You've got that pure feel
+Such good responses
+But the picture has a mustache
+
+You're comin' to me
+With that soulful look on your face
+Coming lookin' like you've
+Never ever done one wrong thing
+
+
+You're comin' to me
+With that soulful look on your face
+You're comin' lookin' like you've
+Never ever done one wrong thing
+So many fantastic colors, I feel in a wonderland
+Many fantastic colors, makes me feel so good
+You've got that pure feel
+Such good responses
+Got that rainbow feel
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But the rainbow has a beard

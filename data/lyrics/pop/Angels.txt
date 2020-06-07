@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I sit and wait, does an angel contemplate my fate?
 And do they know the places where we go when we're grey and old?
 Cause I have been told that salvation lets their wings unfold
@@ -28,4 +29,36 @@ A lot of love and affection, whether I'm right or wrong
 And down the waterfall, wherever it may take me
 I know that life won't break me
 When I come to call, she won't forsake me
+=======
+I sit and wait, does an angel contemplate my fate?
+And do they know the places where we go when we're grey and old?
+Cause I have been told that salvation lets their wings unfold
+So when I'm lying in my bed, thoughts running through my head
+And I feel that love is dead, I'm loving angels instead
+
+And through it all, she offers me protection
+A lot of love and affection, whether I'm right or wrong
+And down the waterfall, wherever it may take me
+I know that life won't break me
+When I come to call, she won't forsake me
+I'm loving angels instead
+
+When I'm feeling weak and my pain walks down a one-way street
+I look above and I know I'll always be blessed with love
+And as the feeling grows, she breathes flesh to my bones
+And when love is dead, I'm loving angels instead
+
+And through it all she offers me protection
+A lot of love and affection, whether I'm right or wrong
+And down the waterfall, wherever it may take me
+I know that life won't break me
+When I come to call, she won't forsake me
+
+I'm loving angels instead
+And through it all, she offers me protection
+A lot of love and affection, whether I'm right or wrong
+And down the waterfall, wherever it may take me
+I know that life won't break me
+When I come to call, she won't forsake me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I'm loving angels instead

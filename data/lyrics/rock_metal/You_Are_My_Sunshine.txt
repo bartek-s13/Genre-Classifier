@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The other night dear, as I lay sleeping
 I dreamed I held you in my arms
 When I awoke, dear, I was mistaken
@@ -16,4 +17,24 @@ You have shattered all of my dreams
 You are my sunshine, my only sunshine
 You make me happy when skies are gray
 You'll never know, dear, how much I love you
+=======
+The other night dear, as I lay sleeping
+I dreamed I held you in my arms
+When I awoke, dear, I was mistaken
+So I bowed my head and I cried
+
+You are my sunshine, my only sunshine
+You make me happy when skies are gray
+You'll never know, dear, how much I love you
+Please don't take my sunshine away
+
+I've always loved you and made you happy
+And nothing else could come between
+But now you've left me to love another
+You have shattered all of my dreams
+
+You are my sunshine, my only sunshine
+You make me happy when skies are gray
+You'll never know, dear, how much I love you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Please don't take my sunshine away

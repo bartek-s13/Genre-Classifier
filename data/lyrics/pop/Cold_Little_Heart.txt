@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Did you ever want it?
 Did you want it bad?
 Ohhh, my
@@ -54,4 +55,62 @@ But since I know who I am
 I'm probably wrong
 Maybe this time I can go far
 But thinking about where I've been
+=======
+Did you ever want it?
+Did you want it bad?
+Ohhh, my
+It tears me apart
+Did you ever fight it?
+All of the pain
+So much pride
+Running through my veins
+
+Bleeding, I'm bleeding
+My cold little heart
+Oh I, I can't stand myself
+
+And I know
+In my heart, in this cold heart
+I can live or I can die
+I believe if I just try
+You believe in you and I
+In you and I
+In you and I
+In you and I
+
+Did you ever notice
+I've been ashamed
+All my life
+I've been playing games
+We can try and hide it
+It's all the same
+I've been losing you
+One day at a time
+Bleeding, I'm bleeding
+My cold little heart
+Oh I, I can't stand myself
+
+And I know
+In my heart, in this cold heart
+I can live or I can die
+I believe if I just try
+You believe in you and I
+In my heart, in this cold heart
+I can live or I can die
+I believe if I just try
+You believe in you and I
+In you and I
+In you and I
+In you and I
+In you and I
+In you and I
+In you and I
+In you and I
+
+Maybe this time I can be strong
+But since I know who I am
+I'm probably wrong
+Maybe this time I can go far
+But thinking about where I've been
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Ain't helping me start

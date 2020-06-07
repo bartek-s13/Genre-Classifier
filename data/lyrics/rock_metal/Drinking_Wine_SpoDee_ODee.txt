@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Down in New Orleans where everything's fine all them cats is drinkin' that wine
 Drinkin' that mess is their delight when they get drunk start singin' all night
 Drinkin' wine spo-dee-o-dee drinkin' wine wine spo-dee-o-dee drinkin' wine
@@ -8,4 +9,16 @@ When you buy black beer now you're doin' things smart
 Drinkin' wine spo-dee-o-dee
 Down on Rempart Street in Willie's den he would sell but a gill of gin
 One cat wanted a bottle of wine he hooked that cat for a dollar and a dime
+=======
+Down in New Orleans where everything's fine all them cats is drinkin' that wine
+Drinkin' that mess is their delight when they get drunk start singin' all night
+Drinkin' wine spo-dee-o-dee drinkin' wine wine spo-dee-o-dee drinkin' wine
+Wine spo-dee-o-dee drinkin' wine pass that bottle to me
+Now I've got a nickel have you got a dime let's get together and get a little wine
+Some buys a gallon some buys a quart
+When you buy black beer now you're doin' things smart
+Drinkin' wine spo-dee-o-dee
+Down on Rempart Street in Willie's den he would sell but a gill of gin
+One cat wanted a bottle of wine he hooked that cat for a dollar and a dime
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Drinkin' wine spo-dee-o-dee

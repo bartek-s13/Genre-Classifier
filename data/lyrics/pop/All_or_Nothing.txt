@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 All or nothing
 You know what you're doing, but the clock is ticking
 Give it your best and then you're onto something
@@ -29,4 +30,37 @@ All or nothing
 If you go all in, you got a lot to lose, my friend
 All or nothing
 If you say "all in", you don't get to choose again
+=======
+All or nothing
+You know what you're doing, but the clock is ticking
+Give it your best and then you're onto something
+And keeps on getting closer, closer
+All or nothing
+Everything's silent and your head just sweating
+Something not sure except the way you're heading
+You know it's getting closer, closer
+
+If you go all in, you got a lot to lose, my friend
+All or nothing
+If you say "all in", you don't get to choose again
+All or nothing
+
+All or nothing
+Take a step forward and you know she's looking
+Take a deep breath before you make it happen
+Keeps on getting closer, closer
+
+If you go all in, you got a lot to lose, my friend
+All or nothing
+If you say "all in", you don't get to choose again
+All or nothing
+All or nothing
+If you go all in, you got a lot to lose, my friend
+All or nothing
+If you say "all in", you don't get to choose again
+All or nothing
+If you go all in, you got a lot to lose, my friend
+All or nothing
+If you say "all in", you don't get to choose again
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 All or nothing

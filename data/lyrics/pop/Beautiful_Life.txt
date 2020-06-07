@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Anywhere you are and you'll go, I follow
 Mountain high and river low, I follow
 Take me to the bottom, drive me in low
@@ -20,4 +21,28 @@ Beautiful, beautiful life
 Beautiful, beautiful life
 With you
 
+=======
+Anywhere you are and you'll go, I follow
+Mountain high and river low, I follow
+Take me to the bottom, drive me in low
+Wherever you go
+Mountain high and river low, I follow
+
+It's a beautiful, beautiful life
+Beautiful, beautiful life
+Beautiful, beautiful life
+With you
+
+Anywhere you are and you'll go, I follow
+Mountain high and river low, I follow
+Take me to the bottom, drive me in low
+Wherever you go
+Mountain high and river low, I follow
+
+Beautiful, beautiful life
+Beautiful, beautiful life
+Beautiful, beautiful life
+With you
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Anywhere she wants to go

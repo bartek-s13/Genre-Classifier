@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 So quiet I can't define
 What's swimming inside my mind
 I've been here before my darling
@@ -15,4 +16,23 @@ We've been here before my darling
 
 And now that you're mine
 I'll be there on time
+=======
+So quiet I can't define
+What's swimming inside my mind
+I've been here before my darling
+No worries when I'm with you
+No raindrops within my view
+I've been here before my darling
+
+And now that you're mine
+I'll be there on time
+You'll be on my mind
+
+Still dancing with my sweetest heart
+Romancing in a distant park
+We've been here before my darling
+
+And now that you're mine
+I'll be there on time
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You'll be on my mind

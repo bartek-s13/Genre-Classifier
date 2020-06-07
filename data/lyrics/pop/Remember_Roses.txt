@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I remember roses in the garden
 And my mother walking with her tray
 I was washing our car with my brother
@@ -43,4 +44,51 @@ Wanted to feel inspired
 From the voices I heard in my head
 I was whistling to myself
 A little mellow and dark melody
+=======
+I remember roses in the garden
+And my mother walking with her tray
+I was washing our car with my brother
+It was a lazy sunny Saturday
+
+From our house, dear Edith sang
+And I felt she's singing to me
+And at that moment I knew
+
+I was feeling tired
+From the silence and the daily trends
+Wanted to feel inspired
+From the voices I heard in my head
+I was whistling to myself
+A little mellow and dark melody
+And I wished to be heard
+
+Sitting on the shoulders of my father
+We were listening to a classic tune
+He'd hold me a mirror to his mother
+And in the water with the light of the moon
+
+I was looking at that young girl
+And I felt she's singing to me
+And at that moment I knew
+
+I was feeling tired
+From the silence and the daily trends
+Wanted to feel inspired
+From the voices I heard in my head
+I was whistling to myself
+A little mellow and dark melody
+And I wished to be heard
+
+I was feeling tired
+From the silence and the daily trends
+Wanted to feel inspired
+From the voices I heard in my head
+
+I was feeling tired
+From the silence and the daily trends
+Wanted to feel inspired
+From the voices I heard in my head
+I was whistling to myself
+A little mellow and dark melody
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And I wished to be heard

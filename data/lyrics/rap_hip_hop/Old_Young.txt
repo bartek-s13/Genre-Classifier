@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You seem lost
 Which looks different than someone who is wandering
 Feel like I've seen it all at least once
@@ -71,4 +72,79 @@ I'm broke, but I'm rich
 I'm old in my soul, young like I'm royalish
 Broken like bones but rich like the soil is
 My how I've grown, watch me, I'm minding my tone
+=======
+You seem lost
+Which looks different than someone who is wandering
+Feel like I've seen it all at least once
+Been on this world before
+This is not me getting on, this is just me getting on again
+
+I learned some things bout lettin' go
+I learned to swing the metronome
+I'll tell ya time is not money
+I know, so much it's getting old
+I learned you gotta stretch to grow
+I heard you talk the rest is show
+Can't tell you all they jocked from me
+I turn around invent some more
+I turned 19, I turned the page
+I left the stage, I left my home
+Nobody prayed to god for me
+I heard the call just checked my phone
+
+I'm old, I'm not new to this
+Young, I keep 'em glued to this
+Broke, but I'll be stupid rich
+Broke, but I'll be stupid rich
+I'm old, but I'm young
+I'm broke, but I'm rich
+I'm old, but I'm young
+I'm broke, but I'm rich
+I'm old, but I'm young
+I'm broke, but I'm rich
+I'm old, but I'm young
+I'm broke, but I'm rich
+
+I'm old in my soul, young like I'm royalish
+Broken like bones but rich like the soil is
+My how I've grown, watch me, I'm minding my tone
+You lost me I'm finding my zone, I did this all on my own
+
+There there sweetheart, I know times seem hard
+We're very close, but like old leaning trees we know
+That light beats dark
+I left pages of your journal in my dorm room drawers
+I learned I can't draw solace from ink stained parchment no more, I
+Got sick of sleepin' on floors
+I gotta go get my own I'm sick of borrowing yours, I
+
+Young, but I'm tired, I feel old, 'cause I know more
+I'ma get this dough, what you think I just went broke for?
+People that I know, think they know themselves they're so sure
+22 years old with a life they'd sell they souls for
+Got it on my own, cracked the code
+Stayin' on my toes, like I'm stationed in the zone
+Can't pick up my phone, only distant 'cause I'm close
+You'll have what it takes when you've given it the most
+Kept goin', failed, fell hard
+Know how I'm put together, 'cause I picked myself apart
+(I'm old, I'm old, I'm old)
+(There there sweetheart)
+I'm old, but I'm young
+I'm broke, but I'm rich
+(I know times seem hard)
+I'm old, but I'm young
+I'm broke, but I'm rich
+(We're very close)
+I'm old, but I'm young
+I'm broke, but I'm rich
+(But like old leaning trees we know)
+I'm old, but I'm young
+I'm broke, but I'm rich
+(That light beats dark)
+
+I'm old in my soul, young like I'm royalish
+Broken like bones but rich like the soil is
+My how I've grown, watch me, I'm minding my tone
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You lost me I'm finding my zone, I did this all on my own

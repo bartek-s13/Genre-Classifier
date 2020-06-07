@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 S³owo suka jest przereklamowane
 Od dzisiaj zast¹piamy je s³owem kwiatuszek
 
@@ -31,4 +32,39 @@ Popijam wodê wod¹, cud, z niczego rozjeba³em
 Latam se, du¿e bluzy, ona ma wydziabane uzi
 Kupi³em sobie nowe buty, chorujê, chorujê na zakupy
 Latam se, du¿e bluzy, ona ma wydziabane uzi
+=======
+S³owo suka jest przereklamowane
+Od dzisiaj zast¹piamy je s³owem kwiatuszek
+
+I cokolwiek mi opowiesz ja nie bêdê tu staæ
+Dla mnie ta muzyka to relaks i to s³ychaæ, widaæ
+Znowu jakieœ typy chc¹ siê poczuæ trochê jak ja
+Bo widz¹ jak te napalone szmaty chc¹ siê, aha
+Lece sobie znów na melan¿, ziomy pij¹ i ja
+Te typiarki siê tak klej¹, ktoœ je bêdzie dziœ bra³
+Popijam Red Bulla col¹, coœ jest kurwa nie tak
+Red Bull gada do mnie z col¹, oj, nie bêdê ju¿ bra³
+Mam marzenia, mam trochê do zrobienia
+Trzeba siê pozbieraæ, jebaæ wersy bez znaczenia
+Myœlê, nie mam przecie¿ nic do stracenia
+Na g³êbok¹ wodê rzucam siê, p³ywaæ nauczy³ melan¿ mnie
+
+Osiemdziesi¹te lata mood, wracam do was, niemal¿e Bóg
+Popijam wodê wod¹, cud, z niczego rozjeba³em
+Latam se, du¿e bluzy, ona ma wydziabane uzi
+Kupi³em sobie nowe buty, chorujê, chorujê na zakupy
+Latam se, du¿e bluzy, ona ma wydziabane uzi
+Kupi³em sobie nowe buty, chorujê, chorujê na zakupy
+Osiemdziesi¹te lata mood, wracam do was, niemal¿e Bóg
+Popijam wodê wod¹, cud, z niczego rozjeba³em
+Latam se, du¿e bluzy, ona ma wydziabane uzi
+Kupi³em sobie nowe buty, chorujê, chorujê na zakupy
+Latam se, du¿e bluzy, ona ma wydziabane uzi
+Kupi³em sobie nowe buty, chorujê, chorujê na zakupy
+Osiemdziesi¹te lata mood, wracam do was, niemal¿e Bóg
+Popijam wodê wod¹, cud, z niczego rozjeba³em
+Latam se, du¿e bluzy, ona ma wydziabane uzi
+Kupi³em sobie nowe buty, chorujê, chorujê na zakupy
+Latam se, du¿e bluzy, ona ma wydziabane uzi
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Kupi³em sobie nowe buty, chorujê, chorujê na zakupy

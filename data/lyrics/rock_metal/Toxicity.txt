@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Conversion, software version 7.0
 Looking at life through the eyes of a tire hub
 Eating seeds as a pastime activity
@@ -25,4 +26,33 @@ Somewhere between the sacred silence and sleep
 Disorder, disorder, disorder
 
 When I became the sun, I shone life into the man's hearts
+=======
+Conversion, software version 7.0
+Looking at life through the eyes of a tire hub
+Eating seeds as a pastime activity
+The toxicity of our city, of our city
+
+You, what do you own the world? How do you own disorder, disorder?
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+More wood for their fires, loud neighbors
+Flashlight reveries caught in the headlights of a truck
+Eating seeds as a pastime activity
+The toxicity of our city, of our city
+
+You, what do you own the world? How do you own disorder, disorder?
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+
+You, what do you own the world? How do you own disorder, disorder?
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+When I became the sun, I shone life into the man's hearts
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 When I became the sun, I shone life into the man's hearts

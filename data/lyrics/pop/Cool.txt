@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cool
 Yeah, can you tell me that I'm cool?
 I've always wanted to be cool
@@ -27,4 +28,35 @@ But I'm not that cool, that cool
 I just wanna be cool (cool, yeah, yeah)
 Yeah, can you tell me that I'm cool? (lalalala la la la, doo, doo)
 I've always wanted to be cool (cool, yeah, yeah)
+=======
+Cool
+Yeah, can you tell me that I'm cool?
+I've always wanted to be cool
+But I'm not that cool, that cool
+I just wanna be cool (cool, yeah, yeah)
+Yeah, can you tell me that I'm cool? (lalalala la la la, doo, doo)
+I've always wanted to be cool (cool, yeah, yeah)
+But I'm not that cool, that cool (that cool)
+
+I'm feelin' pretty good (feelin' pretty good)
+Life's not bad right now
+I can't complain
+So I think I might go to this party
+That this girl invited me to (oh, oh)
+And so I get dressed
+I look at myself in the mirror
+And I say, "Oh no"
+Is that what I really look like?
+I don't wanna be me
+But that's only half of the time
+'Cause inside I know I'm cool, so cool
+
+I just wanna be cool
+Yeah, can you tell me that I'm cool?
+I've always wanted to be cool
+But I'm not that cool, that cool
+I just wanna be cool (cool, yeah, yeah)
+Yeah, can you tell me that I'm cool? (lalalala la la la, doo, doo)
+I've always wanted to be cool (cool, yeah, yeah)
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I'm not that cool, that cool (that cool)

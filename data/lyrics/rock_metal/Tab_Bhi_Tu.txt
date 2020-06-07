@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Meri rooh karegi fariyaad
 Meri saansein kahin kho jaayengi
 Tab bhi tu mere sang rehna
@@ -31,4 +32,39 @@ Meri rooh karegi fariyaad
 Meri saansein kahin kho jaayengi
 Tab bhi tu mere sang rehna
 Tab bhi tu mere sang rehna
+=======
+Meri rooh karegi fariyaad
+Meri saansein kahin kho jaayengi
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Jab raakh banega ye sooraj
+Aur dhoop dhuaan ho jaayegi
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Sajde ki tarah phir aankhein jhuki
+Phir palkein namaazi hui
+Tere zikr mein thi
+Kuch aisi nami
+Soohi saansein bhi taazi hui
+Jab umrr ki aawara baarish
+Sab rang mere dho jaayegi
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Taaveez meri mutthi mein
+Taaveez mein hai tasveer teri
+Uljhi si laqeerein haath mein hai
+Tu suljhaye taqdeer meri (x2)
+Jab waqt karega chhal mujhse
+Taqdeer khafa ho jayegi
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+Meri rooh karegi fariyaad
+Meri saansein kahin kho jaayengi
+Tab bhi tu mere sang rehna
+Tab bhi tu mere sang rehna
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Tab bhi tu mere sang rehna

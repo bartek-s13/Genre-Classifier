@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In an age of darkness light appears
 And it wards away the ancient fears
 March to the anthem of the heart
@@ -25,4 +26,33 @@ And will we know when the end is near?
 And as we came into the clear
 To find ourselves where we are here
 Who is the wiser to help us steer?
+=======
+In an age of darkness light appears
+And it wards away the ancient fears
+March to the anthem of the heart
+To a brand new day, a brand new start
+
+To wonderlands of ice and snow
+In the desert heat where nothing grows
+A tree of life in rain and sun
+To reach the sky it's just begun
+
+And as we came into the clear
+To find ourselves where we are here
+Who is the wiser to help us steer?
+And will we know when the end is near?
+
+A beauty lives in every soul
+The more you love the more you know
+They pass the torch and it still burns
+Once children then it's now our turn
+
+And as we came into the clear
+To find ourselves where we are here
+Who is the wiser to help us steer?
+And will we know when the end is near?
+And as we came into the clear
+To find ourselves where we are here
+Who is the wiser to help us steer?
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And will we know when the end is near?

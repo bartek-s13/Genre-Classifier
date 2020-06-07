@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aku memang salah
 Aku memang hina
 Maafkanlah untuk semua
@@ -30,4 +31,38 @@ Karna kau memang tak pantas
 Dan diriku ini tak tahu diri
 Kini ku sendiri lagi
 Tak ada yang menemani
+=======
+Aku memang salah
+Aku memang hina
+Maafkanlah untuk semua
+Apa yang terjadi
+Tak mungkin kembali
+Kini ku sendiri lagi
+
+Karena kau memang tak pantas
+Tersakiti lagi dan lagi
+Teriris lagi, tercabik lagi
+
+Aku memang salah
+Aku memang hina
+Maafkanlah untuk semua
+
+Karena kau memang tak pantas
+Tersakiti lagi dan lagi
+Karena kulewati batas
+Terlukai lagi dan lagi
+Dan aku tak bisa untuk mengakhiri
+Aku memang salah
+Aku memang hina
+Maafkanlah untuk semua
+
+Karena kau memang tak pantas
+Tersakiti lagi dan lagi
+Karena kulewati batas
+Terlukai lagi dan lagi
+Karna kau memang tak pantas
+Dan diriku ini tak tahu diri
+Kini ku sendiri lagi
+Tak ada yang menemani
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Dan jangan kembali lagi

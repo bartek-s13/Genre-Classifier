@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I got you moving
 I see you flashing
 I got you grooving
@@ -12,4 +13,20 @@ Please freeze it and keep it
 Forever, forever
 Can you feel love?
 Can you feel joy?
+=======
+I got you moving
+I see you flashing
+I got you grooving
+I make you dancing
+I dream of a disco
+We’re dancing and dancing
+The strobe lights make us
+Romancing, romancing
+With you in the disco
+I’m happy, I’m happy
+Please freeze it and keep it
+Forever, forever
+Can you feel love?
+Can you feel joy?
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Can you feel me?

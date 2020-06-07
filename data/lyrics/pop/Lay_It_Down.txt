@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 And I don't mind
 'Cause I speak my mind sometimes
 And I think it's time for me to try
@@ -34,4 +35,42 @@ Or who it's leading to
 'Cause it's you
 'Cause it's you
 'Cause it's you
+=======
+And I don't mind
+'Cause I speak my mind sometimes
+And I think it's time for me to try
+To lay the blame where blame lies
+
+I've been searching
+For whoever made me feel this way
+I'm not liking where it's leading
+Or who it's leading to
+
+'Cause it's you
+'Cause it's you
+'Cause it's you
+'Cause it's you
+
+Oh, so I said I'd speak the truth
+But I didn't think it'd be to you
+I guess I'm sorry I had to lay it down
+But no one gets to push me around
+
+I've been searching
+For whoever made me feel this way
+I'm not liking where it's leading
+Or who it's leading to
+'Cause it's you
+'Cause it's you
+'Cause it's you
+'Cause it's you
+
+
+'Cause it's you
+'Cause it's you
+'Cause it's you
+'Cause it's you
+'Cause it's you
+'Cause it's you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Cause it's you

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (No sad days in L.A.)
 (In L.A., in L.A.)
 No sad, no bad
@@ -25,4 +26,33 @@ No sad, no bad days in L.A. (In L.A., in L.A.)
 I'ma sail the seven seas just to separate myself from the fakes (Fakes)
 No sad, no bad days in L.A. (In L.A., in L.A.)
 So many days alone, on the road, it was all worth the wait
+=======
+(No sad days in L.A.)
+(In L.A., in L.A.)
+No sad, no bad
+No sad, no bad
+
+No sad, no bad days in L.A. (In L.A., in L.A.)
+I'ma sail the seven seas just to separate myself from the fakes (Fakes)
+No sad, no bad days in L.A. (In L.A., in L.A.)
+So many days alone on the road, it was all worth the wait (Worth the wait, worth the wait)
+No sad, no bad days in L.A. (No days, no days, no days, yeah)
+
+You was waiting (Yeah), I was chasing
+Stomping out the store, Gucci bracelet (Yeah, what? What?)
+No hesitation (What?), what's the hold up? (What?)
+Flyin' in a foreign, doing donuts (Skrrt)
+Watched my whole life change like a movie
+First day in L.A., a hundred groupies (What? What? What? Yeah)
+My shorty in the ends afraid to lose me (Lose me)
+They gon' say I changed but I never changed
+I just bought a chain, fuck a wedding ring (Yeah)
+Big body Range, pull up in a tank (Tank)
+Talking down my name, we gon' let it bang
+They gon' claim they gang, they ain't really gang (Gang)
+No sad, no bad days in L.A. (In L.A., in L.A.)
+I'ma sail the seven seas just to separate myself from the fakes (Fakes)
+No sad, no bad days in L.A. (In L.A., in L.A.)
+So many days alone, on the road, it was all worth the wait
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 No sad, no bad days in L.A. (In L.A., in L.A., in L.A.)

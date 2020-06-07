@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inside this fort there is nothing, nothing to do
 It's cold outside, it's warm in here
 I stare at you
@@ -23,4 +24,31 @@ That you might've hurt me too
 But I couldn't tell you that back then (yeah)
 Did I  ever even leave you behind?
 I didn't think you cared
+=======
+Inside this fort there is nothing, nothing to do
+It's cold outside, it's warm in here
+I stare at you
+And did you ever really lead me on?
+Well I can't read that stuff
+Oh, I can't read that stuff
+And did I ever really mean to leave you behind?
+Well I'm far away right now
+So far away by now
+I don't mind
+But you left me a letter and I don't know why
+I don't mind
+I almost forgot that I hope you're alright
+(You)
+(But you've)
+Done nothing wrong
+I can't blame it all on you
+(But you've)
+Done nothing wrong
+I can't blame it all
+Did it ever even cross your mind?
+That you might've hurt me too
+But I couldn't tell you that back then (yeah)
+Did I  ever even leave you behind?
+I didn't think you cared
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I'm sorry if I've been weird (whoa)

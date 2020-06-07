@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If I don't own up to myself
 Who will be waiting for me?
 Checking up on my mental health
@@ -28,4 +29,36 @@ Stay inside, call it home
 Stop your crying, just say so
 When you're here, call it home
 
+=======
+If I don't own up to myself
+Who will be waiting for me?
+Checking up on my mental health
+Writing that one great story
+
+'Cause why should I be so keen to try?
+
+It's alright if you don't go
+Stay inside, call it home
+
+Sit like a dog in Norway
+Scout out the time and place tonight
+Will they be waiting for me?
+There's probably better things to try
+
+But I'm wanting it more than I told you
+Can't sleep, won't sleep
+But I cannot wait any longer
+It's too late, too deep
+
+'Cause why should I be so keen to try?
+It's alright if you don't go
+Stay inside, call it home
+Stop your crying, just say so
+When you're here, call it home
+It's alright if you don't go
+Stay inside, call it home
+Stop your crying, just say so
+When you're here, call it home
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Call it home

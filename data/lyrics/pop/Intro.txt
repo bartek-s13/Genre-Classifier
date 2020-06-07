@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Wir gehen rein
 's mir egal, wir gehen rein!
 Wir gehen rein!
@@ -24,4 +25,32 @@ Weil du denkst Du könntest hier den Kurs bestimmen
 Ich will Buds und hab am Markt Interesse
 Und schieß dir paar Magaz in die Fresse
 Dein Versprechen ist nichts wert, wir wollen Bares ohne Blabla
+=======
+Wir gehen rein
+'s mir egal, wir gehen rein!
+Wir gehen rein!
+
+Ko-Komm wie Einbrecher rein
+Hab keine Erfahrung als ein Live-Act am Mic, nah
+I-Ich war viel zu beschäftigt
+Mein Clip ist weg auch wenn ich nichts verdien' mit den Credits
+Im Knast sitzen umgehen wir
+Ich komm mit einem Schlagschlüssel durch jede Tür
+Dein-Dein-Dein-Dein-Dein Fenster wird aufgestemmt
+Denn L.R. will auch ein Benz
+
+Was unterscheidet dich von uns?
+Unser Scheiß ist nicht für Kinder geeignet
+Gib mir ein Zeichen, ich komm rum
+Durch das Fenster wie bei Splinter Cell steigen
+
+Ich trete deine Tür ein und ich steche alles nieder
+Das macht mich zu 'nem besseren Verdiener
+Du-Du-Du-Du-Du - Ich bin durch im Sinn
+Mach, dass du Furcht empfindest
+Weil du denkst Du könntest hier den Kurs bestimmen
+Ich will Buds und hab am Markt Interesse
+Und schieß dir paar Magaz in die Fresse
+Dein Versprechen ist nichts wert, wir wollen Bares ohne Blabla
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Es gibt nichts zu klären, weil ich alles schon gesagt hab

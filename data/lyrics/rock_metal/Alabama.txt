@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oh, Alabama
 The devil fools
 With the best laid plan
@@ -38,4 +39,46 @@ I come to you and see all this ruin
 What are you doing, Alabama?
 You got the rest of the Union
 To help you along
+=======
+Oh, Alabama
+The devil fools
+With the best laid plan
+Swing low, Alabama
+You got the spare change
+You got to feel strange
+And now, the moment
+Is all that it meant
+
+Alabama
+You got the weight on your shoulders
+That's breaking your back
+Your Cadillac
+Has got a wheel in the ditch
+And a wheel on the track
+
+Oh, Alabama
+Banjos playing through the broken glass
+Windows, down in Alabama
+See the old folks
+Tied in white robes
+Hear the banjo
+Don't it take you down home?
+
+
+Alabama
+You got the weight on your shoulders
+That's breaking your back
+Your Cadillac
+Has got a wheel in the ditch
+And a wheel on the track
+
+Oh, Alabama
+Can I see you and shake your hand?
+Make friends down in Alabama
+I'm from a new land
+I come to you and see all this ruin
+What are you doing, Alabama?
+You got the rest of the Union
+To help you along
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 What's going wrong?

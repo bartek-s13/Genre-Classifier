@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "We are gathered here tonight
 To lay to rest Abigail Le'Fey
 Whom we now know was first born dead
@@ -7,4 +8,15 @@ One through each arm, hand, and knee
 And let the last of the seven be drawn through her mouth
 So that she may never arise and cause evil again
 Who will be the first?"
+=======
+"We are gathered here tonight
+To lay to rest Abigail Le'Fey
+Whom we now know was first born dead
+On the seventh day of July, 1777
+Abigail must be nailed to her coffin with seven silver spikes
+One through each arm, hand, and knee
+And let the last of the seven be drawn through her mouth
+So that she may never arise and cause evil again
+Who will be the first?"
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 "I, O'Brian of the Black Horsemen...."

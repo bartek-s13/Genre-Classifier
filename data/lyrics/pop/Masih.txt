@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rasa cinta yang dulu t'lah hilang
 Kini berseri kembali
 T'lah kau coba lupakan dirinya
@@ -43,4 +44,51 @@ Letakkanlah segala lara di pundakku ini
 (?)
 Ku 'kan s'lalu menjagamu
 Rasa cintaku padamu
+=======
+Rasa cinta yang dulu t'lah hilang
+Kini berseri kembali
+T'lah kau coba lupakan dirinya
+Hapus cerita lalu
+
+Dan lihatlah
+Dirimu bagai bunga di musim semi
+Yang tersenyum
+Menatap indahnya dunia
+Yang seiring menyambut
+Jawaban s'gala gundahmu
+
+Walau badai menghadang
+Ingatlah ku kan slalu setia menjagamu
+Berdua kita lewati jalan yang berliku tajam
+
+Setiap waktu wajahmu yang lugu
+Slalu menjadi langkahku
+Telah lama menanti dirimu
+Tempat ku kan berlabuh
+
+Cahaya hatiku
+Yakinlah kekal abadi selamanya
+Seperti bintang
+Yang sinarnya terangi s'luruh
+Ruang di jiwa
+Membawa kedamaian
+Walau badai menghadang
+Ingatlah ku kan slalu setia menjagamu
+Berdua kita lewati jalan yang berliku tajam
+Resah yang kau rasakan
+'Kan jadi bagian hidupku selamanya
+Letakkanlah segala lara di pundakku ini
+
+
+Walau badai menghadang
+Ingatlah ku kan slalu setia menjagamu
+Berdua kita lewati jalan yang berliku tajam
+Resah yang kau rasakan
+'Kan jadi bagian hidupku selamanya
+Letakkanlah segala lara di pundakku ini
+
+(?)
+Ku 'kan s'lalu menjagamu
+Rasa cintaku padamu
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (?)

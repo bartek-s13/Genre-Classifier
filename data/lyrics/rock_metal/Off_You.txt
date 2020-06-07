@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've laid this island sun a thousand times
 I'm on it but I'm going strange
 This island's chills and shell cover me
@@ -22,4 +23,30 @@ Yeah, we're movin'
 I land to sail, island sail
 Yeah, we're movin'
 Yeah, we're movin'
+=======
+I've laid this island sun a thousand times
+I'm on it but I'm going strange
+This island's chills and shell cover me
+With winded rock and skies I've yet to see
+I tried, I even sent in friends
+They did it as a favor, cause I'm not that way
+I am the autumn and the scarlet
+I am the make-up on your eyes
+I land to sail, island sail
+Yeah, we're movin', yeah, we're movin'
+This island's sun I've laid a thousand times
+Fortune me, fortune me
+Of all of my mistakes I think I lent you late
+Now every sad person seemed to come my way
+But I've never seen a starlet
+Or a riot or the violence of you
+I am the autumn and the scarlet
+I am the make-up on your eyes
+I land to sail, island sail
+Yeah, we're movin'
+Yeah, we're movin'
+I land to sail, island sail
+Yeah, we're movin'
+Yeah, we're movin'
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Yeah, we're movin'

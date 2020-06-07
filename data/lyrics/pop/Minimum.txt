@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How do I word this verse
 So much work at first, it goes
 How should I walk this earth?
@@ -31,4 +32,39 @@ Everything a bit low
 Tell'em what you know
 But all that you know, though
 The truth be told you need it more than you thought
+=======
+How do I word this verse
+So much work at first, it goes
+How should I walk this earth?
+So much worse the further, the further you go
+Go, take off a load
+Letting your wings unfold
+And keeping everything down to a minimum
+Everything a bit low
+Tell'em what you know
+But all that you know, though
+The truth be told you need it more than you thought
+But you're managing, that's how you evened out (out)
+Keep on walking that line, the fine line
+Between a wrong and a right
+You get yours, I'm gonna get mine
+Is that what you signed for?
+They're feeding you lies
+To keep you on their side
+It works every time
+What you got to live for
+Now you got the whole of the world at your feet
+And how much more can you pass yourself round?
+What you got to live for now
+You got the whole of the world at your feet
+But you're still shaking?
+You need to make up some ground
+Go, take off a load
+Letting your wings unfold
+And keeping everything down to a minimum
+Everything a bit low
+Tell'em what you know
+But all that you know, though
+The truth be told you need it more than you thought
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But you're managing, that's how you evened out (out)

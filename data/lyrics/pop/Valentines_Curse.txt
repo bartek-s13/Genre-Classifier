@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The taste of love is in your mouth
 Or might that be the taste of blood?
 Lay her down, in the arms that beg for her
@@ -7,4 +8,15 @@ A breath away from your heart
 You’d like to think you’ll be loved one day
 Lay her down, in the arms that beg for her
 Lay her down over my heart
+=======
+The taste of love is in your mouth
+Or might that be the taste of blood?
+Lay her down, in the arms that beg for her
+Lay her down over my heart
+Valentine, you curse me every year
+A breath away from your heart
+You’d like to think you’ll be loved one day
+Lay her down, in the arms that beg for her
+Lay her down over my heart
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Valentine, you curse me every year

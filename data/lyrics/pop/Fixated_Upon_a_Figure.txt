@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Your figure's gaze
 Reflection's burn
 Lips sewn silent
@@ -14,4 +15,22 @@ Reaching the end
 Screaming for more
 Spreading the wound
 Screaming for more
+=======
+Your figure's gaze
+Reflection's burn
+Lips sewn silent
+Sewn tightly shut
+Your figure's gaze
+My shadow's scorn
+Rip at the pieces
+Feeding the cut
+Spreading the wound
+Forget the pain
+Your figure's gaze
+Burning with passion
+Reaching the end
+Screaming for more
+Spreading the wound
+Screaming for more
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Fixated upon a figure

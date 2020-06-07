@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pod skór¹ czujê ciê
 I podœwiadomie wiem
 ¯e mamy tylko dziœ
@@ -43,4 +44,51 @@ Poza tym tygodniem
 Poza tym tygodniem
 Poza tym tygodniem
 Poza tym tygodniem
+=======
+Pod skór¹ czujê ciê
+I podœwiadomie wiem
+¯e mamy tylko dziœ
+Chcê znów dotkn¹æ ciê
+A gdy obudzisz siê
+Ju¿ nie bêdzie mnie
+Kolor moich s³ów
+Tak szybko znika, wiem
+Gdy ju¿ zapomnisz o mnie w pi¹tek
+Miliony wspomnieñ nie wyma¿ , spal
+Zmieñ w¹tek
+Igramy nieustannie z ogniem
+Czy mo¿e jest coœ dla nas wiêcej
+Poza tym tygodniem
+Poza tym tygodniem
+Poza tym tygodniem
+To po¿yczona noc
+I po¿yczone sny
+W myœlach czytasz mi
+Chcê byæ tam, gdzie ty
+A gdy obudzisz siê
+Dawno nie ma mnie
+Zniknê dziœ bez s³ów
+Czy tego w³aœnie chcesz
+Gdy ju¿ zapomnisz o mnie w pi¹tek
+Miliony wspomnieñ nie wyma¿, spal
+Zmieñ w¹tek
+Igramy nieustannie z ogniem
+Czy mo¿e jest coœ dla nas wiêcej
+Poza tym tygodniem
+Poza tym tygodniem
+Poza tym tygodniem
+Mam czas by z tym uporaæ siê
+Z uczuciem zmierzê siê
+Od s³ów uwolniê siê
+Gdy ju¿ zapomnisz o mnie w pi¹tek
+Miliony wspomnieñ nie wyma¿, spal
+Zmieñ w¹tek
+Igramy nieustannie z ogniem
+Czy mo¿e jest w nas coœ wiêcej
+Poza tym tygodniem
+Poza tym tygodniem
+Poza tym tygodniem
+Poza tym tygodniem
+Poza tym tygodniem
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Poza tym tygodniem

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I chyba rozumiesz ten stan, wychodzê zaczerpn¹æ powietrze (ej)
 Od tego ch³amu, co na barkach mam ta muzyka ratuje mi serce
 Robiê t¹ pengê za rogiem, dokopiê siê do mego z³ota
@@ -53,4 +54,61 @@ Mam to mogê
 Rêkê podam, serce oddam, choæ to wcale niemodne
 W œwiecie, dobra szukam wszêdzie, dla tych debili to drobne
 Jak dla mnie nie, dla mnie to ¿ycie szczêœliwe, prawdziwe, to ¿ycie prawdziwe
+=======
+I chyba rozumiesz ten stan, wychodzê zaczerpn¹æ powietrze (ej)
+Od tego ch³amu, co na barkach mam ta muzyka ratuje mi serce
+Robiê t¹ pengê za rogiem, dokopiê siê do mego z³ota
+A potem rodzinê za³o¿ê, na wakacjach sobie odpocznê te¿ trochê
+Mam to mogê
+Rêkê podam, serce oddam, choæ to wcale niemodne
+W œwiecie, dobra szukam wszêdzie, dla tych debili to drobne
+Jak dla mnie nie, dla mnie to ¿ycie szczêœliwe, prawdziwe, to ¿ycie prawdziwe
+Gdzie chwile to chwilê, nie kurwa sekundy, minuty liczby zawi³e
+
+Zapomnia³em ju¿, jak to by³o marzyæ
+Choæ wspominam chwile, gdy dziœ ju¿ mia³o siê zdarzyæ
+Pamiêtam ju¿, jak to jest marzyæ
+Bo wspomnia³em chwilê, która w³aœnie siê wydarzy
+
+I chyba rozumiesz ten stan, wychodzê zaczerpn¹æ powietrze (ej)
+Od tego ch³amu, co na barkach mam ta muzyka ratuje mi serce
+Robiê t¹ pengê za rogiem, dokopiê siê do mego z³ota
+A potem rodzinê za³o¿ê, na wakacje, sobie odpocznê te¿ trochê
+Mam to mogê
+Rêkê podam, serce oddam, choæ to wcale niemodne
+W œwiecie, dobra szukam wszêdzie, dla tych debili to drobne
+Jak dla mnie nie, dla mnie to ¿ycie szczêœliwe, prawdziwe, to ¿ycie prawdziwe
+Gdzie chwile to chwilê, nie kurwa sekundy, minuty liczby zawi³e
+
+Straci³eœ wiêcej ni¿ zyska³eœ (zyska³eœ)
+Próbujesz ju¿ tylko jakoœ iœæ dalej (iœæ dalej)
+Wiesz doskonale, czujesz to od razu kiedy tylko wstajesz
+Jak, oczy ton¹ w szale, ci¹gle tylko robisz wszystko, by to zabiæ stale
+I chyba to nic ci nie daje
+I chyba nie mo¿e byæ gorzej
+I choæbyœ tu wygra³ cokolwiek, a trochê wygra³eœ
+Dziœ myœli nie mog¹ byæ wolne
+Zobacz zawsze, kiedy mogê, coœ spierdolê
+A zobacz zawsze, kiedy coœ spierdolê, oni mówi¹ do mnie: O mój Bo¿e, zobacz jaki koleœ
+Mo¿e jeszcze bêdzie dobrze, chocia¿ tylko ja tak myœlê w te pochmurne noce
+Wybaczenie jest jak sen, bo nie przychodzi do mnie
+Wybacz, ¿e nie mog³em, bywa, ¿e ta si³a tu przychodzi trochê póŸniej
+W ¿y³ach p³ywa, ta nie¿ywa ju¿ muzyka, co mi wbi³a w serce ko³ek
+Jest ju¿ mroŸniej, siê nie bojê, ju¿ nie
+Gasn¹ œwiat³a z ostatnim szlugiem
+Wzi¹³em coœ tam, ile mog³em w sumie
+To chyba koniec, bo w koñcu to widzê
+Bo w koñcu to widzê, a to niemo¿liwe (a to niemo¿liwe)
+Jeszcze tylko trochê, jeszcze tylko chwilê
+Przejdê przez tê burzê i zapadnê w ciszê
+
+I chyba rozumiesz ten stan, wychodzê zaczerpn¹æ powietrze (ej)
+Od tego ch³amu, co na barkach mam ta muzyka ratuje mi serce
+Robiê t¹ pengê za rogiem, dokopiê siê do mego z³ota
+A potem rodzinê za³o¿ê, na wakacje, sobie odpocznê te¿ trochê
+Mam to mogê
+Rêkê podam, serce oddam, choæ to wcale niemodne
+W œwiecie, dobra szukam wszêdzie, dla tych debili to drobne
+Jak dla mnie nie, dla mnie to ¿ycie szczêœliwe, prawdziwe, to ¿ycie prawdziwe
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Gdzie chwile to chwilê, nie kurwa sekundy, minuty liczby zawi³e

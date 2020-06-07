@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I'm coming Lord, I'm on my way
 Worshiping at the altar of no one
 Can't remember which God is my wine
@@ -25,4 +26,33 @@ But the sun keeps burning my face
 When's my faith renewing today?
 I believe in something, I think
 Where's my faith
+=======
+I'm coming Lord, I'm on my way
+Worshiping at the altar of no one
+Can't remember which God is my wine
+Can't repent if I'm wrong; impartial
+Empty rituals, trinkets and fossils
+And now lord, I'm on my way (my way)
+Amen
+
+Peace ain't coming our way
+But the sun keeps burning my face
+Where's my faith?
+My blasphemy
+Keep singin', lord, I'm on my way
+...Home
+
+Floorboards and the ceilings are creaking
+And the roof is old and leaking
+But looking up high to the heavens
+How can we declare our independence
+From evolution and penance
+(our way)
+
+Sin ain't coming our way
+But the sun keeps burning my face
+When's my faith renewing today?
+I believe in something, I think
+Where's my faith
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 My monastery

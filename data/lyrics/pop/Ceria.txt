@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hari ini kudendangkan
 Lagu yang ingin kunyanyikan
 Terkenang semua kenangan
@@ -27,4 +28,35 @@ Berikan ku arti hidup ini
 Menari dan terus bernyanyi
 Mengikuti irama sang mentari
 Tertawa dan selalu ceria
+=======
+Hari ini kudendangkan
+Lagu yang ingin kunyanyikan
+Terkenang semua kenangan
+Yang t'lah kualami
+Ingin kubuka lembar baru
+Untuk meneruskan hidupku
+Tak mau lagi kesedihan
+Selimuti diriku
+Semua orang ingin bahagia
+Menjalani hidup di dunia ini
+Ingin kubukakan jawaban
+Misteri dan senang yang sejati
+Hari ini kudendangkan
+Lagu yang ingin kunyanyikan
+Terkenang semua kenangan
+Yang tlah kualami
+
+Menari dan terus bernyanyi
+Mengikuti irama sang mentari
+Tertawa dan selalu ceria
+Berikan ku arti hidup ini
+
+Menari dan terus bernyanyi
+Mengikuti irama sang mentari
+Tertawa dan selalu ceria
+Berikan ku arti hidup ini
+Menari dan terus bernyanyi
+Mengikuti irama sang mentari
+Tertawa dan selalu ceria
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Berikan ku arti hidup ini

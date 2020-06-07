@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gonna be you and me
 It's gonna be everything you
 You've ever dreamed
@@ -34,4 +35,42 @@ Eh, eh
 Have you gone off your love
 Eh, eh
 Have you gone off your love
+=======
+Gonna be you and me
+It's gonna be everything you
+You've ever dreamed
+It's gonna be who and me
+It's gonna be everything
+Gonna be you and me
+Gonna be everything you
+You've ever dreamed
+Gonna be who and me
+Gonna be everything...
+
+Eh, eh, eh
+Be, eh, eh
+Have you gone off your love
+Eh, eh
+Have you gone off your love
+Eh, eh
+Have you gone off your love
+Eh, eh
+Have you gone off your love
+
+It's gonna be you and me
+Gonna be everything you
+You've ever dreamed
+Gonna be you and me
+Gonna be everything...
+
+Eh, eh, eh
+Be, eh, eh
+Have you gone off your love
+Eh, eh
+Have you gone off your love
+Eh, eh
+Have you gone off your love
+Eh, eh
+Have you gone off your love
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Eh

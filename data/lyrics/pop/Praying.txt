@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've walked through hell, and I've battled the storms
 I know too well how, it feels when you fall
 
@@ -37,4 +38,45 @@ I keep praying
 I keep praying
 Cause time moves on and seasons change
 Nothing ever stays the same
+=======
+I've walked through hell, and I've battled the storms
+I know too well how, it feels when you fall
+
+I'm on this road, and I won't' lose my faith
+Pack it up, pack it up, 'cause I'm on my way
+For so long....
+
+I've been praying, for a brighter day
+I've been praying, trying to find my way
+Cause time moves on and seasons change
+Nothing ever stays the same
+Praying, I keep praying
+
+I've over due, just a little bit of luck
+I get the taste, but its never enough
+I'm on this road
+And I won't lose my faith
+Pack it up, pack it up cause I'm on my way
+For so long....
+
+I've been praying for a brighter day
+I've been praying trying to find my way
+Time moves on and seasons change
+Nothing ever stays the same
+Praying, I keep praying
+On my own, I search high and low
+Till I find what I've been looking for
+I'm in my deep end and I won't be beaten till I find what I've been praying for...
+
+I've been praying, for a brighter day
+I've been praying, trying to find my way
+Cause time moves on and seasons change
+Nothing ever stays the same
+Praying, I keep praying
+
+I keep praying
+I keep praying
+Cause time moves on and seasons change
+Nothing ever stays the same
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Praying, I keep praying

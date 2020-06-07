@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ku tak percaya
 Kau ada disini
 Menemaniku
@@ -41,4 +42,49 @@ Kau menjadi milikku
 Kau pernah menjadi
 Menjadi miliknya
 Namun salahkah aku
+=======
+Ku tak percaya
+Kau ada disini
+Menemaniku
+Di saat dia pergi
+Sungguh bahagia
+Kau ada disini
+Menghapus semua
+Sakit yang kurasa
+
+Mungkinkah kau merasakan
+Semua yang kupasrahkan
+Kenanglah, kasih
+
+Kusuka dirinya
+Mungkin aku sayang
+Namun apakah mungkin
+Kau menjadi milikku
+Kau pernah menjadi
+Menjadi miliknya
+Namun salahkah aku
+Bila kupendam rasa ini
+
+Mungkinkah kau merasakan
+Semua yang kupasrahkan
+Kenanglah, kasih
+
+Kusuka dirinya
+Mungkin aku sayang
+Namun apakah mungkin
+Kau menjadi milikku
+Kau pernah menjadi
+Menjadi miliknya
+Namun salahkah aku
+Bila kupendam rasa ini
+
+
+Kusuka dirinya
+Mungkin aku sayang
+Namun apakah mungkin
+Kau menjadi milikku
+Kau pernah menjadi
+Menjadi miliknya
+Namun salahkah aku
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Bila kupendam rasa ini

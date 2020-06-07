@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Usap air matamu
 Dekap erat tubuhku
 Tatap aku, sepuas hatimu
@@ -33,4 +34,41 @@ Nyanyikan lagu indah
 Sebelum kupergi dan mungkin tak kembali
 (Mungkinkah aku kembali)
 Nyanyikan lagu indah
+=======
+Usap air matamu
+Dekap erat tubuhku
+Tatap aku, sepuas hatimu
+
+Nikmati detik demi detik
+Yang mungkin kita tak bisa rasakan lagi
+Hirup aroma tubuhku
+Yang mungkin tak bisa lagi tenangkan gundahmu
+Gundahmu
+
+Nyanyikan lagu indah
+Sebelum kupergi dan mungkin tak kembali
+Nyanyikan lagu indah
+'Tuk melepasku pergi dan tak kembali
+
+Nikmati detik demi detik
+Yang mungkin kita tak bisa rasakan lagi
+Hirup aroma tubuhku
+Yang mungkin tak bisa lagi tenangkan gundahmu
+Gundahmu
+
+Nyanyikan lagu indah
+Sebelum kupergi dan mungkin tak kembali
+Nyanyikan lagu indah
+’Tuk melepasku pergi dan tak kembali
+
+Nyanyikan lagu indah
+Sebelum kupergi dan mungkin tak kembali
+Nyanyikan lagu indah
+'Tuk melepasku pergi
+Ku pergi
+Nyanyikan lagu indah
+Sebelum kupergi dan mungkin tak kembali
+(Mungkinkah aku kembali)
+Nyanyikan lagu indah
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Tuk melepasku pergi dan tak kembali

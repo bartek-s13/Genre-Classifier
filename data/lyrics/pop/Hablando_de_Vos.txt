@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ba, ba-ra-ra
 Da, da-ra-ra
 
@@ -63,4 +64,71 @@ Oh, no, no, no
 
 Hablando de vos
 Me vienen tantas ganas de amarte
+=======
+Ba, ba-ra-ra
+Da, da-ra-ra
+
+Hablando de vos
+Invento a cada instante melodías
+Así reemplazo las palabras
+Yo nunca fuí muy bueno en poesía
+Sólo estoy, sólo estoy
+Hablando de vos
+
+Hablando de vos
+Ojalá estuvieras pensando igual
+Con tantas ganas de volver, pero
+De volver hacia adelante no hacia atrás
+Hablando de vos
+
+Y ya me estaba olvidando, Ana
+De usar la vida para amar
+La energía la tenemos
+Pero a mí me falta un poco más
+
+Quizá con esta caída
+Consiga caminar
+Quizás con esta herida
+Lo nuestro aún se pueda salvar
+Quiero pegarme a vos
+Quiero mirarte recostado
+Quiero esa paz a tu lado
+Y mil escenas más
+Que a lo mejor
+Aún no has olvidado
+Oh, no, no, no
+
+Hablando de vos
+Las historias las recuerdo apretujadas
+Asfixiadas por mis lágrimas
+Es el temor de que lo poco se haga nada
+Y yo, y yo
+Hablando de vos
+
+Mmm, hablando de vos
+Escribo tanta cursilería
+Sabes, se terminó mi agenda
+Y aparezco en todos los días
+Hablando de vos
+
+Y ya me estaba olvidando, Ana
+De componer una canción de amor
+Será que necesito estar al borde
+Para escribir algo mejor
+
+Quizás con esta caída
+Consiga caminar
+Quizás con esta herida
+Lo nuestro aún se pueda salvar
+Quiero pegarme a vos
+Quiero mirarte recostado
+Quiero esa paz a tu lado
+Y mil escenas más
+Que a lo mejor
+Aún no has olvidado
+Oh, no, no, no
+
+Hablando de vos
+Me vienen tantas ganas de amarte
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Hablando de vos

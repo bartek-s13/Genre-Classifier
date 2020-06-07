@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Háblame
 Aunque no te escuche, háblame
 Mírame
@@ -38,4 +39,46 @@ Estamos todos
 Desunidos pero queremos amor
 Solo queremos amor
 Solo queremos amor
+=======
+Háblame
+Aunque no te escuche, háblame
+Mírame
+Aunque no me veas, mírame
+Porque yo te siento
+Desde el universo hasta el final
+Vivo eternamente en ti
+Háblame
+No me ignores, sólo háblame
+No me creas lejos
+Siénteme
+Estoy muy cerca, sólo siénteme
+Porque el día es corto
+Y la noche invita a olvidar
+Que fuimos uno y nadie más
+Pudo reemplazarnos
+Resistiré hasta que termine este dolor
+Perdonaré si ya no estás
+Somos lo que somos
+Estamos solos
+Y nos entendemos a lo lejos
+Somos los que somos
+Estamos todos
+Desunidos pero queremos amor
+Háblame
+No me ignores, sólo háblame
+Mírame
+Estoy muy cerca, sólo siénteme
+Porque el día es corto
+Y la noche invita a olvidar
+Que fuimos uno y nadie más
+Vivo eternamente en ti
+Somos lo que somos
+Estamos solos
+Y nos entendemos a lo lejos
+Somos los que somos
+Estamos todos
+Desunidos pero queremos amor
+Solo queremos amor
+Solo queremos amor
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Solo queremos amor

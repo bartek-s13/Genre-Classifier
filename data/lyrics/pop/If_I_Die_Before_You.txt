@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If I fall, would you take my car back?
 If I fail with the test, would you know what is best?
 Be my friend, be my love
@@ -24,4 +25,32 @@ You and me, diamond ring
 We would do our own thing
 Be my friend, be my love
 Follow me to get lost, all the time
+=======
+If I fall, would you take my car back?
+If I fail with the test, would you know what is best?
+Be my friend, be my love
+Follow me to get lost, all the time
+If I die, will you cry on my eye, little boy?
+We could live in a house with two kids
+You and me, diamond ring
+We would do our own thing
+Be my friend, be my love
+Follow me to get lost, all the time
+If I die, I will lay by your side
+Come here, don't think
+Don't stop, open up
+Believin' in a place where you feel free
+It's just another race for you and me
+Let's fall in love
+If I fall, would you take my car back?
+If I fail with the test, would you know what is best?
+Be my friend, be my love
+Follow me to get lost, all the time
+If I die, will you cry on my eye, little boy?
+We could live in a house with two kids
+You and me, diamond ring
+We would do our own thing
+Be my friend, be my love
+Follow me to get lost, all the time
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 If I die, I will lay by your side

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I heard the sirens call
 It made me feel alive
 Thought I could take it all
@@ -31,4 +32,39 @@ Time after time I refuse to surrender
 If I don't make it out alive, will you remember me?
 
 Remember me
+=======
+I heard the sirens call
+It made me feel alive
+Thought I could take it all
+Thought that I could survive
+You told me it was storming
+I knew I should've stayed
+But I ignored the warning
+Now I'm caught out in the rain
+
+Day after day I get lost in this ocean
+I kick and I scream and I drown in emotion
+Time after time I refuse to surrender
+If I don't make it out alive, will you remember me?
+Remember me
+
+And if I come undone
+What have I left behind
+Was there a smoking gun
+That made me lose my mind
+Or will it really matter
+If I check out this way
+Will you just end up hating
+The ghost of what I became
+Day after day I get lost in this ocean
+I kick and I scream and I drown in emotion
+Time after time I refuse to surrender
+If I don't make it out alive, will you remember me?
+Day after day I get lost in this ocean
+I kick and I scream and I drown in emotion
+Time after time I refuse to surrender
+If I don't make it out alive, will you remember me?
+
+Remember me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Remember me

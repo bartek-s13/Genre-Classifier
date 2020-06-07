@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In the early morning hours there's a din in the air;
 Mayhem's on the loose
 Stormtroopers comin', and you better be prepared
@@ -21,4 +22,29 @@ Raise your healthy voice
 Get ready. Stormtroopers comin'
 We'll be ready. Stormtroopers comin'
 Getting ready. Stormtroopers comin'
+=======
+In the early morning hours there's a din in the air;
+Mayhem's on the loose
+Stormtroopers comin', and you better be prepared
+Got no time to choose
+
+Get ready. Stormtroopers comin'
+
+Comin' up that street, jackboots steppin' high
+Got to make a stand
+Looking in your windows and listen to your phone
+Keep a gun in your hand
+
+Get ready. Stormtroopers comin'
+Get ready. Stormtroopers comin' around
+
+Two hundred down, and it's comin' 'round again
+Got no second choice
+Where's the justice and where's that law
+Raise your healthy voice
+
+Get ready. Stormtroopers comin'
+We'll be ready. Stormtroopers comin'
+Getting ready. Stormtroopers comin'
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Get ready. Stormtroopers comin'

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I took a ride down your street at night
 Just to feel like we haven't changed
 Never had the chance to change your mind
@@ -17,4 +18,25 @@ But you changed my mind, you changed my heart and
 I don't believe in magic, usually, usually (oooh)
 Because I don't believe in magic, usually
 But you changed my mind, you changed my heart and
+=======
+I took a ride down your street at night
+Just to feel like we haven't changed
+Never had the chance to change your mind
+Now someone else had took my place
+Hold the moment while it fades away
+And I, I wanna make I wanna make it through the other side
+And I, I wanna make I wanna make it through
+Oohh
+Another time, you pulled me down so hard
+I paint your body with my own, colour seeps into my bones again
+So where you gonna hide, anymore? Where you gonna hide?
+I swear it's only right if we go, if we go again
+And I, I wanna make I wanna make it through the other side
+And I, I wanna make I wanna make it through the other side
+Because I don't believe in magic, usually
+But you changed my mind, you changed my heart and
+I don't believe in magic, usually, usually (oooh)
+Because I don't believe in magic, usually
+But you changed my mind, you changed my heart and
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I don't believe in magic, usually, usually

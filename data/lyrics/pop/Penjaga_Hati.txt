@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tak pernah aku impikan
 Betapa beratnya meruntuhkan hatimu
 Lama sudah ku menunggu
@@ -23,4 +24,31 @@ Rasa cinta ini
 Kubayangkan bila engkau datang
 Kupeluk bahagia kan daku
 Kuserahkan seluruh hidupku
+=======
+Tak pernah aku impikan
+Betapa beratnya meruntuhkan hatimu
+Lama sudah ku menunggu
+Seutas harapan tulus cintamu
+Tak pernah aku impikan
+Betapa beratnya meruntuhkan hatimu
+Lama sudah ku menunggu
+Seutas harapan tulus cintamu
+Takkan kutemui wanita sepertimu
+Takkan kudapatkan
+Rasa cinta ini
+Kubayangkan bila engkau datang
+Kupeluk bahagia kan daku
+Kuserahkan seluruh hidupku
+Menjadi penjaga hatimu
+Sering kali kutemukan
+Mahkota bertabur intan permata
+Meski aku telah terbiasa
+Takkan kutemui wanita sepertimu
+Takkan kudapatkan
+Rasa cinta ini
+3x
+Kubayangkan bila engkau datang
+Kupeluk bahagia kan daku
+Kuserahkan seluruh hidupku
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Menjadi penjaga hatimu

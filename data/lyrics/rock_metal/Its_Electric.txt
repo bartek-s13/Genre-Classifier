@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I'm gonna be a rock 'n' roll star
 Gotta groove from night to day
 Gotta blow my honey jar, yeah
@@ -34,4 +35,42 @@ Playing in a rock 'n' roll show
 It's electric
 It's electric
 It's electric
+=======
+I'm gonna be a rock 'n' roll star
+Gotta groove from night to day
+Gotta blow my honey jar, yeah
+Gotta blow my blues away
+I'm gonna make a stand
+I'm gonna make a million
+I'm gonna make it with you
+I'm gonna be with my friend
+I'm gonna put you through
+It's electric
+It's electric
+It's electric
+It's electric
+I stop on red but I leave on amber
+Danger paves my way
+I'm gonna make it my friend
+Gonna make it today
+Gonna get the dust from my heels
+Down the highway I go
+Gonna get the stars from my brow
+Playing in a rock 'n' roll show
+It's electric
+It's electric
+It's electric
+It's electric
+I stop on red but I leave on amber
+Danger paves my way
+I'm gonna make it my friend
+Gonna make it today
+Gonna get the dust from my heels
+Down the highway I go
+Gonna get the stars from my brow
+Playing in a rock 'n' roll show
+It's electric
+It's electric
+It's electric
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 It's electric

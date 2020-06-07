@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I can see you in the morning when you go to school
 Don't forget your books, you know you've gotta learn the golden rule
 Teacher tells you stop your playing and get on with your work
@@ -22,4 +23,30 @@ Or maybe I'm just crazy, I don't know wrong from right
 But while I am still living, I've just got this to say
 It's always up to you if you wanna be that
 Wanna see that, wanna see it that way
+=======
+I can see you in the morning when you go to school
+Don't forget your books, you know you've gotta learn the golden rule
+Teacher tells you stop your playing and get on with your work
+And be like Johnnie-Too-Good, don't you know he never shirks
+He's coming along
+
+After school is over, you're playing in the park
+But don't be out too late, don't let it get too dark
+They tell you not to hang around and learn what life's about
+And grow up just like them, won't let you work it out
+And you're full of doubt
+
+
+Don't do this and don't do that
+What are they trying to do? (Make a good boy of you)
+And do they know where it's at?
+But don't criticize, they're old and wise
+Do as they tell you to, don't want the devil to
+Come and put out your eyes
+Maybe I'm mistaken expecting you to fight
+Or maybe I'm just crazy, I don't know wrong from right
+But while I am still living, I've just got this to say
+It's always up to you if you wanna be that
+Wanna see that, wanna see it that way
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You're coming along

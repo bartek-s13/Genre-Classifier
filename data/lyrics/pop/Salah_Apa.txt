@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yang terindah hanya bisa kukenang
 Saat kau dan aku terbalut cinta
 Yang terlihat kau tak seperti biasa
@@ -26,4 +27,34 @@ Salah apa kau membenciku
 Salah apa kau meninggalkanku
 Andai kutahu kau tak inginkan aku
 
+=======
+Yang terindah hanya bisa kukenang
+Saat kau dan aku terbalut cinta
+Yang terlihat kau tak seperti biasa
+Mungkin telah temukan pengganti diriku
+
+Semua yang telah kulakukan
+Tuk membuatmu selalu mencintai aku
+Apa yang telah kuberikan
+Tak sanggup lagi buatmu tetap milikku
+
+Salah apa kau membenciku
+Salah apa kau meninggalkanku
+Andai kutahu kau tak inginkan aku
+
+Yang terlihat kau tak seperti biasa
+Mungkin telah temukan pengganti diriku
+
+
+Apa yang telah kuberikan
+Tak sanggup lagi buatmu tetap milikku
+
+Salah apa kau membenciku
+Salah apa kau meninggalkanku
+Andai kutahu kau tak inginkan aku
+Salah apa kau membenciku
+Salah apa kau meninggalkanku
+Andai kutahu kau tak inginkan aku
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Andai kutahu kau tak inginkan aku

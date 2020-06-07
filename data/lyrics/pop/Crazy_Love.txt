@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I can hear her heart beat from a thousand miles
 When the heaven's open I can see her smile
 And when I come to her that's where I belong
@@ -27,4 +28,35 @@ Yet it makes me right down in my soul
 She give me love, love, love, love, crazy love
 She give me love, love, love, love, crazy love
 She give me love, love, love, love, crazy love
+=======
+I can hear her heart beat from a thousand miles
+When the heaven's open I can see her smile
+And when I come to her that's where I belong
+Yet I run into her like a river's song
+
+She give me love, love, love, love, crazy love
+She give me love, love, love, love, crazy love
+
+She's got a fine sense of humour when I'm feeling low down
+And when I come to her when the sun goes down
+She takes away my troubles, takes away my grief
+Takes away my heartache in the night like a thief
+
+She give me love, love, love, love, crazy love
+She give me love, love, love, love, crazy love
+
+Yes I need her in the daytime
+Yes I need her in the night
+Yes I want to throw my arms around her
+And hug her, hug and kiss her tight
+
+And when I'm returning from so far away
+She gives me some sweet lovin' brightens up my day
+And though it makes me mellow, yes it makes me whole
+Yet it makes me right down in my soul
+
+She give me love, love, love, love, crazy love
+She give me love, love, love, love, crazy love
+She give me love, love, love, love, crazy love
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 She give me love, love, love, love, crazy love

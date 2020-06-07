@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The reasons why, oh, I can't say
 I have to let you go, babe, and right away
 After what you did, I can't stay on
@@ -21,4 +22,29 @@ And I'll probably feel a whole lot better
 When you're gone
 Oh, when you're gone
 Oh, when you're gone
+=======
+The reasons why, oh, I can't say
+I have to let you go, babe, and right away
+After what you did, I can't stay on
+
+And I'll probably feel a whole lot better
+When you're gone
+
+Baby, for a long time, you had me believe
+That your love was all mine, and that's the way it would be
+But I didn't know, that you were putting me on
+
+And I'll probably feel a whole lot better
+When you're gone
+Oh, when you're gone
+
+Now I've got to say that it's not like before
+And I'm not gonna play your games anymore
+After what you did, I can't stay on
+
+And I'll probably feel a whole lot better
+When you're gone
+Oh, when you're gone
+Oh, when you're gone
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh, when you're gone

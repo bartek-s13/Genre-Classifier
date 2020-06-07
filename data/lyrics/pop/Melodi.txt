@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Engkau bagai melodi
 Yang selalu mengalun indah
 Engkau bagai darah yang
@@ -34,4 +35,42 @@ Pergi meninggalkanku
 Oooh, oh
 Ku ingin kau selalu ada
 Berjanjilah engkau tak akan pergi meninggalkanku
+=======
+Engkau bagai melodi
+Yang selalu mengalun indah
+Engkau bagai darah yang
+Mengalir di nadi ini
+
+Di dalam hatiku tiada yang lain
+Selain kamu yang aku cinta
+
+Saat ku kuat dan jatuh
+Ku ingin kau selalu ada
+Berjanjilah engkau tak akan
+Pergi meninggalkanku
+
+Mungkin ku tak selalu
+Membuatmu bahagia
+Namun ku kan mencoba
+'tuk selalu setia padamu
+
+Di dalam hatiku tiada yang lain
+Selain kamu yang aku cinta
+Saat ku kuat dan jatuh
+Ku ingin kau selalu ada
+Berjanjilah engkau tak akan
+Pergi meninggalkanku
+Saat ku kuat dan jatuh
+Ku ingin kau selalu ada
+Berjanjilah engkau tak akan
+Pergi meninggalkanku
+Saat ku kuat dan jatuh
+Ku ingin kau selalu ada
+Berjanjilah engkau tak akan
+Pergi meninggalkanku
+
+Oooh, oh
+Ku ingin kau selalu ada
+Berjanjilah engkau tak akan pergi meninggalkanku
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Pergi dari hidupku

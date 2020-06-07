@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Who's gonna tell you when
 It's too late?
 Who's gonna tell you things
@@ -33,4 +34,41 @@ Tonight?
 You can't go on
 Thinking nothing's wrong, oh no
 Who's gonna drive you home
+=======
+Who's gonna tell you when
+It's too late?
+Who's gonna tell you things
+Aren't so great?
+
+You can't go on
+Thinking nothing's wrong, oh no
+Who's gonna drive you home
+Tonight?
+
+Who's gonna pick you up
+When you fall?
+Who's gonna hang it up
+When you call?
+Who's gonna pay attention
+To your dreams?
+Who's gonna plug their ears
+When you scream?
+
+You can't go on
+Thinking nothing's wrong, oh no
+Who's gonna drive you home
+Tonight?
+Who's gonna hold you down
+When you shake?
+Who's gonna come around
+When you break?
+
+You can't go on
+Thinking nothing's wrong, oh no
+Who's gonna drive you home
+Tonight?
+You can't go on
+Thinking nothing's wrong, oh no
+Who's gonna drive you home
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Tonight?

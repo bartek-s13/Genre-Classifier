@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jane says
 I'm done with Sergio
 He treats me like a ragdoll
@@ -48,4 +49,56 @@ She can't hit
 She
 Don't mean no harm
 She just don't know
+=======
+Jane says
+I'm done with Sergio
+He treats me like a ragdoll
+She hides the television
+Says I don't owe him nothing
+But if he comes back again
+Tell him to wait right here for me
+Or just try again tomorrow
+I'm gonna kick tomorrow
+Gonna kick tomorrow
+
+Jane says
+Have you seen my wig around
+I feel naked without it
+She knows they all want her to go
+But that's okay, man
+She don't like them anyway
+Jane says she's goin' away to Spain
+When she gets my money saved
+I'm gonna start tomorrow
+I'm gonna kick tomorrow
+Gonna kick tomorrow
+
+She gets mad
+Starts to cry
+She takes a swing but
+She can't hit
+She
+Don't mean no harm
+She just don't know
+What else to do about it
+
+Jane goes to the store at 8:00
+She walk up on St. Andrews
+She waits and gets her dinner there
+She pulls her dinner from her pocket
+Jane says
+I've never been in love
+I don't know what it is
+She only knows if someone wants her
+I want them if they want me
+I only know they want me
+
+She gets mad
+Starts to cry
+She takes a swing but
+She can't hit
+She
+Don't mean no harm
+She just don't know
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 What else to do about it

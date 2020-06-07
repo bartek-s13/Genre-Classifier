@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Risk my soul, test my life
 For my bread
 Spend my time, lost in space
@@ -29,4 +30,37 @@ Yeah, we all die young
 Yeah, we all die
 Young
 Young
+=======
+Risk my soul, test my life
+For my bread
+Spend my time, lost in space
+Am I dead?
+Let the river flow
+Through my callused hands
+And take me from my own
+The eyes of the damned
+It makes my stomach turn
+And it tears my flesh from the bone
+How we turn a dream to stone
+And we all die young
+Tell me I know
+I lived so afraid
+And still we cry alone
+With words left unsaid
+Yeah, it makes my stomach turn
+And it tears my flesh from bone to bone
+How we turn our dream to stone
+And we all die young
+Yeah, we all die young
+Young
+Young
+Young
+Young
+Yeah, we all die young
+Yeah, we all die young
+Yeah, we all die young
+Yeah, we all die
+Young
+Young
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Young

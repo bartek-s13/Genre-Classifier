@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yeah! Yeah
 
 All I've ever wanted was destiny to be fulfilled
@@ -29,4 +30,37 @@ This passion inside me is burning, is burning
 Even through the darkest days
 This fire burns, always (Always)
 This fire burns (fire burns), always
+=======
+Yeah! Yeah
+
+All I've ever wanted was destiny to be fulfilled
+It is in my hands, I must not fail, I must not fail
+
+Even through the darkest days
+This fire burns, always
+This fire burns, always
+
+This is the proving ground
+As the heat begins to rise
+Turn away from yesterday
+Tomorrow's in my eyes, oh
+
+Nevermore to be held down
+By the wings of history
+Nevermore to be cast aside
+This day is mine
+
+Even through the darkest days
+This fire burns, always
+This fire burns, always
+
+I will not be denied in this final hour
+I will not be denied, this day is mine
+This passion inside me is burning, is burning
+This passion inside me is burning, is burning
+
+Even through the darkest days
+This fire burns, always (Always)
+This fire burns (fire burns), always
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Always (Always)

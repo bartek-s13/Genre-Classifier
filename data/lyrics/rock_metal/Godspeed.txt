@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test me once again
 You know I didn't do anything
 Set my life on low
@@ -35,4 +36,43 @@ Cast away our regrets and all our fears
 Just like, like you did when you were here
 
 And then the days, they ran out
+=======
+Test me once again
+You know I didn't do anything
+Set my life on low
+You know I could have had it all
+Drifting out of place
+With no direction and no escape
+Set out all alone
+On to a place I don't belong
+
+Without you I know that I must change
+Without you I'll never be the same, no
+
+Farewell, godspeed and goodbye
+You have lived and you have changed all our lives
+
+Test me all the way
+Surely you know I'm not afraid
+Prove now once again
+That I will never see the end
+
+Without you I know that I must change
+Without you I'll never be the same
+
+Farewell, godspeed and goodbye
+You have lived and you have changed all our lives
+Cast away our regrets and all our fears
+Just like, like you did when you were here
+
+And then the days, they ran out
+And then the days, they ran out
+
+Farewell, godspeed and goodbye
+You have lived and you have changed all our lives
+Cast away our regrets and all our fears
+Just like, like you did when you were here
+
+And then the days, they ran out
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And then the days, they ran out

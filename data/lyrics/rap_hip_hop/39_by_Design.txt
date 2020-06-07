@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 When you walked alone to leave your life at home
 You really wanted to die
 And if you hoped to hold the key to eternity
@@ -45,4 +46,53 @@ Too tense to recompense
 Really just a roll of the dice
 When truth or lies will make you cry
 Really doesn't make a lot of sense
+=======
+When you walked alone to leave your life at home
+You really wanted to die
+And if you hoped to hold the key to eternity
+You really wanted to die
+Can't count your blessings saying goodbye
+Did you really watch your desires resign?
+In the case of a wanderin' eye
+
+When you fell to Earth and lost the love to love
+You really wanted to try
+Can't count your blessings saying goodbye
+
+39, by design
+Did they beam you up into the lights in the sky?
+If you could take a Polaroid of your life
+Would you cry?
+Would you make them stare into the whites of your eyes
+Eternal point of view
+
+And when you came to turn the hands on the sands of time
+You really wanted to die
+And then you showed them all you fell
+It was so hard to break the spell
+You just wanted to die
+
+Can't count your blessings saying goodbye
+
+39, by design
+Did they beam you up into the lights in the sky?
+If you could take a Polaroid of your life
+Would you cry?
+Would you make them stare into the whites of your eyes
+If you could take a Polaroid
+39, by design
+Did they beam you up into the lights in the sky?
+If you could take a Polaroid of your life
+Would you cry?
+Would you make them stare into the whites of your eyes
+Eternal point of view
+
+Really just a roll of the dice
+When truth or lies will make you cry
+Really doesn't make a lot of sense
+Too tense to recompense
+Really just a roll of the dice
+When truth or lies will make you cry
+Really doesn't make a lot of sense
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In the end we'll all be cleansed

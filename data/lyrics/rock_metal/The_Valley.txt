@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've spent my life trying to be
 A soul of light in the darkest sea
 Where with my shield for the final fight
@@ -32,4 +33,40 @@ I fear no evil, no evil, no!
 
 I fear no evil
 I fear no evil
+=======
+I've spent my life trying to be
+A soul of light in the darkest sea
+Where with my shield for the final fight
+I won't back down; I won't bend or kneel
+
+Yea, though
+I walk through the valley
+Of the shadow of death
+I fear no evil, no evil
+
+I look back upon my life and know
+Yes, I've gone far, but have a long way to go
+And I've done things that only yokels dream
+A miracle, so at least it seems
+
+Yea, though
+I walk through the valley
+Of the shadow of death
+I fear no evil, no evil
+
+I fear no evil
+
+
+Yea, though
+I walk through the valley
+Of the shadow of death
+I fear no evil
+Yea, though
+I walk through the valley
+Of the shadow of death
+I fear no evil, no evil, no!
+
+I fear no evil
+I fear no evil
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I fear no evil

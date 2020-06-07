@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nothing you say will ever be wrong
 'Cause it does, it feels good being in your arms
 And I'm running with you as fast as I can
@@ -23,4 +24,31 @@ And I'm going crazy, crazy for you
 I'm going crazy, crazy for you
 And I'm going crazy, crazy for you
 I'm...
+=======
+Nothing you say will ever be wrong
+'Cause it does, it feels good being in your arms
+And I'm running with you as fast as I can
+Singing to myself, "I Want to Hold Your Hand"
+
+And we're going downtown
+Because we feel like running around
+Is it really this fun when you're on my mind?
+Is it really this cool to be in your life?
+
+There's one thing I'll do if it ever goes wrong
+I'll write you into all of my songs
+And if suddenly I die, I hope they will say
+That he was obsessed and it was okay
+
+'Cause we ain't going downtown
+And we feel like running around
+Is it really this fun when you're on my mind?
+Is it really this cool to be in your life?
+
+And I'm going crazy, crazy for you
+And I'm going crazy, crazy for you
+I'm going crazy, crazy for you
+And I'm going crazy, crazy for you
+I'm...
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 For you

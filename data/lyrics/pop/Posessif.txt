@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lirik "Posessif"
 
 Kuingin tahu
@@ -40,4 +41,48 @@ Jangan kau mempertanyakan
 Bila ku mati
 Kau juga mati
 Walau tak ada cinta
+=======
+Lirik "Posessif"
+
+Kuingin tahu
+Kau harus mau
+Kuingin kau begitu
+Agar kau tahu
+
+Jadilah engkau milikku selalu
+Utuh
+Tanpa tersentuh
+Cuma aku
+
+Bila ku mati
+Kau juga mati
+Walau tak ada cinta
+Sehidup semati
+
+Jadilah engkau milikku selalu
+Utuh
+Tanpa tersentuh
+Cuma aku
+
+Mengapa aku begini?
+Jangan kau mempertanyakan
+
+Bila ku mati
+Kau juga mati
+Walau tak ada cinta
+Sehidup semati
+
+
+Mengapa aku begini?
+Jangan kau mempertanyakan
+Mengapa aku begini?
+Jangan kau mempertanyakan
+Mengapa aku begini?
+Jangan kau mempertanyakan
+
+
+Bila ku mati
+Kau juga mati
+Walau tak ada cinta
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Sehidup semati

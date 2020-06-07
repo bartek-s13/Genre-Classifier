@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I’m six feet underneath the sea
 I'm not upset or annoyed about anything
 I’m just feeling a little bit paranoid
@@ -23,4 +24,31 @@ Get me out (ahhh), help me out
 Get me out (ahhh), help me out
 Get me out (ahhh), help me out
 Get me out (ahhh), help me out
+=======
+I’m six feet underneath the sea
+I'm not upset or annoyed about anything
+I’m just feeling a little bit paranoid
+I don’t go swimming very often cause I know
+
+The worst things that could happen to me
+A shark bite, lose an arm, or forget to breathe
+Aren’t you scared that there is something on your feet
+Could be a fish with those bright, big, pointy teeth
+
+I’m six feet underneath the sea
+It’s no secret that I’m so scared I just peed
+From the fish and all the live things underneath
+They look like dinosaurs that can swim faster than me
+
+The worst things that could happen to me
+Maybe a shark bite, lose an arm, or forget to breathe
+Aren’t you scared that there is something on your feet
+Could be a fish with those bright, big, pointy teeth
+
+Get me out (ahhh), help me out
+Get me out (ahhh), help me out
+Get me out (ahhh), help me out
+Get me out (ahhh), help me out
+Get me out (ahhh), help me out
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Get me out (ahhh), help me out

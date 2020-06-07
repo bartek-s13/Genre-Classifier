@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Woah woah, what if this is all the love you ever get?
 Woah woah, you'd do a couple things so differently, I bet
 Woah woah, what if this is all the love I ever know
@@ -29,4 +30,37 @@ Come on over, come on over here
 
 What if this is all the love you ever get?
 What if this is all the love you ever get?
+=======
+Woah woah, what if this is all the love you ever get?
+Woah woah, you'd do a couple things so differently, I bet
+Woah woah, what if this is all the love I ever know
+Woah woah, I'd say the words that were so hard to say: don't go
+
+So you've fallen in love
+So you've fallen apart
+
+What if it hurts like hell
+Then it'll hurt like hell
+Come on over, come on over here
+I'm in the ruins too
+I know the wreckage so well
+Come on over, come on over here
+
+Woah woah, what if this is all the love you ever get?
+Woah woah, you'd not worry so much about counting your regrets
+Woah woah, what if this is all the love I'm ever shown
+Woah woah, I'd not be so scared to run into the unknown
+
+So you've fallen in love
+So you've fallen apart
+What if it hurts like hell
+Then it'll hurt like hell
+Come on over, come on over here
+I'm in the ruins too
+I know the wreckage so well
+Come on over, come on over here
+
+What if this is all the love you ever get?
+What if this is all the love you ever get?
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 What if this is all the love you ever get?

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Are you buried alive?
 I know you’re rotting inside but no one knows you’re hurting
 You’re searching for light, but all you know is burning
@@ -22,4 +23,30 @@ I’m a cynic, I’m desperate to find out why
 All the whispers of every last demon inside; if I listen to them, they will take my life
 Silence!
 Can’t find the cure for something no one can see
+=======
+Are you buried alive?
+I know you’re rotting inside but no one knows you’re hurting
+You’re searching for light, but all you know is burning
+Can’t find the cure for something no one can see
+Can’t find the answers when there’s no room left to breath
+Trapped in. The darkness swallowing
+Desperate to feel yourself again
+Too late. I see no hope in your eyes
+Are you buried alive?
+I can’t stop, my path is set
+All I know is violence
+I know you’re rotting inside and no one knows you’re hurting
+You’re searching for light, but all you know is burning
+Can’t find the cure for something no one can see
+Can’t find the answers when there’s no room left to breath
+Trapped in. The darkness swallowing
+Desperate to feel yourself again
+Too late. I see no hope in your eyes
+Are you buried alive?
+I’m a liar, deceiver; it dwells inside
+I’m a cynic, I’m desperate to find out why
+All the whispers of every last demon inside; if I listen to them, they will take my life
+Silence!
+Can’t find the cure for something no one can see
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 It won’t stop

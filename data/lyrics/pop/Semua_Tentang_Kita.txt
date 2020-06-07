@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lirik "Semua Tentang Kita"
 
 Waktu terasa semakin berlalu
@@ -17,4 +18,25 @@ Ceritakan semua tentang kita
 Ada cerita tentang aku dan dia
 Dan kita bersama saat dulu kala
 Ada cerita tentang masa yang indah
+=======
+Lirik "Semua Tentang Kita"
+
+Waktu terasa semakin berlalu
+Tinggalkan cerita tentang kita
+Akan tiada lagi kini tawamu
+'Tuk hapuskan semua sepi di hati
+
+Ada cerita tentang aku dan dia
+Dan kita bersama saat dulu kala
+Ada cerita tentang masa yang indah
+Saat kita berduka saat kita tertawa
+
+
+Teringat di saat kita tertawa bersama
+Ceritakan semua tentang kita
+
+Ada cerita tentang aku dan dia
+Dan kita bersama saat dulu kala
+Ada cerita tentang masa yang indah
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Saat kita berduka saat kita tertawa

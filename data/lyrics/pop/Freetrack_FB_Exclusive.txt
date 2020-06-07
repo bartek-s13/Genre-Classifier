@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ah, Lü Rique
 Freetrack
 Mein Team Digga, AYFA, OM
@@ -19,4 +20,27 @@ Scheiß auf Peanuts, ich tu das hier für Geld und Fame
 Digga du siehst, ich mein das mittlerweile ernst mit der Musik
 
 Es geht um Geld Homie
+=======
+Ah, Lü Rique
+Freetrack
+Mein Team Digga, AYFA, OM
+Das Leben vergeht so schnell
+
+Ich hab keine Sorgen, digga scheiß auf Morgen (fick drauf)
+Mach deinen Scheiß, fuck ich hab keine Zeit
+Deine Slut weiß bescheid
+Du bist Out und dein Flow auch
+Und hältst dein Maul wenn ich auftauch`
+Quatsch mich nicht voll
+Brauch keine Olle, rauch meine Knolle
+(?)Haze da, zum Überleben brauch ich Paper
+Ich verkauf nicht, denn ich rauche selber
+Wir schieben Tag und Nacht im Dschungel Patrouille
+Wache stehen für mehrere Stunden im Dunkeln
+Kenn das Game, will nur entertain`
+Scheiß auf Peanuts, ich tu das hier für Geld und Fame
+Digga du siehst, ich mein das mittlerweile ernst mit der Musik
+
+Es geht um Geld Homie
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 ...

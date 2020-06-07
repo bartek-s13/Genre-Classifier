@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A-we-a-he-a-hell
 The little things you say and do
 Make me want to be with you-ah-hoo
@@ -20,4 +21,28 @@ Your love for me
 Rave on, rave on and tell me
 Tell me, not to be lonely
 Tell me, you love me only
+=======
+A-we-a-he-a-hell
+The little things you say and do
+Make me want to be with you-ah-hoo
+
+A-Rave on, it's a crazy feeling and-a
+I know it's got me reeling
+When you say, I love you-hoo, rave on
+
+The way you dance a-and hold me tight
+The way you kiss and say goodni-hi-ight
+
+A-Rave on, it's a crazy feeling and-a
+I know it's got me reeling
+When you say, I love you-hoo, rave on
+
+A-well rave on, a-it's a crazy feeling and
+I know, it's got me reeling
+I'm so glad, that you're revealing
+Your love for me
+Rave on, rave on and tell me
+Tell me, not to be lonely
+Tell me, you love me only
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Rave on to me

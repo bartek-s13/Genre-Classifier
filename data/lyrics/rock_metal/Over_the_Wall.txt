@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've been a prisoner
 Trapped in by fear
 Ordered for the rest of my life
@@ -46,4 +47,54 @@ To climb this wall
 Of dark construction
 Holding the quest for freedom
 That beckons me
+=======
+I've been a prisoner
+Trapped in by fear
+Ordered for the rest of my life
+Condemned in a jail cell
+Ain't seen life in years
+Escape is the only way out
+
+Restart my life
+Or self destruction
+To climb this wall
+Of dark construction
+Holding the quest for freedom
+That beckons me
+
+My sanity is all but gone
+My patience is growing very weak
+I need to get a hold of myself
+I stare at the wall
+For the right time to come
+Escape must occur on this night
+
+Restart my life
+Or self destruction
+To climb this wall
+Of dark construction
+Holding the quest for freedom
+That beckons me
+Stand in my way
+And I'll run you straight through
+There's no one to stop me now
+For I'm on the loose
+And I'm ready to start
+Torture and hell on this town
+
+Over the wall
+
+The search will not stop
+And the hounds will not rest
+Till I am back in my cell
+For if I am caught, I will try it again
+Over the wall I will go, I will go
+
+Restart my life
+Or self destruction
+To climb this wall
+Of dark construction
+Holding the quest for freedom
+That beckons me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Over the wall

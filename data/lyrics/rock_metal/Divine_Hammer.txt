@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I'm just looking for
 Just looking for a way around
 It disappears this near
@@ -26,4 +27,34 @@ One divine hammer
 One divine hammer
 One divine hammer
 One divine hammer
+=======
+I'm just looking for
+Just looking for a way around
+It disappears this near
+You're the rod, I'm water
+I'm just looking for one divine hammer
+
+One divine hammer
+One divine hammer
+
+I'm just looking for one divine hammer
+I'd bang it all day
+Oh, the carpenter goes bang
+Bang bang
+I'm just looking for one divine hammer
+
+One divine hammer
+Divine hammer
+
+I'm just looking for a faith waiting to be followed
+It disappears this near
+You're the rod, I'm water
+I'm just looking for one divine hammer
+
+One divine hammer
+One divine hammer
+One divine hammer
+One divine hammer
+One divine hammer
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 One divine hammer

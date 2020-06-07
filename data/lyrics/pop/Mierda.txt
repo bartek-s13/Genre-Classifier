@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aún puedo mirarte por horas completas
 Y seguir creyendo que me cuesta mucho saber lo que piensas
 Y cuando dormimos en camas distintas
@@ -24,4 +25,32 @@ Ni quiero hacer parte de lo que recuerdas
 Ni quiero empezar otra vida sin contar contigo
 No quiero que todo se vaya
 No quiero volver a conocer personas sin ti
+=======
+Aún puedo mirarte por horas completas
+Y seguir creyendo que me cuesta mucho saber lo que piensas
+Y cuando dormimos en camas distintas
+Me hace falta algo, no logro encontrar la posición perfecta
+No quiero que todo se vaya a la mierda
+Por no saber cómo, que el amor se pierda
+No quiero que todo se vaya a la mierda
+Espero alumbrarte en momentos oscuros
+Darte todos esos consejos, tan sabios, que nunca he seguido
+Callar y escucharte, saber de tus miedos
+Y que me los muestres para gritar juntos cuando se aparezcan
+No quiero que todo se desaparezca
+Que sin saber cómo, el amor se pierda
+No quiero olvidarte y que tú me olvides
+Ni quiero hacer parte de lo que recuerdas
+Ni quiero empezar otra vida sin contar contigo
+No quiero que todo se vaya
+No quiero volver a conocer personas sin ti
+Sin ti
+No quiero que todo se vaya a la mierda
+Por no saber cómo, que el amor se pierda
+No quiero olvidarte ni que tú me olvides
+Ni quiero hacer parte de lo que recuerdas
+Ni quiero empezar otra vida sin contar contigo
+No quiero que todo se vaya
+No quiero volver a conocer personas sin ti
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Sin ti

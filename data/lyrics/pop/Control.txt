@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sitting here thinkin' bout society
 Do you wanna hear some irony?
 I don't like going out
@@ -36,4 +37,44 @@ When you're never in control
 In control (I try to get it out my mind, but I think it all the time)
 In control (I don't wanna be morose, but I guess that's how it goes)
 In control (I try to live every day, but the fact still doesn't change)
+=======
+Sitting here thinkin' bout society
+Do you wanna hear some irony?
+I don't like going out
+But I don't wanna stay at home
+Laying here thinkin' bout the things I hate
+Staring at a screen til my mind goes blank
+It's the same every day
+When you know you're not in control
+
+In control
+In control
+
+Sleeping through the day so I get my rest
+Do you wanna know when I'm at my best?
+2am in my bed
+Watching some Game of Thrones
+Running down the street so I don't get fat
+Trying not to stress so I won't just crack
+But it's hard to relax
+When you know you're not in control
+
+In control
+In control
+In control
+In control
+
+I try to get it out my mind
+But I think it all the time
+I don't wanna be morose
+But I guess that's how it goes
+I try to live every day
+But the fact still doesn't change
+It's like you're part of a show
+When you're never in control
+
+In control (I try to get it out my mind, but I think it all the time)
+In control (I don't wanna be morose, but I guess that's how it goes)
+In control (I try to live every day, but the fact still doesn't change)
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In control (It's like you're part of a show, when you're never in control)

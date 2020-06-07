@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oh, boy! A telephone call!
 A-1-2-3-4!
 Yeah!
@@ -19,4 +20,27 @@ Hello? Wrong number, pal...
 
 Alright, all you friends, fans, and family. Thanks so much for sticking out- sticking here with us for so long. But this is our last song, alright? We're gonna leave you with this one
 
+=======
+Oh, boy! A telephone call!
+A-1-2-3-4!
+Yeah!
+Liam's got a phone call!
+Yeah!
+Liam's got a phone call!
+Who could it be?
+Which one of my buddies is calling for me?
+Could it be Reese?
+Could it be Darren?
+Could it be Joe?
+Or maybe even Nico?!
+Yeah!
+Liam's got a phone call!
+Yeah!
+Liam's got a phone call!
+(spoken)
+Hello? Wrong number, pal...
+
+Alright, all you friends, fans, and family. Thanks so much for sticking out- sticking here with us for so long. But this is our last song, alright? We're gonna leave you with this one
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Seriously? This is it, guys. And this LAST SONG is dedicated — we're done! This last song is dedicated to those long winter nights which we're all...

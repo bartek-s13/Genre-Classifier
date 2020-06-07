@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 We are beggars, we are so fucking weak
 And once upon a time, we had the world at our feet
 Well, we're all dying to meet our maker
@@ -33,4 +34,41 @@ All our gods have abandoned us
 I found God clutching a razor blade
 He said: "Look at the fucking mess they've made
 They'd trade their hearts if they were made of gold
+=======
+We are beggars, we are so fucking weak
+And once upon a time, we had the world at our feet
+Well, we're all dying to meet our maker
+But all our gods have abandoned us
+All our gods have abandoned us
+This is the great esoteric depression
+We sold our souls but couldn't buy salvation
+
+We are all the shades of misery
+The reigning champions of tragedy
+They use their faith as a weapon
+They count our sins by the seven
+Blackwater at the gates of heaven
+All hail the corporatocracy
+The word of God written in binary
+All hail our apostasy
+The dying notes in an unholy symphony
+
+All our gods have abandoned us
+This is the great esoteric depression
+We sold our souls but couldn't buy salvation
+
+I found God clutching a razor blade
+He said: "Look at the fucking mess they've made
+They'd trade their hearts if they were made of gold"
+We are beggars, we are so fucking weak
+And once upon a time, we had the world at our feet
+Well, we're all dying to meet our maker
+But all our gods have abandoned us
+All our gods have abandoned us
+All our gods have abandoned us
+
+I found God clutching a razor blade
+He said: "Look at the fucking mess they've made
+They'd trade their hearts if they were made of gold
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But they're as worthless as the souls they sold"

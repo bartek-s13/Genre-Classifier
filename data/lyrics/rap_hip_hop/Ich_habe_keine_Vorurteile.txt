@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Du gehst zur Universität und schreibst dich ein für BWL - Ich halte dich für einen Spasten
 Du arbeitest für Firmen wie Nestle, Bayer oder Shell - Ich halte dich für einen Spasten
 Du hast dir die DVD von Mario Barth gekauft - Ich halte dich für einen Spasten
@@ -42,4 +43,50 @@ Ich erzähle keine Vorurteile
 Nur Chinesen haben Vorurteile
 Was das sind nur Vorurteile?
 Ich habe keine Vorurteile
+=======
+Du gehst zur Universität und schreibst dich ein für BWL - Ich halte dich für einen Spasten
+Du arbeitest für Firmen wie Nestle, Bayer oder Shell - Ich halte dich für einen Spasten
+Du hast dir die DVD von Mario Barth gekauft - Ich halte dich für einen Spasten
+Du magst Nickelback und Unheilig magst du auch - Ich halte dich für einen Spasten
+Du hast deinen Kopf rasiert und einen Tribal tätowiert - Ich halte dich für einen Spasten
+Du hast ernsthaft die Frankfurter Allgemeine abonniert - Ich halte dich für einen Spasten
+Du verpflichtest dich beim Bund und wirst zu einem Soldaten - Ich halte dich für einen Spaten
+Du hast volle Mitgliedschaft bei den Freien Demokraten - Für was ich dich halt, kannst du mal raten
+
+Was das sind nur Vorurteile?
+Ich habe keine Vorurteile
+Nur Araber haben Vorurteile
+Was das sind nur Vorurteile?
+Ich habe keine Vorurteile
+Nur Amerikaner haben Vorurteile
+
+Du trägst Cornrows-Zöpfe und bist weiß wie ein Toast - Ich halte dich für einen Spasten
+Du feierst Junggesellenabschied, verkleidet als Kondom - Ich halte dich für einen Spasten
+Du fährst einen fetten Jeep in der Stadt - Ich halte dich für einen Spack
+Du bist Mitglied in der Jungen Union - Ich halte dich für einen Hurensohn
+Du schaust aus dem Fenster raus und regst dich über Kinder auf - Ich halte dich für einen Spasten
+Du hast schon zwanzig Flaschen drin und bist schon morgens himmelblau - bei Löwenbräu wärst du ein Kasten
+Du betreibst eine Firma für Zeitarbeit - Ich halte dich für einen Spasten
+Du gehst ans Mic und nennst dich dort ganz dreist Don Fly - wie lächerlich ist das denn?
+
+Was das sind nur Vorurteile?
+Ich habe keine Vorurteile
+Nur Japaner haben Vorurteile
+Wie das sind nur Vorurteile?
+Ich benutze keine Vorurteile
+Nur die Russen haben Vorurteile
+Ich besitze keine Vorurteile
+Nur Busten - Bust - Busfahrer haben Vorurteile
+
+Du schiebst deine Brille hoch und machst Tracks mit Silbermond - Ich halte dich für einen Spasten
+Du meinst du musst endlich fliehen und nach Berlin ziehen - Ich halte dich für einen Spasten
+Du bist im Club und bist auf Pille, nein, du kennst kein Schlaf - Ich halte dich für einen Spast
+Du trägst eine schöne Brille, da drinnen ist Fensterglas - Spast
+
+Was das sind nur Vorurteile?
+Ich erzähle keine Vorurteile
+Nur Chinesen haben Vorurteile
+Was das sind nur Vorurteile?
+Ich habe keine Vorurteile
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Nur Nazis haben Vorurteile

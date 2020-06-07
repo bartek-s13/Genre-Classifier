@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If I could speak, I'd tell you all my fears and deprivations
 If I could feel, I'd take away your pain
 If I could bleed, I'd show you all my scars and imperfections
@@ -36,4 +37,44 @@ Say what you're keeping inside
 This anticipation, I will only let you down
 Say something meaningful
 Say what you're trying to hide
+=======
+If I could speak, I'd tell you all my fears and deprivations
+If I could feel, I'd take away your pain
+If I could bleed, I'd show you all my scars and imperfections
+If I could breathe, I'd hold you in my veins
+
+You've got me feeling like an animal
+Beat down in fear and paralyzed
+You've got me feeling like I have no other hand to hold in this assisted suicide
+
+So say something beautiful
+Say what you're keeping inside
+This anticipation, I will only let you down
+Say something meaningful
+Say what you're trying to hide
+This anticipation, I will only let you down
+
+If I could breed, I'd show you all my infantile obsessions
+If I could sleep, I'd hold you in my head
+If I was strong, I'd keep you close and render you defenseless
+If I was gone, I'd hope you take my place
+
+You've got me feeling like an animal
+Beat down in fear and paralyzed
+You've got me feeling like I have no other hand to hold in this assisted suicide
+
+So say something beautiful
+Say what you're keeping inside
+This anticipation, I will only let you down
+Say something meaningful
+Say what you're trying to hide
+This anticipation, I will only let you down
+
+
+So say something beautiful
+Say what you're keeping inside
+This anticipation, I will only let you down
+Say something meaningful
+Say what you're trying to hide
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 This anticipation, I will only let you down

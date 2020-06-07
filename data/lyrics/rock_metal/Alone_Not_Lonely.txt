@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You're a book, you're a photograph
 You're a plaque on the wall or a knickknack haiku
 You're the voice of a guilty man who doesn't call your name
@@ -46,4 +47,54 @@ You're breaking the skin
 This isn't hope that I'm holding
 No love you can give
 Not lonely, I've chosen
+=======
+You're a book, you're a photograph
+You're a plaque on the wall or a knickknack haiku
+You're the voice of a guilty man who doesn't call your name
+Until he needs to be lied to
+Call me vicious, cast your stones on me
+You're the death of a million men
+You're the face we defend with a patient virtue
+You're the judge of when a life should end
+Or when a war begins, you're such a perfect statue
+You wear your necklace like you wear your noose
+You fear your comfort anyway you choose
+But I'm not like you!
+I'm alone, I'm not lonely
+I can't let you in
+I feel like choking then holding
+You're breaking the skin
+This isn't hope that I'm holding
+No love you can give
+Not lonely, I've chosen
+To bleed here again and again
+Now I wake up to the sound of the mourning
+I feel infection
+Eyes shut to the absent heartbeat
+Too late to question
+Will you surrender or will you lose
+I love the way you blur your vision, I feel your passion
+Never give up until the path you're living finds your intention
+Call me evil cause I'm not like you
+You fear your comfort anyway you choose
+But I'm not like you!
+I'm alone, I'm not lonely
+I can't let you in
+I feel like choking then holding
+You're breaking the skin
+This isn't hope that I'm holding
+No love you can give
+Not lonely, I've chosen
+To bleed here again and again
+One man buys the life
+That someone controls the night
+He died...
+I'm alone, I'm not lonely
+I can't let you in
+I feel like choking then holding
+You're breaking the skin
+This isn't hope that I'm holding
+No love you can give
+Not lonely, I've chosen
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 To bleed here again and again

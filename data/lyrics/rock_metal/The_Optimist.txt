@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Drive at night, in the slow lane
 Rabbit in the headlights, run away, run away
 The great escape in the slow lane
@@ -10,4 +11,18 @@ We ride on hearts
 Design our world
 Let go of you and I
 Run for our lives
+=======
+Drive at night, in the slow lane
+Rabbit in the headlights, run away, run away
+The great escape in the slow lane
+Before it's too late to run away, run away
+The life we left behind
+Sleeping all our lives
+The life we left behind
+Dreaming all our life
+We ride on hearts
+Design our world
+Let go of you and I
+Run for our lives
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Don’t look behind

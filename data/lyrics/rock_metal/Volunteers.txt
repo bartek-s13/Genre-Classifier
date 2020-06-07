@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Look what's happening out in the streets
 Got a revolution
 Got to revolution
@@ -39,4 +40,47 @@ Yeah, we're volunteers of America
 We're volunteers of America
 Volunteers of America
 Volunteers of America
+=======
+Look what's happening out in the streets
+Got a revolution
+Got to revolution
+Hey I'm dancing down the street
+Got a revolution
+Got to revolution
+Ain't it amazing all the people I meet
+Got a revolution
+Got to revolution
+One generation got old
+One generation got soul
+This generation got no dissertation to hold
+Pick up the cry
+Hey now it's time for you and me
+Got a revolution
+Got to revolution
+Come on now we're marching to the sea
+Got a revolution
+Got to revolution
+Who will take it from you
+We will and who are we
+We are volunteers of America
+Volunteers of America
+Volunteers of America
+Volunteers of America
+Volunteers of America
+Got a revolution
+Got a revolution
+Look what's happening out in the streets
+Got a revolution
+Got to revolution
+Hey I'm dancing down the street
+Got a revolution
+Got to revolution
+Ain't it amazing all the people I meet
+Got a revolution
+We are volunteers of America
+Yeah, we're volunteers of America
+We're volunteers of America
+Volunteers of America
+Volunteers of America
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Volunteers of America

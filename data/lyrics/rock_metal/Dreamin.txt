@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dreamin' I'm always dreamin'
 Dreamin' love will be mine
 Searchin' I'm always searchin'
@@ -18,4 +19,26 @@ Keep right on dreamin'
 Dreamin' till my dreamin' comes true ue ue ue...
 Well I'll keep on dreamin'
 I got 'll keep on dreamin'
+=======
+Dreamin' I'm always dreamin'
+Dreamin' love will be mine
+Searchin' I'm always searchin'
+Hopin' someday I'll find
+Someone, someone to love me
+Someone to need me but until then
+Well I'll keep on dreamin'
+Keep right on dreamin'
+Dreamin' till my dreamin' comes true ue ue ue ue ue ue ue...
+Dreamin' I'm always dreamin'
+Dreamin' love will be mine
+Searchin' I'm always searchin'
+Hopin' someday I'll find
+Someone, someone to needs me
+Someone to love me but until then
+Well I'll keep on dreamin'
+Keep right on dreamin'
+Dreamin' till my dreamin' comes true ue ue ue...
+Well I'll keep on dreamin'
+I got 'll keep on dreamin'
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I got 'll keep...

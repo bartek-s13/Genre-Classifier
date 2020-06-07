@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pretty Please
 Where do I begin?
 Oh, I don't understand it either
@@ -25,4 +26,33 @@ Time and time again
 I never left but I never stayed
 I'm cleaning out the fuzz in my brain
 Time and time again
+=======
+Pretty Please
+Where do I begin?
+Oh, I don't understand it either
+And I don't think I can
+Fuzzybrain call it what you want
+I've felt so distant lately as if I were not
+
+There's rain outside, steady winter
+My heart feels like such a mixture
+Shapeless, I stare at her picture
+I don't know her, but I miss her
+Why, oh why such things?
+
+Write it down absent of the pen
+The sun has been set for hours and she's rising again
+Scattered mind, I call it a friend
+I wish I thought a bit less and spoke up instead
+In my head
+
+There's rain inside my skeleton frame
+A hurricane within my rib cage
+I never left but I never stayed
+I'm cleaning out the fuzz in my brain
+Time and time again
+I never left but I never stayed
+I'm cleaning out the fuzz in my brain
+Time and time again
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh, it's time and time again

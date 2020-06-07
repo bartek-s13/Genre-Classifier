@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oh, this is just the final day
 The fight you gave, the fight I gave up
 You burnt your lips 'cause you're unafraid
@@ -42,4 +43,50 @@ We're standing in oceans
 Catch me
 Oh, my heart is steady
 Oh, my light is growing
+=======
+Oh, this is just the final day
+The fight you gave, the fight I gave up
+You burnt your lips 'cause you're unafraid
+The light you gave, the light I gave up
+Well I set it out in the fire blue
+Your heart was in the valley too
+In the desert I will carry you
+I'll carry you and I'll carry you
+And if this is the price to pay
+You'll never look the other way
+You'll never look the other way, oh
+
+Catch me
+Oh, my heart is steady
+Oh, my light is growing
+We're standing in oceans
+Catch me
+Oh, my heart is steady
+Oh, my light is growing
+We're standing in oceans
+
+Oh, this is just the final game
+The fight you gave, the fight I gave up
+Dismiss the words your eyes betray
+The light you gave, the light I gave up
+
+If it's all I do
+My heart beats true, and
+With all I forgave
+If this was ours again
+I'd set it aflame
+
+So catch me
+Oh, my heart is steady
+Oh, my light is growing
+We're standing in oceans
+Catch me
+Oh, my heart is steady
+Oh, my light is growing
+We're standing in oceans
+
+Catch me
+Oh, my heart is steady
+Oh, my light is growing
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We're standing in oceans

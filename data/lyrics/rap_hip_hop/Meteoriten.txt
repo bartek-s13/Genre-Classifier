@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Wir sitzen uns gegenüber, auf deiner Stirn steht Angstschweiß
 Auf meiner steht Betrüger
 Du sagst, du bist hier um was zu retten ist zu retten
@@ -55,4 +56,63 @@ Es ist als ob die ganze Welt an meinen Lippen hängt
 Und mir fehlen die Worte
 Du siehst mich an und wartest auf die richtigen
 Doch ich habe sie verloren
+=======
+Wir sitzen uns gegenüber, auf deiner Stirn steht Angstschweiß
+Auf meiner steht Betrüger
+Du sagst, du bist hier um was zu retten ist zu retten
+Warum ich hier bin, habe ich leider vergessen
+Zählst auf, warum du mich nicht gehen lassen kannst
+Ich zähl deine Tränen, fühle mich elend, weil ich dich so stehen lassen kann
+Dein Blick voller Hoffnung, dein Schweigen ruft nach Hilfe
+Ich wünscht', ich hätte mehr für dich als Stille
+
+Denn ich sehe im Augenwinkel
+Es regnet Meteoriten und Atombomben vom Himmel
+Sekunden rennen mir davon und ich weiß nicht was ich sagen soll
+
+Es ist als ob die ganze Welt an meinen Lippen hängt
+Und mir fehlen die Worte
+Du siehst mich an und wartest auf die richtigen
+Doch ich habe sie verloren
+Es ist als ob die ganze Welt an meinen Lippen hängt
+Und mir fehlen die Worte
+Du siehst mich an und wartest auf die richtigen
+Doch ich habe sie verloren
+
+Auf meinem Display steht dein Name
+Ich gehe ran und frage mich, ob ich auf deinem Display einen Doktortitel trage
+Krank vor Verzweiflung suchst du immer wieder Heilung
+Unter Y im iPhone
+Dir nimmt das Leid auf dem Planeten
+Den Mut auf ihm zu leben
+Sagst die Menschheit ist am Ende
+Ihr Blut an uns'ren Händen
+Jedes deiner Fragezeichen ruft nach Hilfe
+Ich wünscht', ich hätte mehr für dich als Stille
+Denn ich sehe im Augenwinkel
+Es regnet Meteoriten und Atombomben vom Himmel
+Sekunden rennen mir davon und ich weiß nicht was ich sagen soll
+
+Es ist als ob die ganze Welt an meinen Lippen hängt
+Und mir fehlen die Worte
+Du siehst mich an und wartest auf die richtigen
+Doch ich habe sie verloren
+Es ist als ob die ganze Welt an meinen Lippen hängt
+Und mir fehlen die Worte
+Du siehst mich an und wartest auf die richtigen
+Doch ich habe sie verloren
+
+Sind das die richtigen Worte, um diesen Song hier zu schreiben?
+Würden Millionen ihn mitsingen
+Ich würd' nicht aufhören zu zweifeln
+Es ist als ob die ganze Welt an meinen Lippen hängt
+Und mir fehlen die Worte
+Du siehst mich an und wartest auf die richtigen
+Doch ich habe sie verloren
+
+Es ist als ob die ganze Welt an meinen Lippen hängt
+Und mir fehlen die Worte
+Du siehst mich an und wartest auf die richtigen
+Doch ich habe sie verloren
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Doch ich habe sie verloren

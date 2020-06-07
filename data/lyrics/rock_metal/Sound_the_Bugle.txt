@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sound the bugle now
 Play it just for me
 As the seasons change
@@ -28,4 +29,36 @@ Remember who you are
 You're a soldier now
 Fighting in a battle
 To be free once more
+=======
+Sound the bugle now
+Play it just for me
+As the seasons change
+Remember how I used to be
+Now I can't go on
+I can't even start
+I've got nothing left
+Just an empty heart
+I'm a soldier wounded
+So I must give up the fight
+There's nothing more for me
+Lead me away... or leave me lying here
+Sound the bugle now
+Tell them I don't care
+There's not a road I know
+That leads to anywhere
+Without a light, I fear that I will
+Stumble in the dark
+Lay right down, decide not to go on
+Then from on high
+Somewhere in the distance
+There's a voice that calls
+Remember who you are
+If you lose yourself
+Your courage soon will follow
+So be strong tonight
+Remember who you are
+You're a soldier now
+Fighting in a battle
+To be free once more
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 That's worth fighting for

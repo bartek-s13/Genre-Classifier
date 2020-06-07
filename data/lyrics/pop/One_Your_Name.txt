@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I wanna know your name
 You just kill me, could you at least do that?
 I wanna know your name
@@ -28,4 +29,36 @@ Oh yeah!
 I wanna know your name...
 Know your name...
 I wanna know your name...
+=======
+I wanna know your name
+You just kill me, could you at least do that?
+I wanna know your name
+Or better yet, stand there
+Just do that
+I wanna know your name
+(I wanna know your name)
+You just kill me, could you at least do that?
+I wanna know your name
+(I wanna know your name)
+Or better yet, stand there
+Just do that
+Hey yeah
+I wanna know your name...
+Know your name...
+I wanna know your name...
+Know your name...
+Uh!
+Oh yeah
+I wanna know your name
+You just kill me, could you at least do that?
+I wanna know your name
+(I wanna know your name)
+Or better yet, stand there
+Just do that
+Hey yeah!
+Oh yeah!
+I wanna know your name...
+Know your name...
+I wanna know your name...
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Know your name...

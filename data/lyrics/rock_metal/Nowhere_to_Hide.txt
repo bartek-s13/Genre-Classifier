@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The hangman’s coming, so bring him forth
 Get your spirit ready to cross over
 You won’t hide for long outside the dungeon walls
@@ -27,4 +28,35 @@ Cracking a smile as it hits the ground
 
 Speechless and all choked up
 Justice attached to a rope
+=======
+The hangman’s coming, so bring him forth
+Get your spirit ready to cross over
+You won’t hide for long outside the dungeon walls
+There’s no escaping after the hammer falls
+
+Hands to the sky cause it’s tumbling down
+Cracking a smile as it hits the ground
+
+Speechless and all choked up
+Justice attached to a rope
+There ain’t nowhere to hide on the frontline
+
+The gallows’ swingin’ to a dead man’s song
+Sounds of flaming arrows, a rhythm so strong
+Knights are saddled; send the prison hounds
+It’s a war of the worlds until he’s found
+
+Hands to the sky cause it’s tumbling down
+Cracking a smile as it hits the ground
+
+Speechless and all choked up
+Justice attached to a rope
+There ain’t nowhere to hide on the frontline
+
+Hands to the sky cause it’s tumbling down
+Cracking a smile as it hits the ground
+
+Speechless and all choked up
+Justice attached to a rope
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 There ain’t nowhere to hide on the frontline

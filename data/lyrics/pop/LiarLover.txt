@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 We can't pretend
 That we can be friends
 So I'll bite my tongue
@@ -38,4 +39,46 @@ They can't afford to fall
 But when the beds are cold
 And there's only pain
 The liars and the lovers will know
+=======
+We can't pretend
+That we can be friends
+So I'll bite my tongue
+While you think that I'm playing dumb
+In a couple years, we'll be somewhere else
+'Cause the future's got a funny way of proving
+Evil and good are both misunderstood
+They promise everything
+Or they trust it all
+The liars and the lovers will think
+They can't afford to fall
+But when the beds are cold
+And there's only pain
+The liars and the lovers will know
+They gotta' make a change
+It's lovely to think
+I remind you of all your mistakes
+But I just can't shake this feeling that I'm
+Lying in this bed that I made
+In a couple years, we'll be somewhere else
+'Cause the future's got a funny way of proving
+Evil and good are both misunderstood
+They promise everything
+Or they trust it all
+The liars and the lovers will think
+They can't afford to fall
+But when the beds are cold
+And there's only pain
+The liars and the lovers will know
+They gotta' make a change
+Should we even work this out?
+Could I ever hear you out?
+Would you hear me screaming out?
+They promise everything
+Or they trust it all
+The liars and the lovers will think
+They can't afford to fall
+But when the beds are cold
+And there's only pain
+The liars and the lovers will know
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 They gotta' make a change

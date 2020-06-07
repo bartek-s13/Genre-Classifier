@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How did it feel when it came alive and took you
 Out of the black? It broke your skin and shook through
 Every part of me, every part of you
@@ -23,4 +24,31 @@ I’ve got a gun for a mouth and a bullet with your name on it
 But a trigger for a heart bleeding blood from an empty pocket
 And it tortures slow
 Never lets you go
+=======
+How did it feel when it came alive and took you
+Out of the black? It broke your skin and shook through
+Every part of me, every part of you
+
+You made a fool out of me and took the skin off my back running
+So don’t breathe when I talk, cause you haven’t been spoken to
+I’ve got a gun for a mouth and a bullet with your name on it
+But a trigger for a heart bleeding blood from an empty pocket
+
+I never knew why and you didn’t care when
+It closed every door, and washed away no sin
+And I promised you like you promised me
+But those vows we made fucked it up for free
+
+You made a fool out of me and took the skin off my back running
+So don’t breathe when I talk, cause you haven’t been spoken to
+I’ve got a gun for a mouth and a bullet with your name on it
+But a trigger for a heart bleeding blood from an empty pocket
+
+You made a fool out of me and took the skin off my back running
+So don’t breathe when I talk, cause you haven’t been spoken to
+I’ve got a gun for a mouth and a bullet with your name on it
+But a trigger for a heart bleeding blood from an empty pocket
+And it tortures slow
+Never lets you go
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Deals a crooked hand

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Everything that's known to man
 Got it right here in the palm of my hand
 It's all a part of the master plan
@@ -35,4 +36,43 @@ All the world is overrun with Technology
 Oh my God it seems to me
 We gotta get back to Simplicity
 All the world is outta touch with reality
+=======
+Everything that's known to man
+Got it right here in the palm of my hand
+It's all a part of the master plan
+One push of a button and you'll understand
+All you get is the information
+Censoring the situation
+
+Oh my God, it's taking me
+From the phonograph record to the MP3
+All the world is overrun with Technology
+Oh my God it seems to me
+We've gotta get back to simplicity
+All the world's out of touch with reality
+I can't believe
+
+Honest values of family
+Come straight from the heart like the blood we bleed
+And reachin' out to a friend in need
+Means more than a text from a cell phone screen
+All these sounds of complication
+In the cloud communication
+
+Oh my God it's taking me
+From the phonograph record to the MP3
+All the world is overrun with Technology
+Oh my God it seems to me
+We gotta get back to Simplicity
+All the world is outta touch with reality
+It's plain to see
+Rewind now
+
+Oh my God it's taking me
+From the phonograph record to the MP3
+All the world is overrun with Technology
+Oh my God it seems to me
+We gotta get back to Simplicity
+All the world is outta touch with reality
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I Can't believe, MP3

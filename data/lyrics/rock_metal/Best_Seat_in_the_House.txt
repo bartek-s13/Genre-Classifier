@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Did you ever get the feelin' you ain't been dealt a good hand?
 The odds are against you, you're a slave to the law of the land?
 I'm gonna gather unto me what must be mine
@@ -39,4 +40,47 @@ All my life I've been turned out
 One of these days I get the best seat in the house
 Best seat in the house
 The best seat in the house
+=======
+Did you ever get the feelin' you ain't been dealt a good hand?
+The odds are against you, you're a slave to the law of the land?
+I'm gonna gather unto me what must be mine
+I want it all right now, not a little at a time
+
+Thinking 'bout a revolution
+The first world drawin' the line
+
+We all want what we ain’t got
+Some of us have and some have not
+Everything I've got comin' to me
+Life, love, money in the land of the free
+All my life I've been turned out
+One of these days I get the best seat in the house
+
+You got a right to your opinion, you got a right to speak your piece
+You got a right to be silent, well that ain't ever worked for me
+Goin' through the system'll chew you up and spit you out
+In the land of confusion, that's what it's all about
+
+Thinkin' 'bout the evolution
+Have we always been in the ground?
+
+We all want what we ain’t got
+Some of us have and some have not
+Everything I've got comin' to me
+Life, love, money in the land of the free
+All my life I've been turned out
+One of these days I get the best seat in the house
+
+It’s the measure of a man
+Does anyone even understand?
+
+We all want what we ain’t got
+Some of us have and some have not
+Everything I've got comin' to me
+Life, love, money in the land of the free
+All my life I've been turned out
+One of these days I get the best seat in the house
+Best seat in the house
+The best seat in the house
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 The best seat in the house, oh yeah

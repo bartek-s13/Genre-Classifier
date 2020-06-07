@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If you don't want my love then the road goes on without you
 Leave me just enough and I'll make a little song about you
 I could be standing in the rain but my heart won't break in two
@@ -23,4 +24,31 @@ If you don't want my love if you don't want my love
 If you don't my love then there's nothing I can do
 I use to love you love a million bucks
 I guess I'll always be a fool in love
+=======
+If you don't want my love then the road goes on without you
+Leave me just enough and I'll make a little song about you
+I could be standing in the rain but my heart won't break in two
+Not over you
+If you don't my love then there's nothing I can do
+If you don't my love I'll be packing up my suitcase
+And no matter what you say I'm gonna find myself a new place
+I could be gone without as trace
+But still my love is a true I'm a fool for you
+If you don't my love then there's nothing I can do
+If you don't want my love if you don't want my love
+If you don't my love then there's nothing I can do
+You know my heart would be slowly breaking
+That old feeling comes and goes
+I'd rather die than to live without you
+But things can change you know
+If you don't want my love then the road goes on without you
+Leave me just enough and I'll make a little song about you
+I could be standing in the rain but my heart won't break in two
+Not over you
+If you don't my love then there's nothing I can do
+If you don't want my love if you don't want my love
+If you don't my love then there's nothing I can do
+I use to love you love a million bucks
+I guess I'll always be a fool in love
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 If you don't want my love well bye bye

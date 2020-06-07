@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I can't keep up with you
 Don't know where to go if you want me to
 Cause every word that you say
@@ -28,4 +29,36 @@ And I'm singing maybe that's what makes me strong
 And I'm singing, and I'm singing, I've been singing on my own
 Maybe that's what made me strong
 Cause I can't keep up with you
+=======
+I can't keep up with you
+Don't know where to go if you want me to
+Cause every word that you say
+Keeps leading me on but so far away
+
+I don't know why I'm running in circles
+Trying to find a miracle
+Biding my time till you're home
+When I can't keep up with you
+But I could move on if you want me to
+
+And I'm singing how could I have waited so long
+And I'm singing maybe that's what makes me strong
+And I'm singing, and I'm singing, I've been singing on my own Maybe that's what made me strong
+
+Cause I can't keep up with you
+But I don't think I ever wanted to
+And at the end of the day
+I know that deep down we both feel the same
+
+I don't know why I've been running in circles
+Trying to find a miracle
+Biding my time till you're home
+When I can't keep up with you
+So we can move on if you wanted to
+And I'm singing how could I have waited so long
+And I'm singing maybe that's what makes me strong
+And I'm singing, and I'm singing, I've been singing on my own
+Maybe that's what made me strong
+Cause I can't keep up with you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 So we can move on if you wanted to

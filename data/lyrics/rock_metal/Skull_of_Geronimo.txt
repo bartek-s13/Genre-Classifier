@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Skull of Geronimo
 The Skull of Geronimo
 I’m not built to lose
@@ -26,4 +27,34 @@ The key is a kiss once I take hold
 Can’t take, take, take what you’ll never have
 We’ll keep our secrets in hell
 Can’t take, take, take what you’ll never have
+=======
+Skull of Geronimo
+The Skull of Geronimo
+I’m not built to lose
+Bred from bloodlines of those who give the blues
+Born to win
+It’s easy to be a player when you buy your way in
+Oh boy, I can’t wait to be one of the boys!
+The Skull of Geronimo
+The key is a kiss once I take hold
+The Skull of Geronimo
+The key is a kiss once I take hold
+Bit and saddle horn
+Stolen from those who protect the fort
+Nine days from the day they dug up the relics of a warrior’s grave
+Oh boy, I can’t wait to be one of the boys!
+The Skull of Geronimo
+The key is a kiss once I take hold
+The Skull of Geronimo
+The key is a kiss once I take hold
+Can’t take, take, take what you’ll never have
+We’ll keep our secrets in hell
+The Skull of Geronimo
+The key is a kiss once I take hold
+The Skull of Geronimo
+The key is a kiss once I take hold
+Can’t take, take, take what you’ll never have
+We’ll keep our secrets in hell
+Can’t take, take, take what you’ll never have
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We’ll keep our secrets in hell

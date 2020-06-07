@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 All out of exits, all out of enemies
 You built this prison and buried the key
 
@@ -40,4 +41,48 @@ So give me all you came here for
 Give me hell and give me war
 I’ll be waiting for an answer
 
+=======
+All out of exits, all out of enemies
+You built this prison and buried the key
+
+I’ve given up on giving in
+Temptation mocks me from a distance
+But I won’t let it, win
+This thin façade could never last
+Like a snake that sheds its skin
+Illusions shatter like glass
+The sceptic inside me believes what he knows
+Cynically silent but with nothing to show
+The devil beside me is whispering doubt in my ear
+I’ll keep pretending not to hear
+
+So here I am for what it’s worth
+I spilled my blood against the earth
+Just to see the world in colour (the world in colour)
+
+Dead; left for dead and left to rot
+A tainted memory, an empty afterthought
+I’d lay my whole life on the line just to see this through
+If it consumes me, let the script upon my tomb read:
+I found my love and let it kill me
+
+I found my love and let it, kill, me
+
+“Beg and plead, your own ambition brought you to your knees
+Beg and plead, you built this prison, and buried the key”
+
+A momentary lapse, the colours fade to grey...
+As if the world we knew was never meant to be...
+I know I’ll pay for my mistakes
+Just promise me you’ll take
+Take my word and take my everything
+
+So here I am for what it’s worth
+I spilled my blood against the earth
+Just to see the world in colour (the world in colour)
+So give me all you came here for
+Give me hell and give me war
+I’ll be waiting for an answer
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I found my love and let it kill, me

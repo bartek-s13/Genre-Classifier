@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ey stranges, kleines Leben verläuft auf Seitenwegen
 Ich such' die Mitte, doch mein Glück liegt meist daneben
 So selten Flugrakete, bin mehr so Zugverspätung
@@ -42,4 +43,50 @@ Auch wenn's grad nicht so läuft, wie gewohnt
 Egal, es wird gut, sowieso
 
 Auch wenn's grad nicht so läuft, wie gewohnt
+=======
+Ey stranges, kleines Leben verläuft auf Seitenwegen
+Ich such' die Mitte, doch mein Glück liegt meist daneben
+So selten Flugrakete, bin mehr so Zugverspätung
+Doch die Ernte kommt immer, man
+Es ist gut gesät und
+Ich hab kein Stress mit warten
+Geh' auch durch schlechte Phasen
+Ich bin geduldig und nehme zum Schluss die besten Karten
+Und fällt der Jenga-Turm, egal gibt eh Verlängerung
+Halt neuer Plan dann, ey, Leben ist Veränderung
+
+Egal was kommt, es wird gut, sowieso
+Immer geht ne neue Tür auf, irgendwo
+Auch wenn's grad nicht so läuft, wie gewohnt
+Egal, es wird gut, sowieso
+
+Verrückte, bunte Reise
+Mal Tinnitus und mal leise
+Der Bizeps wächst, vom Steuerrad-Rumgereiße
+So selten fitte Planung, bin mehr so dritte Mahnung
+Doch immer sicher im Gemetzel, dank der schicken Tarnung
+Ich schätze Wegbegleiter, auch wenn alles seine Zeit hat
+Mal elf Freunde, dann doch One-on-One Karatefighter
+Und streikt der Sendeton bleibt immer die Erinnerung
+Halt neuer Plan dann, im Blick nach vorn steckt Linderung
+
+Egal was kommt, es wird gut, sowieso
+Immer geht ne neue Tür auf, irgendwo
+Auch wenn's grad nicht so läuft, wie gewohnt
+Egal, es wird gut, sowieso
+Egal was kommt, es wird gut, sowieso
+Immer geht ne neue Tür auf, irgendwo
+Auch wenn's grad nicht so läuft, wie gewohnt
+Egal, es wird gut, sowieso
+Egal was kommt, es wird gut, sowieso
+Immer geht ne neue Tür auf, irgendwo
+Auch wenn's grad nicht so läuft, wie gewohnt
+Egal, es wird gut, sowieso
+Egal was kommt, es wird gut, sowieso
+Immer geht ne neue Tür auf, irgendwo
+Auch wenn's grad nicht so läuft, wie gewohnt
+Egal, es wird gut, sowieso
+
+Auch wenn's grad nicht so läuft, wie gewohnt
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Egal, es wird gut, sowieso

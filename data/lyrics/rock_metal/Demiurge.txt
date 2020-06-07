@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Writhing and embraced
 Retribution, soul eclipse turns solid
 Energized
@@ -11,4 +12,19 @@ A prophet of extinction
 I scorch the skies before your very eyes
 My deliverance
 Enslavement labelled love
+=======
+Writhing and embraced
+Retribution, soul eclipse turns solid
+Energized
+Sucking vomit acting like it's honey
+Deprived of I
+Falling while thrusting squares through circles
+Serving one single new dimension
+Terror rising
+Agnostics' nemesis
+A prophet of extinction
+I scorch the skies before your very eyes
+My deliverance
+Enslavement labelled love
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Just trust this nemesis to sign and seal extinction

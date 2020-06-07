@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I don't wanna be found out
 I dont wanna leave this town tonight
 Don't wanna be back where I started from
@@ -38,4 +39,46 @@ Then you came my way
 Oh, let me love, oh, let me love you, until we're old
 Oh, let me love, oh, let me love you
 'Cause my roots won't keep me warm
+=======
+I don't wanna be found out
+I dont wanna leave this town tonight
+Don't wanna be back where I started from
+'Cause my roots won't keep me warm
+They won't keep me warm
+
+I only just realised now
+It only just dawned on me that I have always been lonely
+And I needed this, to feel comfort and complete
+I never thought we'd meet
+
+But they said I was always gonna be that way
+Until I saw you, I believed them everyday
+Then you came my way
+
+Oh, let me love, oh, let me love you, until we're old
+Oh, let me love, oh, let me love you, until we're grown
+'Cause my roots will never keep me warm
+
+I guess I made it here somehow
+I made it this far and I am proud
+It's my whole world has changed
+Nothing stays the same
+And I for one am glad
+I never knew I wanted you so bad
+But they said I was always gonna be that way
+Until I saw you, I believed them everyday
+Then you came my way
+
+Oh, let me love, oh, let me love you, until we're old
+Oh, let me love, oh, let me love you, until we're grown
+'Cause my roots will never keep me warm
+
+And they said I was always gonna be that way
+Until I saw you, I believed them everyday
+Then you came my way
+
+Oh, let me love, oh, let me love you, until we're old
+Oh, let me love, oh, let me love you
+'Cause my roots won't keep me warm
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 My roots won't keep me warm

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You're driving me crazy, you're driving me mad;
 You're makining me lazy, you're making me bad
 You know you're no good to me
@@ -19,4 +20,27 @@ Babe I like it with you all of the time
 They call you a witch, they say I'm a fool;
 They call you a bitch, say you're really uncool
 But, babe, when I get on you
+=======
+You're driving me crazy, you're driving me mad;
+You're makining me lazy, you're making me bad
+You know you're no good to me
+But you're the best woman I've had
+You lose all my friends
+You scare them away;
+It looks like the end, babe
+Of living my way
+You know you do me no good
+But then I hope that you're going to stay
+You ruin' my health, you use me too much
+You've blown all my wealth, you cripple my crutch
+I know I'm playing with fire
+But then I like what I feel when I touch
+My mama, she warned me - about your kind;
+My friends all scorned me, they say I'm blind
+But then I know what I like, and
+Babe I like it with you all of the time
+They call you a witch, they say I'm a fool;
+They call you a bitch, say you're really uncool
+But, babe, when I get on you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 It's just like getting a kick from a mule

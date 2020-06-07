@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I guess I never showed you what you
 Mean to me
 When you're standing by my side I feel so free
@@ -31,4 +32,39 @@ I was thinking maybe I could lay beside you (lay beside you)
 Each and every morning (every morning now)
 I was hoping maybe I could hold your hand (hold your hand)
 Be the first thing that you see
+=======
+I guess I never showed you what you
+Mean to me
+When you're standing by my side I feel so free
+Is this the first time or does everybody know?
+Even if we're never more, promise you
+Will never go
+I can see you don't believe what I say
+But I can tell you now I see it everyday
+I was thinking maybe I could lay beside you
+Each and every morning
+I was hoping maybe I could hold your hand
+Be the first thing that you see
+As you wake up
+I remember when I first thought that we could be
+You smiled a little more when you looked at me
+I could travel for miles and miles up in your eyes
+And I won't stop with the dying of the light
+I can see you don't believe what I say
+But I can tell you now I see it everyday
+I was thinking maybe I could lay beside you (lay beside you)
+Each and every morning
+I was hoping maybe I could hold your hand (hold your hand)
+Be the first thing that you see
+As you wake up
+I was thinking maybe I could lay beside you
+Each and every morning
+I was hoping maybe I could hold your hand
+Be the first thing that you see
+As you wake up
+I was thinking maybe I could lay beside you (lay beside you)
+Each and every morning (every morning now)
+I was hoping maybe I could hold your hand (hold your hand)
+Be the first thing that you see
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 As you wake up

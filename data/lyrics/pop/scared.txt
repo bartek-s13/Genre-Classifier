@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Don't move, there's a lion next to you
 I pray that your soul survives it through another day
 'Cause in my dreams, there were angels circling
@@ -27,4 +28,35 @@ And what is fear
 When no one knows
 What comes next?
 So yeah, I'm scared
+=======
+Don't move, there's a lion next to you
+I pray that your soul survives it through another day
+'Cause in my dreams, there were angels circling
+I could see everything you ever wanted me to be
+
+I see oceans in your eyes
+It makes me scared
+So if we both drown
+
+Ooh, don't be scared
+I'm right here
+And what is fear
+When no one knows
+What comes next?
+So yeah, I'm scared
+But I won't let it get to me
+
+You know I've been writing you a poem
+So I spoke all the words I ever wanted you to know
+
+I see oceans in your soul
+It makes me scared
+So if we both drown
+Ooh, don't be scared
+I'm right here
+And what is fear
+When no one knows
+What comes next?
+So yeah, I'm scared
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I won't let it get to me

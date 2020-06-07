@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :
 Last I saw you were down on your knees
 Praying for some release
@@ -31,4 +32,39 @@ Now alone
 Almost winning and now I don't know
 But it seems like it's almost away from me
 Maybe one day I'll be strong enough
+=======
+:
+Last I saw you were down on your knees
+Praying for some release
+Check my bed but you ain't next to me
+And I'm wondering where you ease
+As dawn telling you one let you know
+But I don't understand this game
+Bit my lip but I said I would find
+Something I didn't know I had
+:
+Almost winning and now I don't know
+But it seems like it's almost away from me
+Maybe one day I'll be strong enough
+To find it out and I'll know it all
+:
+And the spring is running far
+You got me thinking
+Oh I want this to last
+You got me thinking
+:
+Almost winning and now I don't know
+But it seems like it's almost away from me
+Maybe one day I'll be strong enough
+To find it out and I'll know it all
+:
+Do you think it's easy now
+Now alone
+Baby is it easy now
+Now alone
+:
+Almost winning and now I don't know
+But it seems like it's almost away from me
+Maybe one day I'll be strong enough
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 To find it out and I'll know it all

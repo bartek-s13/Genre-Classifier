@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Breathe, breathe in the air
 Don't be afraid to care
 Leave but don't leave me
@@ -16,4 +17,24 @@ Don't sit down, it's time to dig another one
 For long you live and high you fly
 But only if you ride the tide
 And balanced on the biggest wave
+=======
+Breathe, breathe in the air
+Don't be afraid to care
+Leave but don't leave me
+Look around and choose your own ground
+
+For long you live and high you fly
+And smiles you'll give and tears you'll cry
+And all you touch and all you see
+Is all your life will ever be
+
+Run, rabbit, run
+Dig that hole, forget the sun
+And when at last the work is done
+Don't sit down, it's time to dig another one
+
+For long you live and high you fly
+But only if you ride the tide
+And balanced on the biggest wave
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You race towards an early grave

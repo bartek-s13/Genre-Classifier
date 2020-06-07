@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hey there, let's get away
 I sure need a lazy summer day
 But oh dear, we've gotta stay
@@ -32,4 +33,40 @@ And I'm, I'm your wishing girl
 'Cause you, you are my lonely star
 And I'm, I'm your wishing girl
 'Cause you, you are my lonely star
+=======
+Hey there, let's get away
+I sure need a lazy summer day
+But oh dear, we've gotta stay
+And finish all that we needed to say
+
+Now darling if you fall
+I'll be there to hold you
+'Cause I gave you my soul
+Long time ago, long time ago
+
+'Cause you, you are my lonely star
+And I'm, I'm your wishing girl
+'Cause you, you are my lonely star
+And I'm, I'm your wishing girl
+
+Now hey you, clear your mind
+'Cause stubbornness is all that I can find
+But oh dear, we've gotta stay
+To finish all that we needed to say
+
+Now darling if you fall
+I'll be there to hold you
+'Cause I gave you my soul
+Long time ago, long time ago
+
+'Cause you, you are my lonely star
+And I'm, I'm your wishing girl
+'Cause you, you are my lonely star
+And I'm, I'm your wishing girl
+
+
+'Cause you, you are my lonely star
+And I'm, I'm your wishing girl
+'Cause you, you are my lonely star
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And I'm, I'm your wishing girl

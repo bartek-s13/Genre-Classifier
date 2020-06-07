@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You're weak, broken in a motel
 You blink, tears are falling down, down, down
 And you're free, free inside your own hell
@@ -34,4 +35,42 @@ But it's hard and it's dark and I'm falling apart, gotta
 I wanna love, wanna live, wanna breathe, wanna give, wanna
 But it's hard and it's dark and we're doomed from the start, gotta
 I wanna love, wanna live, wanna breathe, wanna give, wanna
+=======
+You're weak, broken in a motel
+You blink, tears are falling down, down, down
+And you're free, free inside your own hell
+You speak, "Someone let me out, out, out"
+
+And I can't stop this pain it only grows
+Tell me why I always feel alone
+And I can't fight this feeling anymore
+Show me what I'm really living for
+
+I wanna love, wanna live, wanna breathe, wanna give, wanna
+But it's hard and it's dark and we're doomed from the start, gotta
+I wanna love, wanna live, wanna breathe, wanna give, wanna
+But it's hard and it's dark and I'm falling apart, gotta
+
+Your dreams, slowly turn against you
+Your feet, sink into the ground, ground, ground
+And you bleed, naked in a black room
+You scream, "Someone let me out, out, out"
+
+And I can't stop this pain it only grows
+Tell me why I always feel alone
+And I can't fight this feeling anymore
+Show me what I'm really living for
+
+I wanna love, wanna live, wanna breathe, wanna give, wanna
+But it's hard and it's dark and we're doomed from the start, gotta
+I wanna love, wanna live, wanna breathe, wanna give, wanna
+But it's hard and it's dark and I'm falling apart, gotta
+
+"How come most of your songs are sad songs?"
+"Well you know, I don't think they're all that sad. I have a few that aren't sad, they're like hopeless, totally hopeless situation. And the rest aren't sad, they're just the way it goes. I mean, you don't think life's sad? But from recognizing the sadness you can put it aside, be happy and enjoy the happy side of life."
+
+I wanna love, wanna live, wanna breathe, wanna give, wanna
+But it's hard and it's dark and we're doomed from the start, gotta
+I wanna love, wanna live, wanna breathe, wanna give, wanna
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But it's hard and it's dark and we're falling apart, gotta

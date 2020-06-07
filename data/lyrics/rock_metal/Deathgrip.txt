@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Foundation cracks
 The wounds are bleeding
 The end is calling
@@ -42,4 +43,50 @@ I will be the last one standing
 I can see the end
 It’s staring right back at me
 I brought us here
+=======
+Foundation cracks
+The wounds are bleeding
+The end is calling
+The end...is here
+You're in a deathgrip, you're in a deathgrip
+(Deathgrip!)
+Death will know my name
+You're at the world's end, you're at the world's end
+(World's end!)
+I will be the last one standing
+I can see the end
+It’s staring right back at me
+I brought us here
+A place laid to waste by humanity
+The storms destroy
+The quakes awaken
+The end is calling
+The end...is here
+You're in a deathgrip, you're in a deathgrip
+(Deathgrip!)
+Death will know my name
+You're at the world's end, you're at the world's end
+(World's end!)
+I will be the last one standing
+I can see the end
+It’s staring right back at me
+I brought us here
+A place laid to waste by humanity
+In a life of choice I chose to deny
+Through all of my sins, I chose to die
+There will be nothing when I've lost it all
+Please God, let this end painlessly
+My memories are like a noose around my neck
+I could never let go of all the regrets
+Deathgrip!
+You're in a deathgrip, you're in a deathgrip
+(Deathgrip!)
+Death will know my name
+You're at the world's end, you're at the world's end
+(World's end!)
+I will be the last one standing
+I can see the end
+It’s staring right back at me
+I brought us here
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 A place laid to waste by humanity

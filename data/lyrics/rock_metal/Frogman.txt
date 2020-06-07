@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Came from the country
 Last of the bare knuckle fighters
 Yeah I'm an American
@@ -36,4 +37,44 @@ I'm just doing my job
 Baby, I'm a frogman
 Baby, I'm a frogman
 Baby, I'm a frogman
+=======
+Came from the country
+Last of the bare knuckle fighters
+Yeah I'm an American
+UDT seal diver
+Your mind can't conceive
+All the places I've been
+To the ends of the earth
+To hell and back again yeah
+Never been the one to run away
+Round the world with a gun in my hand
+Damn right I'm a bad motherfucker
+Baby, I'm a frogman
+Small arms fire
+And R.P.G.s
+And I'd rather be fishing
+In a cool mountain stream
+Instead I'm dodging bullets
+In this desert sand
+I don't know
+If I'll see my home again
+Never been the one to run away
+Round the world with a gun in my hand
+Damn right I'm a bad mother fucker
+Baby, I'm a frogman
+Never been the one to run away
+Round the world with a gun in my hand
+Damn right I'm a bad mother fucker
+Baby, I'm a frogman
+From the Korengal Valley
+To the seven seas
+I won't die alone
+I've got my brothers with me
+It makes no difference
+About the shit I'm in
+I'm just doing my job
+Baby, I'm a frogman
+Baby, I'm a frogman
+Baby, I'm a frogman
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Baby, I'm a frogman

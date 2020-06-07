@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sejak jumpa kita pertama kulangsung jatuh cinta
 Walau kutahu kau ada pemiliknya
 Tapi kutak dapat membohongi hati nurani
@@ -10,4 +11,18 @@ Apalagi aku juga ada pemiliknya
 Tapi kutak mampu membohongi hati nurani
 Kutak mampu menghindari gejolak cinta ini
 Maka maafkan jikaku mencintaimu
+=======
+Sejak jumpa kita pertama kulangsung jatuh cinta
+Walau kutahu kau ada pemiliknya
+Tapi kutak dapat membohongi hati nurani
+Kutak dapat menghindari gejolak cinta ini
+Reff
+Maka ijinkanlah aku mencintaimu
+Atau bolehkan aku sekedar sayang padamu. x2
+Memang serba salah rasanya tertusuk panah cinta
+Apalagi aku juga ada pemiliknya
+Tapi kutak mampu membohongi hati nurani
+Kutak mampu menghindari gejolak cinta ini
+Maka maafkan jikaku mencintaimu
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Atau biarkan kumengharap kau sayang padaku

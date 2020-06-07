@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dengan nafasmu aku hidup
 Karena tawamu aku bahagia
 Bersama dirimu aku tegar
@@ -20,4 +21,28 @@ Karena hatimulah yang aku inginkan
 Karena hadirmu ku bermakna
 Jadikan hidupku seakan di nirwana
 Di alam dunia
+=======
+Dengan nafasmu aku hidup
+Karena tawamu aku bahagia
+Bersama dirimu aku tegar
+Karena harimu adalah yang terbaik
+Untuk dimiliki
+*)
+Dan biarkan aku mencintaimu
+Karena dirimu yang berarti
+Dan izinkan aku menyayangimu
+Hanyalah dirimu yang berharga
+Chorus :
+(Bams)
+Ketika kau ada disampingku
+Hidupku pun terasa damai
+Seperti yang telah terbayangkan dalam benakku
+Saat hatiku ada di hatimu
+Dunia pun menjadi indah
+Karena hatimulah yang aku inginkan
+(Irfan)
+Karena hadirmu ku bermakna
+Jadikan hidupku seakan di nirwana
+Di alam dunia
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Back to *), Chorus

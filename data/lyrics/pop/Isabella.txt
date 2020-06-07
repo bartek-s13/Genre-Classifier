@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Isabella adalah kisah cinta dua dunia
 Mengapa kita berjumpa namun akhirnya terpisah
 Terbayang lambaiannya salju terbakar kehangatan
@@ -21,4 +22,29 @@ Terpisah karena adat yang berbeda
 Cinta gugur bersama daun-daun kekeringan
 Dia Isabella, lambang cinta yang telah lara
 Terpisah karena adat yang berbeda
+=======
+Isabella adalah kisah cinta dua dunia
+Mengapa kita berjumpa namun akhirnya terpisah
+Terbayang lambaiannya salju terbakar kehangatan
+Dunia dipenuhi warna berseri bunga cinta
+
+Kita yang terlena hingga musim berubah
+Mentari menyepi menyalakan api cinta
+
+Dia Isabella, lambang cinta yang telah lara
+Terpisah karena adat yang berbeda
+Cinta gugur bersama daun-daun kekeringan
+
+Haluan hidupku terpisah dengan Isabella
+Terbayang lambaiannya salju terbakar kehangatan
+
+Semoga dibukakan pintu hatimu untukku
+Akan terbentang jalan, andainya engkau setia
+
+Dia Isabella, lambang cinta yang telah lara
+Terpisah karena adat yang berbeda
+Cinta gugur bersama daun-daun kekeringan
+Dia Isabella, lambang cinta yang telah lara
+Terpisah karena adat yang berbeda
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Cinta gugur bersama daun-daun kekeringan

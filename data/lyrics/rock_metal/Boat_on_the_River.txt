@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Take me back to my boat on the river
 I need to go down, I need to come down
 Take me back to my boat on the river
@@ -25,4 +26,33 @@ I need to go down, won't you let me go down
 Take me back to my boat on the river
 And I won't cry out anymore
 And I won't cry out anymore
+=======
+Take me back to my boat on the river
+I need to go down, I need to come down
+Take me back to my boat on the river
+And I won't cry out any more
+
+Time stands still as I gaze in her waters
+She eases me down, touching me gently
+With the waters that flow past my boat on the river
+So I don't cry out anymore
+
+Oh, the river is wise
+The river, it touches my life like the waves on the sand
+And all roads lead to Tranquility Base
+Where the frown on my face disappears
+
+Take me down to my boat on the river
+And I won't cry out anymore
+
+Oh, the river is deep
+The river, it touches my life like the waves on the sand
+And all roads lead to Tranquility Base
+Where the frown on my face disappears, whoa
+Take me down to my boat on the river
+I need to go down, won't you let me go down
+Take me back to my boat on the river
+And I won't cry out anymore
+And I won't cry out anymore
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And I won't cry out anymore

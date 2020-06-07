@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kutahu kamu bosan
 Kutahu kamu jenuh
 Kutahu kamu tak tahan lagi
@@ -27,4 +28,35 @@ Di sampingku selamanya
 Aku takut (Jangan takut) kamu pergi (Takkan pergi)
 Kamu hilang, kamu sakit
 Aku ingin (Aku juga) kau di sini (Bersamamu)
+=======
+Kutahu kamu bosan
+Kutahu kamu jenuh
+Kutahu kamu tak tahan lagi
+Ini semua salahku
+Ini semua sebabku
+Kutahu kamu tak tahan lagi
+
+Jangan sedih, jangan sedih
+Aku pasti setia
+
+Aku takut kamu pergi
+Kamu hilang, kamu sakit
+Aku ingin kau di sini
+Di sampingku selamanya
+
+Jangan takut, jangan sedih
+Aku pasti setia
+
+Aku takut kamu pergi
+Kamu hilang, kamu sakit
+Aku ingin kau di sini
+Di sampingku selamanya
+Aku takut (Jangan takut) kamu pergi (Takkan pergi)
+Kamu hilang, kamu sakit
+Aku ingin (Aku juga) kau di sini (Bersamamu)
+Di sampingku selamanya
+Aku takut (Jangan takut) kamu pergi (Takkan pergi)
+Kamu hilang, kamu sakit
+Aku ingin (Aku juga) kau di sini (Bersamamu)
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Di sampingku (Di sampingmu) selamanya

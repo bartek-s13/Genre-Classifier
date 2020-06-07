@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Can you remember
 Remember my name
 As I flow through your life
@@ -28,4 +29,36 @@ Precious life (your tears are lost in falling rain)
 And if you hear me talking on the wind
 You've got to understand
 We must remain
+=======
+Can you remember
+Remember my name
+As I flow through your life
+A thousand oceans I have flown
+And cold
+Cold spirits of ice
+All my life
+I am the echo of your past
+I am returning the echo of a point in time
+And distant faces shine
+A thousand warriors I have known
+And laughing as the spirits appear
+All your life
+Shadows of another day
+
+And if you hear me talking on the wind
+You've got to understand
+We must remain
+Perfect Strangers
+
+I know I must remain inside this silent well of sorrow
+A strand of silver hanging through the sky
+Touching more than you see
+The voice of ages in your mind
+Is aching with the dead of the night
+Precious life (your tears are lost in falling rain)
+
+And if you hear me talking on the wind
+You've got to understand
+We must remain
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Perfect Strangers

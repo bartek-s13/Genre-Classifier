@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Stay away from my baby
 Even though her love may stray
 I never thought she'd mean this much
@@ -14,4 +15,22 @@ Never leave, please don't depart
 Stay away from my lady
 I could never leave such a lady
 Keep you here, my dear sweetheart
+=======
+Stay away from my baby
+Even though her love may stray
+I never thought she'd mean this much
+There's a difference between this lover and lust
+Stay away from my lady
+When she’s gone days are so hazy
+If she left I'd be oh-so lost
+I'll keep her here whatever the cost
+It's not like I’m a greedy boy at all
+It's the flowers in your hair, the way she gives her stare
+Stay away from my baby, even though her love may change
+I'll keep you here my dear, sweetheart
+Never leave, please don't depart
+Stay away from my lady
+I could never leave such a lady
+Keep you here, my dear sweetheart
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Never leave, never depart

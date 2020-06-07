@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Apa salahku
 Kau buat begini
 Kau tarik ulur hatiku
@@ -22,4 +23,30 @@ Akhirnya kini aku mengerti
 Apa yang ada dipikiranmu selama ini
 Kau hanya ingin permainkan perasaanku
 Tak ada hati tak ada cinta
+=======
+Apa salahku
+Kau buat begini
+Kau tarik ulur hatiku
+Hingga sakit yang ku rasa
+*
+Apa memang ini yang kamu inginkan
+Tak ada sedikitpun niat 'tuk serius kepadaku
+**
+Katakan yang sebenarnya
+Jangan mau tak mau seperti ini
+Reff:
+Akhirnya kini aku mengerti
+Apa yang ada dipikiranmu selama ini
+Kau hanya ingin permainkan perasaanku
+Tak ada hati tak ada cinta
+Apa memang ini yang kamu inginkan
+Tak ada sedikitpun niat 'tuk serius kepadaku
+Katakan yang sebenarnya
+Jangan mau tak mau seperti ini
+Kembali ke Reff: 2x
+Akhirnya kini aku mengerti
+Apa yang ada dipikiranmu selama ini
+Kau hanya ingin permainkan perasaanku
+Tak ada hati tak ada cinta
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Apa salahku

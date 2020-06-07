@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 It's alright, there comes a time
 Got no patience to search for peace of mind
 Layin' low, wanna take it slow
@@ -27,4 +28,35 @@ And if we change, well, I'll love you anyway
 Everyday it's somethin'
 Hits me all so cold
 You find me sittin' by myself
+=======
+It's alright, there comes a time
+Got no patience to search for peace of mind
+Layin' low, wanna take it slow
+No more hidin' or disguisin' truths I've sold
+
+Everyday it's somethin'
+Hits me all so cold
+You find me sittin' by myself
+No excuses, then I know
+
+It's okay, had a bad day
+Hands are bruised from breakin' rocks all day
+Drained and blue, I bleed for you
+You think it's funny, well you're drownin' in it, too
+
+Everyday it's somethin'
+Hits me all so cold
+You find me sittin' by myself
+No excuses, then I know
+
+
+Yeah, it's fine, we'll walk down the line
+Leave our rain and cold; trade for warm sunshine
+You, my friend, I will defend
+And if we change, well, I'll love you anyway
+
+Everyday it's somethin'
+Hits me all so cold
+You find me sittin' by myself
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 No excuses, then I know

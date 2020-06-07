@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I'm an indecisive mess who stays up way too late most nights
 I'm the girl who acts so sane, but thinks of you when I cry
 And I know I keep on joking 'bout being emotionally unstable
@@ -24,4 +25,32 @@ I'm calling SOS, I'm calling SOS
 The only problem is I'm good at hiding all my issues
 I'm calling SOS, waiting for your rescue
 Only problem is I'm good at hiding all my issues
+=======
+I'm an indecisive mess who stays up way too late most nights
+I'm the girl who acts so sane, but thinks of you when I cry
+And I know I keep on joking 'bout being emotionally unstable
+But it's 2AM and I can't get my head out of this table
+By the next day, I'll just swipe away the remnants of time
+Now I'm ready to laugh at your shitty jokes and pretend to smile
+
+I'm calling SOS, waiting for your rescue
+Only problem is I'm good at hiding all my issues
+I'm calling SOS, I'm calling SOS
+
+I'm the happy girl that's laughing all damn day when I'm around you
+When I'm alone, I'm calling SOS, waiting for your rescue
+But it's nothing you can see because I'm so damn good at lying
+Just another night I'll be up late, waiting for new lighting
+
+I'm calling SOS, waiting for your rescue
+Only problem is I'm good at hiding all my issues
+I'm calling SOS, I'm calling SOS
+
+So good at lying, so good at hiding
+So good at lying, so good at hiding
+I'm calling SOS, I'm calling SOS
+The only problem is I'm good at hiding all my issues
+I'm calling SOS, waiting for your rescue
+Only problem is I'm good at hiding all my issues
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I'm calling SOS, I'm calling SOS

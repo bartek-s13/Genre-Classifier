@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Él siempre me recogía
 Con su mirada de amante
 Y me llevaba a lugares que yo no conocía
@@ -45,4 +46,53 @@ Ven y me miras con tus ojos de noche
 Si yo decía la verdad, entonces
 Sería obvio que él también lo hacía
 Él me miraba con sus ojos noche
+=======
+Él siempre me recogía
+Con su mirada de amante
+Y me llevaba a lugares que yo no conocía
+Cuando me recogía
+Hablábamos de la vida
+Y de sus planes cambiantes
+Hablábamos del presente, de ayudar a la gente
+De los tiempos de antes
+
+Pero no lo vol-, no lo, lo volví a ver
+Luego no lo vol-, no lo, lo volví a ver
+
+Si yo decía la verdad, entonces
+Sería obvio que él también lo hacía
+Él me miraba con sus ojos noche
+Y yo le creía lo que me decía
+
+Él siempre me recogía
+En su carroza flotante
+Y me mostraba la luna
+Me leía mi fortuna, me sentía importante
+Andábamos por la noche
+Buscando algún escondite
+Para decirnos las cosas que solo con palabras
+Imposible decirse
+
+Pero no lo vol-, no lo, lo volví a ver
+Luego no lo vol-, no yo lo busqué
+
+Si yo decía la verdad, entonces
+Sería obvio que él también lo hacía
+Él me miraba con sus ojos noche
+Y yo le creía lo que decía
+Si yo decía la verdad, entonces
+Él me miraba con sus ojos de noche
+(De noche, de noche, de noche)
+
+Ven y me muestras todo lo que escondes
+Para curarnos todas las heridas
+Ven y me miras con tus ojos de noche
+Ven y me muestras todo lo que escondes
+Para curarnos todas las heridas
+Ven y me miras con tus ojos de noche
+
+Si yo decía la verdad, entonces
+Sería obvio que él también lo hacía
+Él me miraba con sus ojos noche
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Y yo le creía lo que decía

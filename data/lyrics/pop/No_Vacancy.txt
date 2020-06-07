@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Break through the neon lights
 Stay up to talk all night
 Sneak in the windowpanes, you call my name
@@ -32,4 +33,40 @@ I wish I could let you in
 But inside of me
 There's a sign that reads, 'no vacancy'
 No vacancy 
+=======
+Break through the neon lights
+Stay up to talk all night
+Sneak in the windowpanes, you call my name
+When I'm with you
+Feels like fire
+
+Hey, but you feel it too
+Inhale and exhale you
+It's a little too much for me
+Too much too soon
+When I'm with you
+It feels like fire
+
+Nothing is easy, baby
+I wish I could let you in
+But inside of me
+There's a sign that reads, 'no vacancy'
+
+Flashbacks to hotel rooms
+Echoes of me and you
+What I wouldn't give to be there one more time
+Without you here
+Feels like fire
+
+Nothing is easy, baby
+I wish I could let you in
+But inside of me
+There's a sign that reads, 'no vacancy'
+
+Nothing is easy, baby
+I wish I could let you in
+But inside of me
+There's a sign that reads, 'no vacancy'
+No vacancy 
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 X2

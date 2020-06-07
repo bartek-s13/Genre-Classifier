@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The slumber of reason gives birth to all demons
 A new battle takes form
 Forced evolution to incite revolution
@@ -19,4 +20,27 @@ Their demise
 They’ve given us a devil’s playground and all his deadliest toys
 We must take all we’ve learned to destroy all they know
 This nightmare logic, our greatest tool
+=======
+The slumber of reason gives birth to all demons
+A new battle takes form
+Forced evolution to incite revolution
+Rewrite the rules to play the game
+As we struggle in the fight to survive
+Through strange domains and vicious ways
+From the darkest depths we will arise
+This realm will be their demise
+Their demise
+They underestimated the force behind the hatred
+Grown with war on our minds
+Lawlessness of their nightmare has left them unaware
+To the weakness they’ve exposed
+We reach the summit in our climb to the top
+Through strange domains and vicious ways
+In the darkest depths, a planned devised
+Their spite for us is their demise
+Their demise
+They’ve given us a devil’s playground and all his deadliest toys
+We must take all we’ve learned to destroy all they know
+This nightmare logic, our greatest tool
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Decimate the all-righteous fool

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Got it all too high
 Got it figured out
 Wanna do whatever
@@ -24,4 +25,32 @@ Everyone has gone
 You feel so empty but I've got me a friend
 And I like it
 Say now, got it for all of me
+=======
+Got it all too high
+Got it figured out
+Wanna do whatever
+Laugh until September
+And I seem to think that you are one to be with me
+Maybe I was wrong
+You were moving on
+
+And I sit and wonder, falling under
+Get my way or nothing will move on
+Everyone has gone
+
+You feel so empty but I've got me a friend
+And I like it
+
+And I know you say I can't care for someone
+But are you that clever that you smile forever?
+Is it summer yet cause I just don't feel it
+Maybe it's a treaty, maybe you are not her
+
+And I sit and wonder, falling under
+Get my way or nothing will move on
+Everyone has gone
+You feel so empty but I've got me a friend
+And I like it
+Say now, got it for all of me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And do I

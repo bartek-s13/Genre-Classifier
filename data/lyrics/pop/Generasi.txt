@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kamu bahagia mengenal diriku
 Sama seperti aku bahagia mengenalmu
 Tidak masalah berbeda dan ragu
@@ -30,4 +31,38 @@ Ingin merasakan dahsyatnya dunia
 Yang sebenarnya dunianya kita
 Kita tak berhenti dan terus berjalan
 Beri yang terbaik dalam perjalanan
+=======
+Kamu bahagia mengenal diriku
+Sama seperti aku bahagia mengenalmu
+Tidak masalah berbeda dan ragu
+Kamu dan aku sama-sama mencari tahu
+Ke mana kita kan melangkah
+Menemukan apa dan berbuat apa
+Kita generasi yang penuh harapan
+Yang selalu mencari
+Ingin merasakan dahsyatnya dunia
+Yang sebenarnya dunianya kita
+Kamu rasakan aku pun rasakan
+Apa yang sangat menjadi pertanyaan kita
+Genggam tanganku menggapai mimpi
+Kamu dan aku sama-sama mencari tahu
+Ke mana kita kan melangkah
+Menemukan apa dan berbuat apa
+Kita generasi yang penuh harapan
+Yang selalu mencari
+Ingin merasakan dahsyatnya dunia
+Yang sebenarnya dunianya kita
+Kita tak berhenti
+Kan terus berjalan beri yang terbaik dalam perjalanan
+Temukan jawaban yang tersembunyi di luar sana
+Temukan jawaban
+Jawaban mimpi-mimpimu
+Teruslah menikmati perjalananmu
+Kita generasi yang penuh harapan
+Yang selalu mencari
+Ingin merasakan dahsyatnya dunia
+Yang sebenarnya dunianya kita
+Kita tak berhenti dan terus berjalan
+Beri yang terbaik dalam perjalanan
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Temukan jawaban yang tersembunyi di luar sana

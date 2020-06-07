@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I feel close
 Well maybe I'm not, heaven knows
 It's a spotlight stuck on the ceiling
@@ -55,4 +56,63 @@ I hear your voice on the phone
 Now I'm no longer alone
 Just how I feel
 Could you tell me what's real anymore?
+=======
+I feel close
+Well maybe I'm not, heaven knows
+It's a spotlight stuck on the ceiling
+Why are these the things that I'm feeling?
+There's so much time
+For me to speak up, but I keep quiet
+I'll complicate the most of the mantra
+The power's out and I can't turn the fan on
+
+So can I call you tonight?
+I'm trying to make up my mind
+Just how I feel
+Could you tell me what's real?
+I hear your voice on the phone
+Now I'm no longer alone
+Just how I feel
+Could you tell me what's real anymore?
+'Cause I wouldn't know
+
+Voice so low
+Sneaking around, so it goes
+I always try my best to listen
+Picking up things that I can fidget
+Circle speed
+Pacing around, watching my feet
+Batteries drain, I get the memo
+"I think that I might have to let you go"
+
+So can I call you tonight?
+I'm trying to make up my mind
+Just how I feel
+Could you tell me what's real?
+I hear your voice on the phone
+Now I'm no longer alone
+Just how I feel
+Could you tell me what's real anymore?
+'Cause I wouldn't know
+
+(We're sorry; you have reached a number that has been disconnected or is no longer in service)
+(If you feel you have reached this recording in error please check the number and try your call again)
+Don't go, don't go so easy
+Don't go, don't go and leave me
+Don't go, don't go so easy
+Don't go, don't go and leave me
+Don't go, don't go so easy
+Don't go, don't go and leave me
+Don't go, don't go so easy
+Don't go, go
+
+So can I call you tonight?
+I'm trying to make up my mind
+Just how I feel
+Could you tell me what's real?
+I hear your voice on the phone
+Now I'm no longer alone
+Just how I feel
+Could you tell me what's real anymore?
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Cause I wouldn't know

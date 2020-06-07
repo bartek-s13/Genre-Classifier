@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I tried to reach you, I can’t hide
 How strong's the feeling when we dive
 I crossed the ocean of my mind
@@ -12,4 +13,20 @@ You push me down, down
 All the shame
 When you called my name
 I felt pain
+=======
+I tried to reach you, I can’t hide
+How strong's the feeling when we dive
+I crossed the ocean of my mind
+My wounds are healing with the salt
+All my senses intensified
+Whenever you and I, we dive
+I crossed the ocean of my mind
+But in the end I drown
+You push me down, down
+
+
+All the shame
+When you called my name
+I felt pain
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 When you came

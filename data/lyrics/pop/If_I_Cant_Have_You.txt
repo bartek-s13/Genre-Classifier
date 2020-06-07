@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Why won't you look at me?
 I'm standing at the door
 I brought you cookies, your favourite kind
@@ -49,4 +50,57 @@ I'll take the glow of the screen
 I'll take the nights that we fought about sharing a bed with me
 I'll take the notebook you filled with all of my favourite things
 I'll even take the faithfulness you never gave to me
+=======
+Why won't you look at me?
+I'm standing at the door
+I brought you cookies, your favourite kind
+Why won't you look at me?
+Am I too much?
+Have I crossed a line?
+
+I don't get it
+And if we were older, it might be different
+And I've since abandoned
+The thought of your hand in mine again
+
+I'll take the clothes on the floor
+I'll take the glow of the screen
+I'll take the nights that we fought about sharing a bed with me
+I'll take the notebook you filled with all of my favourite things
+I'll even take the faithfulness you never gave to me
+If I can't have you
+
+Why don't you talk to me?
+Why don't you let me in?
+I'll give you patience if you give me time
+And I gave you everything
+But you wanted less of me
+
+I don't get it
+And if we were older, it might be different
+And thank God that we don't need lawyers
+We couldn't afford it (We couldn't afford it, oh)
+
+I'll take the clothes on the floor
+I'll take the glow of the screen
+I'll take the nights that we fought about sharing a bed with me
+I'll take the notebook you filled with all of my favourite things
+I'll even take the faithfulness you never gave to me
+If I can't have you
+
+I'll be alright
+And I hope you're okay too
+I'll be alright
+And I hope you're okay too
+I'll be alright (I'll be alright, I'll be alright)
+And I hope you're okay too (I'll be alright)
+I'll be alright (I'll be alright, I'll be alright)
+And I hope you're okay too
+
+I'll take the clothes on the floor
+I'll take the glow of the screen
+I'll take the nights that we fought about sharing a bed with me
+I'll take the notebook you filled with all of my favourite things
+I'll even take the faithfulness you never gave to me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 If I can't have you

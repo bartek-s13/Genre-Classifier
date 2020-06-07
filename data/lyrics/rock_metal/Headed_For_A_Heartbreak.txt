@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Morning came and I was on my way, when you reminded me
 I had too soon forgotten, it was you who set me free
 Yeah you were here when I came and you'll be here when I'm gone
@@ -14,4 +15,22 @@ I walk away to live again
 Headed for a heartbreak, headed for a heartbreak, don't make me hurt you
 Headed for a heartbreak, well I know that I'm headed for a heartbreak
 Don't you think I feel the pain...
+=======
+Morning came and I was on my way, when you reminded me
+I had too soon forgotten, it was you who set me free
+Yeah you were here when I came and you'll be here when I'm gone
+So don't be waiting for love, cause I'll be waiting to ramble on
+Headed for a heartbreak, headed for a heartbreak
+Darling don't wait up for me, tonight I won't be home
+You've become a stranger, I just got to be alone
+Don't need nobody on my side to dull the blade I'm on
+So don't be waiting for love, cause I'll be waiting to ramble on
+Headed for a heartbreak, headed for a heartbreak, headed for a heartbreak
+It's no mistake, don't you think I can feel the pain
+I walk away to live again
+(Solo)
+Headed for a heartbreak, headed for a heartbreak, don't make me hurt you
+Headed for a heartbreak, well I know that I'm headed for a heartbreak
+Don't you think I feel the pain...
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 ------------------------------------------------------------------------------

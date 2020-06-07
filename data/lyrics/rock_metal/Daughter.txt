@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Alone, listless
 Breakfast table in an otherwise empty room
 Young girl, violence
@@ -29,4 +30,37 @@ Don't call me
 
 The shades go down
 The shades go down
+=======
+Alone, listless
+Breakfast table in an otherwise empty room
+Young girl, violence
+Center of her own attention
+The mother reads aloud, child tries to understand it
+Tries to make her proud
+The shades go down, it's in her head
+Painted room, can't deny there's something wrong
+
+Don't call me daughter, not fit to
+The picture kept will remind me
+Don't call me daughter, not fit to
+The picture kept will remind me
+Don't call me
+
+She holds the hand that holds her down
+She will rise above
+Oooh ooh
+
+Don't call me daughter, not fit to
+The picture kept will remind me
+Don't call me daughter, not fit to be
+The picture kept will remind me
+Don't call me daughter, not fit to
+The picture kept will remind me
+Don't call me daughter, not fit to be
+The picture kept will remind me
+Don't call me
+
+The shades go down
+The shades go down
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 The shades go go...go

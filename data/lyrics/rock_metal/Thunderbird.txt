@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello, you, yes, it's me
 You can't come back, you're flyin' free
 You think you found
@@ -37,4 +38,45 @@ Fly on, thunderbird fly
 Fly on, spread your wings to the sky
 (On to the sky)
 Fly on Thunderbird
+=======
+Hello, you, yes, it's me
+You can't come back, you're flyin' free
+You think you found
+Everything that you need
+Fly away, fly away
+To your new home
+Across the seas
+Oh, leave your nest
+Oh baby leave the best thing
+That you've been
+Fly on, thunderbird fly
+Fly on, spread your wings to the sky
+Fly on, thunderbird fly
+On your own and I'm alone
+In the shadow of what we done
+And I can't help but think
+That someday you'll be back home
+Fly away, fly away
+To your new home
+Across the bay
+And give your best
+Ooh, baby leave the best thing
+That you've been
+Fly on, thunderbird fly
+Fly on, spread your wings to the sky
+Fly on, thunderbird fly
+Fly on
+When all is said, all is done
+Still I live and carry on
+Don't look back but think of me
+We'll meet again, fly away
+Fly on, thunderbird fly
+Fly on, spread your wings to the sky
+Fly on, thunderbird fly
+Fly on, thunderbird fly
+(You've got fly away)
+Fly on, spread your wings to the sky
+(On to the sky)
+Fly on Thunderbird
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (Fly)
