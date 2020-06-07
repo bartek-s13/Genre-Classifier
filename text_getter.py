@@ -116,10 +116,10 @@ def normalize_lyric(lyric: str):
 
 
 def genre_indicators(feature_names, feature_importances, id_to_genre):  # TODO: do naprawienia (svc nie jest liniowy, nie można pobrac coef)
-    for i, language in enumerate(feature_importances):
-        scored_features = list(zip(feature_names, language.data))
+    for i, genre in enumerate(feature_importances):
+        scored_features = list(zip(feature_names, genre.data))
         scored_features = sorted(scored_features, key=lambda x: x[1], reverse=True)
-        print("W rozpoznaniu języka {lang} najważniejsze cechy to:".format(lang=id_to_genre[i]))
+        print("W rozpoznaniu gatunku {lang} najważniejsze cechy to:".format(lang=id_to_genre[i]))
         for feature, score in scored_features[:5]:
             print("\t'{feature}': {score}".format(feature=feature, score=score))
 
@@ -185,7 +185,7 @@ def lyrics_downloader(filename, songs_per_artist=6, songs_num=3000):
 
 
 if __name__ == "__main__":
-    genre = ["pop", "rock_metal"]
+    genre = ["pop", "rock_metal", "rap_hip_hop"]
     data = []
     for i, gen in enumerate(genre):
         mypath = f"data/lyrics/{gen}"
