@@ -48,17 +48,17 @@
   </component>
   <component name="RunManager" selected="Python.neural_trainner">
     <configuration name="neural_trainner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="genre_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_trainner.py" />
       <option name="PARAMETERS" value="" />
@@ -109,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591094689139</updated>
       <workItem from="1591483619469" duration="313000" />
-      <workItem from="1591535575226" duration="1976000" />
+      <workItem from="1591535575226" duration="8773000" />
     </task>
     <servers />
   </component>
@@ -117,24 +117,28 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1920" height="272" key="GridCell.Tab.0.bottom" timestamp="1591483938085">
+    <state x="655" y="118" width="600" height="877" key="#neural_trainner" timestamp="1591537821987">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="272" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1591483938085" />
-    <state width="1920" height="272" key="GridCell.Tab.0.center" timestamp="1591483938083">
+    <state x="655" y="118" width="600" height="877" key="#neural_trainner/0.27.1920.1053@0.27.1920.1053" timestamp="1591537821987" />
+    <state width="1920" height="382" key="GridCell.Tab.0.bottom" timestamp="1591544069464">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="272" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1591483938083" />
-    <state width="1920" height="272" key="GridCell.Tab.0.left" timestamp="1591483938082">
+    <state width="1920" height="382" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1591544069464" />
+    <state width="1920" height="382" key="GridCell.Tab.0.center" timestamp="1591544069464">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="272" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1591483938082" />
-    <state width="1920" height="272" key="GridCell.Tab.0.right" timestamp="1591483938084">
+    <state width="1920" height="382" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1591544069464" />
+    <state width="1920" height="382" key="GridCell.Tab.0.left" timestamp="1591544069464">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="272" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1591483938084" />
+    <state width="1920" height="382" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1591544069464" />
+    <state width="1920" height="382" key="GridCell.Tab.0.right" timestamp="1591544069464">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="382" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1591544069464" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Genre_Classifier$neural_trainner.coverage" NAME="neural_trainner Coverage Results" MODIFIED="1591535691034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Genre_Classifier$neural_trainner.coverage" NAME="neural_trainner Coverage Results" MODIFIED="1591544069459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

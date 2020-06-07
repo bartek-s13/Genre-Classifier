@@ -7,10 +7,11 @@ import pickle
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
 from keras.layers import Embedding, Dense, Conv1D, MaxPooling1D, Flatten
+from sklearn.model_selection import train_test_split
 
 stopwords = set(stopwords.words('english') + list(punctuation))
 
-MAX_SEQUENCE_LENGTH = 750
+MAX_SEQUENCE_LENGTH = 650
 
 
 def check_length(filedir: str):  # powiedzmy 750
@@ -68,20 +69,26 @@ def convert_lyrics(dic: dict = None):
             dic = pickle.load(file)
 
     for genre in os.listdir("data/lyrics"):
+        # count = 0
         ind = []
         for f in os.listdir(f"data/lyrics/{genre}"):
             s = ""
             with open(f"data/lyrics/{genre}/{f}", 'r', encoding="cp1250") as file:
                 s = file.read()
-        tok = word_tokenize(s.lower())
-        indexes = []
-        for t in tok:
-            if t in dic.keys():
-                indexes.append(dic[t])
+                if s is None or s == "":
+                    # count += 1
+                    continue
+            tok = word_tokenize(s.lower())
+            indexes = []
+            for t in tok:
+                if t in dic.keys():
+                    indexes.append(dic[t])
             ind.append(indexes)
+        # print(ind[0], len(ind[0]))
+        # print(len(os.listdir(f"data/lyrics/{genre}")), len(ind), np.sum([len(q) for q in ind]))
+        # print(count)
         with open(f"data/dictionaries/lyrics/{genre}.pickle", 'wb') as file:
             pickle.dump(ind, file)
-        print(ind)
 
 
 EMBEDDING_DIM = 100
@@ -106,30 +113,78 @@ def make_embeddings(dictionary: dict, size: int):
 
 
 def prepare_data_and_train():
-    pass
+    train_x, train_y, test_x, test_y = [], [], [], []
+    answer_key = dict()
+    quant = len(os.listdir("data/dictionaries/lyrics"))
+    for i, f in enumerate(os.listdir("data/dictionaries/lyrics")):
+        answer_key[f[:-7]] = i
+        split = []
+        with open(f"data/dictionaries/lyrics/{f}", 'rb') as file:
+            split = pickle.load(file)
+        # print(len(split))
+        x, t, _, _ = train_test_split(split, np.zeros(len(split)), test_size=0.3, shuffle=True)
+        y = np.zeros(quant, dtype=int)
+        y[i] = 1
+        for j in x:
+            train_x.append(j)
+            train_y.append(y)
+        for j in t:
+            test_x.append(j)
+            test_y.append(y)
+    train_x = pad_sequences(train_x, MAX_SEQUENCE_LENGTH)
+    test_x = pad_sequences(test_x, MAX_SEQUENCE_LENGTH)
+
+    # return train_x, train_y, test_x, test_y, answer_key
+    with open("data/dictionaries/dict10000emb100.pickle", 'rb') as file:
+        emb_matrix = pickle.load(file)
+    return train_network(train_x, train_y, test_x, test_y, emb_matrix, answer_key), answer_key, test_x, test_y
 
 
-def train_network(train_x, train_y, test_x, test_y, embedding_matrix, train_embedding: bool):
+def train_network(train_x, train_y, test_x, test_y, embedding_matrix, answer_key):
     model = Sequential()
-    Embedding()
-    model.add(Embedding(len(embedding_matrix) + 1, EMBEDDING_DIM, embeddings_initializer=[embedding_matrix],
-                        input_length=MAX_SEQUENCE_LENGTH, trainable=train_embedding))
+    model.add(Embedding(len(embedding_matrix), EMBEDDING_DIM, weights=[embedding_matrix],
+                        input_length=MAX_SEQUENCE_LENGTH, trainable=True))
     model.add(Conv1D(250, 5, activation='relu'))
-    model.add(MaxPooling1D(25))
+    model.add(MaxPooling1D(5))
+    model.add(Conv1D(250, 5, activation='relu'))
+    model.add(MaxPooling1D(5))
+    model.add(Conv1D(250, 3, activation='relu'))
+    model.add(MaxPooling1D(20))
     model.add(Flatten())
     model.add(Dense(250, activation='relu'))
-    model.add(Dense(2, activation='softmax'))  # musi być liczbą opcji
+    model.add(Dense(128, activation='relu'))
+    model.add(Dense(len(answer_key), activation='softmax'))  # musi być liczbą opcji
 
-    model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['acc'])
+    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
 
-    model.fit(train_x, train_y, validation_data=(test_x, test_y), epochs=2, batch_size=128)
+    # print(np.asarray(test_x)[0], train_y[0], "\n", test_x[0], test_y[0])
+    model.fit(np.asarray(train_x), np.asarray(train_y), validation_data=(np.asarray(test_x), np.asarray(test_y)),
+              epochs=4, batch_size=256)
+
+    with open("data/networks/networkTest.pickle", 'wb') as file:
+        pickle.dump(model, file)
+
+    return model
 
 
 if __name__ == "__main__":
     # check_length("data/lyrics/pop")
     # print(make_dict(10000))
     # convert_lyrics()
-    SIZE = 100
-    d = make_dict(SIZE)
+    # SIZE = 10000
+    # d = make_dict(SIZE)
+    # print(d, len(d))
     # emb = make_embeddings(d, SIZE)
-    # print(emb)
+    # print(emb, len(emb))
+    # with open("data/dictionaries/dict10000emb100.pickle", 'rb') as file:
+    #     d = pickle.load(file)
+    #     print(len(d))
+    model, answer_key, test_x, test_y = prepare_data_and_train()
+    # wyn = model.predict(test_x, batch_size=128)
+    wyn2 = model.predict_classes(test_x, batch_size=128)
+    count = 0
+    for w2, r in zip(wyn2, test_y):
+        # print(w1, w2, r)
+        if r[w2] == 1:
+            count += 1
+    print(count / len(test_y) * 100, '%')
