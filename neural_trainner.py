@@ -6,15 +6,14 @@ import os
 import pickle
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
-from keras.layers import Embedding, Dense, Conv1D, MaxPooling1D, Flatten
+from keras.layers import Embedding, Dense, Conv1D, MaxPooling1D, Flatten, AveragePooling1D, GlobalAveragePooling1D, \
+    GlobalMaxPooling1D
 from sklearn.model_selection import train_test_split
 
 stopwords = set(stopwords.words('english') + list(punctuation))
 
-MAX_SEQUENCE_LENGTH = 650
 
-
-def check_length(filedir: str):  # powiedzmy 750
+def check_length(filedir: str):
     l = []
     for f in os.listdir(filedir):
         s = ""
@@ -45,6 +44,7 @@ def make_dict(size: int, filedir: str = "data/lyrics") -> dict:
     # print(d, len(d))
     d = sorted(d.items(), key=lambda x: x[1],
                reverse=True)  # rozważyć co lepiej odcinać, najczęściej występujące czy najmniej
+    print(len(d))
     if len(d) < size:
         sizen = len(d)
     else:
@@ -65,7 +65,7 @@ def make_dict(size: int, filedir: str = "data/lyrics") -> dict:
 
 def convert_lyrics(dic: dict = None):
     if dic is None:
-        with open("data/dictionaries/dict10000.pickle", 'rb') as file:
+        with open(f"data/dictionaries/dict{DICTIONARY_DIM}.pickle", 'rb') as file:
             dic = pickle.load(file)
 
     for genre in os.listdir("data/lyrics"):
@@ -91,9 +91,6 @@ def convert_lyrics(dic: dict = None):
             pickle.dump(ind, file)
 
 
-EMBEDDING_DIM = 100
-
-
 def make_embeddings(dictionary: dict, size: int):
     embedding = dict()
     with open(f"/home/er713/glove/glove.6B.{EMBEDDING_DIM}d.txt", 'r') as glove:
@@ -113,6 +110,7 @@ def make_embeddings(dictionary: dict, size: int):
 
 
 def prepare_data_and_train():
+    length = []
     train_x, train_y, test_x, test_y = [], [], [], []
     answer_key = dict()
     quant = len(os.listdir("data/dictionaries/lyrics"))
@@ -122,6 +120,7 @@ def prepare_data_and_train():
         with open(f"data/dictionaries/lyrics/{f}", 'rb') as file:
             split = pickle.load(file)
         # print(len(split))
+        [length.append(len(q)) for q in split]
         x, t, _, _ = train_test_split(split, np.zeros(len(split)), test_size=0.3, shuffle=True)
         y = np.zeros(quant, dtype=int)
         y[i] = 1
@@ -134,8 +133,9 @@ def prepare_data_and_train():
     train_x = pad_sequences(train_x, MAX_SEQUENCE_LENGTH)
     test_x = pad_sequences(test_x, MAX_SEQUENCE_LENGTH)
 
+    print(np.average(length), np.std(length))
     # return train_x, train_y, test_x, test_y, answer_key
-    with open("data/dictionaries/dict10000emb100.pickle", 'rb') as file:
+    with open(f"data/dictionaries/dict{DICTIONARY_DIM}emb{EMBEDDING_DIM}.pickle", 'rb') as file:
         emb_matrix = pickle.load(file)
     return train_network(train_x, train_y, test_x, test_y, emb_matrix, answer_key), answer_key, test_x, test_y
 
@@ -144,22 +144,34 @@ def train_network(train_x, train_y, test_x, test_y, embedding_matrix, answer_key
     model = Sequential()
     model.add(Embedding(len(embedding_matrix), EMBEDDING_DIM, weights=[embedding_matrix],
                         input_length=MAX_SEQUENCE_LENGTH, trainable=True))
-    model.add(Conv1D(250, 5, activation='relu'))
-    model.add(MaxPooling1D(5))
-    model.add(Conv1D(250, 5, activation='relu'))
-    model.add(MaxPooling1D(5))
-    model.add(Conv1D(250, 3, activation='relu'))
-    model.add(MaxPooling1D(20))
-    model.add(Flatten())
-    model.add(Dense(250, activation='relu'))
+    # model.add(Conv1D(EMBEDDING_DIM, 3, activation='relu'))
+    # model.add(AveragePooling1D(3))
+    # model.add(Conv1D(EMBEDDING_DIM, 3, activation='relu'))
+    # model.add(AveragePooling1D(3))
+    model.add(Conv1D(EMBEDDING_DIM, 3, activation='relu'))  # padding="same",
+    # model.add(AveragePooling1D(20))
+    model.add(GlobalAveragePooling1D())
+    # model.add(Flatten())
+    model.add(Dense(200, activation='relu'))
     model.add(Dense(128, activation='relu'))
-    model.add(Dense(len(answer_key), activation='softmax'))  # musi być liczbą opcji
+    model.add(Dense(len(answer_key), activation='softmax'))
 
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
 
     # print(np.asarray(test_x)[0], train_y[0], "\n", test_x[0], test_y[0])
-    model.fit(np.asarray(train_x), np.asarray(train_y), validation_data=(np.asarray(test_x), np.asarray(test_y)),
-              epochs=4, batch_size=256)
+    acc, val_acc, epoch = 0., 0., 0
+    while acc <= val_acc + 0.035 or epoch < 2:
+        history = model.fit(np.asarray(train_x), np.asarray(train_y),
+                            validation_data=(np.asarray(test_x), np.asarray(test_y)),
+                            epochs=1, batch_size=32)
+        # print(history.history)
+        acc = history.history['acc'][-1]
+        val_acc = history.history['val_acc'][-1]
+        epoch += 1
+        print(acc, val_acc, epoch)
+    # model.fit(np.asarray(train_x), np.asarray(train_y),
+    #           validation_data=(np.asarray(test_x), np.asarray(test_y)),
+    #           epochs=3, batch_size=32)
 
     with open("data/networks/networkTest.pickle", 'wb') as file:
         pickle.dump(model, file)
@@ -167,20 +179,20 @@ def train_network(train_x, train_y, test_x, test_y, embedding_matrix, answer_key
     return model
 
 
+EMBEDDING_DIM = 50
+DICTIONARY_DIM = 3000
+
+MAX_SEQUENCE_LENGTH = 750
+
 if __name__ == "__main__":
-    # check_length("data/lyrics/pop")
-    # print(make_dict(10000))
+
+    # d = make_dict(DICTIONARY_DIM)
+    # emb = make_embeddings(d, DICTIONARY_DIM)
+    #
     # convert_lyrics()
-    # SIZE = 10000
-    # d = make_dict(SIZE)
-    # print(d, len(d))
-    # emb = make_embeddings(d, SIZE)
-    # print(emb, len(emb))
-    # with open("data/dictionaries/dict10000emb100.pickle", 'rb') as file:
-    #     d = pickle.load(file)
-    #     print(len(d))
+
     model, answer_key, test_x, test_y = prepare_data_and_train()
-    # wyn = model.predict(test_x, batch_size=128)
+    wyn = model.predict(test_x, batch_size=128)
     wyn2 = model.predict_classes(test_x, batch_size=128)
     count = 0
     for w2, r in zip(wyn2, test_y):
