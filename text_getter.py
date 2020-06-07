@@ -112,17 +112,20 @@ def lyrics_downloader(filename, songs_per_artist=6, songs_num=3000):
                     title = '_'.join(song.title.split())
                     song.to_text(filename=title+".txt")
                     logging.info(f"{song.title} saved")
-                    already_downloaded+=1
+                    already_downloaded += 1
                     logging.info(f"{already_downloaded} out of {songs_num} downloaded")
-                    if  already_downloaded == songs_num:
+                    if already_downloaded == songs_num:
                         break
                 except:
                     logging.error(f"{song.title} not saved")
             if already_downloaded == songs_num:
                 break
         except:
-            logging.ERROR("Artist: {} was not found".format(artist.name))
-
+            logging.error("Artist was not found")
+    os.chdir('..')
+    os.chdir('..')
+    os.chdir('..')
+    print(os. getcwd())
 
 
 
@@ -151,4 +154,5 @@ if __name__ == "__main__":
     logger.addHandler(ch)
     #for filename in os.listdir("data/titles/"):
         #lyrics_downloader(filename)
-    lyrics_downloader('rock_metal')
+    for file in ['rock_metal', 'rap_hip_hop', 'country']:
+        lyrics_downloader(file, songs_per_artist=8)
