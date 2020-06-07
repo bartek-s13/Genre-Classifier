@@ -119,11 +119,21 @@ def genre_indicators(feature_names, feature_importances, id_to_genre):  # TODO: 
 
 
 def get_lyrics_from_file(genre: str, file: str) -> str:
+    try:
+        with open(f"data/lyrics/{genre}/{file}", 'r') as f:
+            return f.read()
+    except UnicodeDecodeError:
+        pass
+    map_chars = {b'\x92': "'", b'\xe9': chr(ord(b'\xe9'))}
     with open(f"data/lyrics/{genre}/{file}", 'br') as f:
         sb = f.read()
-    map(lambda x: chr(x), sb)
-    sb = sb.replace(b'\x92', b"'").replace(b'\xe9', bytes(chr(0xe9), "utf8")).replace(b'\x93', b'').replace(b'\x94', b'')
-    ret = sb.decode("utf8")
+    ret = ''
+    for i in [i.to_bytes(1, sys.byteorder) for i in sb]:
+        try:
+            ret += i.decode('utf8')
+        except UnicodeDecodeError:
+            if i in map_chars:
+                ret += map_chars[i]
     return ret
 
 
