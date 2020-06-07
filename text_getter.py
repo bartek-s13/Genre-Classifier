@@ -98,8 +98,8 @@ def create_pipeline(X, y, ngram=(1, 1), df=0.4):
     pipeline = Pipeline([
         ('tfidf', TfidfVectorizer(max_features=300, ngram_range=ngram, max_df=df)),
         ('scaler', StandardScaler(with_mean=False)),
-        ('svr', svm.SVR()),
-        # ('svc', svm.SVC())
+        # ('svr', svm.SVR()),
+        ('svc', svm.SVC(kernel="linear"))
     ])
     pipeline.fit(X, y)
     return pipeline
@@ -116,10 +116,10 @@ def normalize_lyric(lyric: str):
 
 
 def genre_indicators(feature_names, feature_importances, id_to_genre):  # TODO: do naprawienia (svc nie jest liniowy, nie można pobrac coef)
-    for i, genre in enumerate(feature_importances):
-        scored_features = list(zip(feature_names, genre))
+    for i, language in enumerate(feature_importances):
+        scored_features = list(zip(feature_names, language.data))
         scored_features = sorted(scored_features, key=lambda x: x[1], reverse=True)
-        print(f"W rozpoznaniu gatunku {id_to_genre[i]} najważniejsze cechy to:")
+        print("W rozpoznaniu języka {lang} najważniejsze cechy to:".format(lang=id_to_genre[i]))
         for feature, score in scored_features[:5]:
             print("\t'{feature}': {score}".format(feature=feature, score=score))
 
@@ -193,26 +193,14 @@ if __name__ == "__main__":
             data.append([get_lyrics_from_file(gen, j), i])
     data = np.array(data)
     data = data[data[:, 0] != '']
-    X_train, X_test, y_train, y_test = train_test_split(data[:, 0], data[:, 1].astype('int'), test_size=0.30, random_state=42)
-    pip = create_pipeline(X_train, y_train)
+    X_train, X_test, y_train, y_test = train_test_split(data[:, 0], data[:, 1].astype('int'), test_size=0.30)
 
+    n_grams = (1, 3)
+    max_df = 0.3
+    pip = create_pipeline(X_train, y_train, n_grams, max_df)
+    print(f"\nngrams: {n_grams} \t max_df: {max_df} \t score: {pip.score(X_test, y_test)}\n")
 
-    # for i in [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6)]:
-    #     # for j in [0.1, 0.3, 0.4, 0.5, 0.7]:
-    #     for j in [0.4]:
-    #         pip = create_pipeline(X_train, y_train, i, j)
-    #         print(f"ngrams: {i} \t max_df: {j} \t score: {pip.score(X_test, y_test)}")
-    lol = pip.predict(X_test)
-    print(lol)
-    # vec = [get_lyrics_from_file("pop", "Never_Really_Over.txt")]
-    # vec_y = [1]
-    # for i in ["Bon_Appétit.txt", "Dark_Horse.txt", "What_Lovers_Do.txt", "Swish_Swish.txt"]:
-    #     vec.append(get_lyrics_from_file("pop", i))
-    #     vec_y.append(0)
-    # pip = create_pipeline(vec, vec_y)
-    # predicted = pip.predict([get_lyrics_from_file("pop", "Roar.txt")])
-    # print(genre[predicted[0]])
-    # genre_indicators(pip.named_steps['tfidf'].get_feature_names(), pip.named_steps['svc'].coef_, genre)  # TODO nie działa jeszcze
+    genre_indicators(pip.named_steps['tfidf'].get_feature_names(), pip.named_steps['svc'].coef_, genre)
 
 
     # get_songs("rap_hip_hop")
