@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 All the way from Waco to WeHo with a rabbit on her chain
 Drove a little slick car to tend bar with the static on her brain
 She's a little burner, burner, gonna throw you to the flame
@@ -20,4 +21,28 @@ Oh, never ask to be forgiven
 Oh, take the time to waste a moment
 Oh, face it where the lines are broken
 Oh, name a price to all that's living
+=======
+All the way from Waco to WeHo with a rabbit on her chain
+Drove a little slick car to tend bar with the static on her brain
+She's a little burner, burner, gonna throw you to the flame
+Little ticking time bomb, time bomb, gonna blow us all away
+
+Oh, take the time to waste a moment
+Oh, never ask to be forgiven
+
+Tex, he was her boyfriend with no kin always running from the law
+Every other weekend, the week ends with his back in her claw
+He's a livewire, wired, shooting sparks in the night
+He’s a gun for a hire, hired with a bead in his sights
+
+Oh, take the time to waste a moment
+Oh, facing where the lines are broken
+Oh, name your price to all this living
+Oh, never ask to be forgiven
+
+
+Oh, take the time to waste a moment
+Oh, face it where the lines are broken
+Oh, name a price to all that's living
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh, never ask to be forgiven

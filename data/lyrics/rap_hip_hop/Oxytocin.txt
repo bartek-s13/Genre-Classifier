@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I'm in love again, I’m in love again
 Of this, make what you will
 I'm just looking for that thrill, tonight
@@ -24,4 +25,32 @@ Ah-ah-ah-ah
 Ah-ah-ah-ah
 Ah-ah-ah-ah
 Ah-ah-ah-ah
+=======
+I'm in love again, I’m in love again
+Of this, make what you will
+I'm just looking for that thrill, tonight
+To love again, to love again
+All the time I have, I borrow
+I'm not living for tomorrow, it’s not there
+
+Alive again, alive again
+I don't need to die tonight
+To die tonight
+And so very long, it's true
+All the games I played to reach you
+I don't care at all, I don't care at all
+Throw it all away, away
+There'll be time to laugh
+Time to laugh, some day
+
+To fade away, to fade away
+The ties we have we'll sever
+You know nothing lasts forever, anyway
+
+Way-ay-ay-ay
+Ah-ah-ah-ah
+Ah-ah-ah-ah
+Ah-ah-ah-ah
+Ah-ah-ah-ah
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Ah-ah-ah-ah

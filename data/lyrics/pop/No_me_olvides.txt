@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 El tiempo de alejarme me lastima una vez mas, abrazame un rato
 Que no quiero enterarme que esta noche va a pasar
 Quiero hacer un pacto
@@ -24,4 +25,32 @@ Nena, no me olvides
 Yo vivo en la distancia,te lo pido por piedad
 Nena, no me olvides
 El tiempo de alejarme me lastima una vez mas
+=======
+El tiempo de alejarme me lastima una vez mas, abrazame un rato
+Que no quiero enterarme que esta noche va a pasar
+Quiero hacer un pacto
+Seguro vos encuentres quien te quiera de verdad, pero no me olvides
+Yo voy a estar muy lejos, te lo pido por piedad
+Nena, no me olvides
+Si cada despedida es una roca sobre el mar, en este corazon hay muchas piedras
+No voy a arrepentirme de decirte la verdad cambiaste con tu amor mi vida entera
+El tiempo de alejarme me lastima una vez mas, abrazame un rato
+Que no quiero enterarme que esta noche va a pasar
+Quiero hacer un pacto
+Seguro vos encuentres quien te quiera de verdad porque vos sos libre
+Yo voy a estar pensando en volver, en regresar
+Nena, no me olvides
+Maldita sea la duda y la costumbre de pensar
+Que no se puede amar de esta manera
+Yo vivo en la distancia pero puedo regresar
+Y amarte cada noche en cada estrella
+Seguro vos encuentres quien te quiera de verdad pero no me olvides
+Yo voy a estar pensando en volver, en regresar
+Nena, no me olvides
+Si cada despedida es una roca sobre el mar
+Nena, no me olvides
+Yo vivo en la distancia,te lo pido por piedad
+Nena, no me olvides
+El tiempo de alejarme me lastima una vez mas
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Abrazame un rato

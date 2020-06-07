@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You always said that I'd come back to you again
 'Cause everybody needs a friend, it's true
 Someone to quiet the voices in my head
@@ -57,4 +58,65 @@ Can I lean on you?
 Hate to say that I love you
 Hate to say that I need you
 Hate to say that I want you
+=======
+You always said that I'd come back to you again
+'Cause everybody needs a friend, it's true
+Someone to quiet the voices in my head
+Make 'em sing to me instead, it's you
+
+Hate to say that I love you
+Hate to say that I need you
+Hate to say that I want you
+But I do
+
+Bad habit, I know
+But I'm needin' you right now
+Can you help me out?
+Can I lean on you?
+Been one of those days
+Sun don't wanna come out
+Can you help me out?
+Can I lean on you?
+
+You make me feel like I'm floatin' off the ground
+Above this little town, you do
+Look at me smile with tears in my eyes
+I love the way you lie, I do
+Hate to say that I'm lonely
+Hate to say that I miss you
+Hate to say that it's dark in here
+But it's true, oh
+
+Bad habit, I know
+But I'm needin' you right now
+Can you help me out?
+Can I lean on you?
+Been one of those days
+Sun don't wanna come out
+Can you help me out?
+Can I lean on you?
+
+Oh, oh-oh-oh-oh-oh
+Oh, oh-oh-oh-oh-oh
+Can I lean on you?
+Oh, oh-oh-oh-oh-oh
+Oh, oh-oh-oh-oh-oh
+Can I lean on you?
+
+Hate to say that I'm lonely
+Hate to say that I miss you
+Hate to say that it's dark in here
+But it's true
+Bad habit, I know
+But I'm needin' you right now
+Can you help me out?
+Can I lean on you?
+Oh, can I lean on you?
+You
+Can I lean on you?
+
+Hate to say that I love you
+Hate to say that I need you
+Hate to say that I want you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I do

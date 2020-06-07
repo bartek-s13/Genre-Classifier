@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dices que fui yo, y no fui yo
 Que nunca te amé de verdad
 Qué rabia me da
@@ -30,4 +31,38 @@ Oh-u-oh-o, lo sé, es demasiado tarde para volver
 
 Oh-u-oh-o, lo sé
 Lo sé
+=======
+Dices que fui yo, y no fui yo
+Que nunca te amé de verdad
+Qué rabia me da
+Diste tu versión pero olvidaste
+
+Que me soltaste, me soltaste
+Cuando más necesitaba aferrarme
+Apostaste y me obligaste
+A buscar en otras partes amor
+Oh-u-oh-o, yo sé que en ese escenario igual jugué mi papel
+Oh-u-oh-o, lo sé, se ha hecho tarde para volver
+
+Tú tan reservado y yo pidiendo tanto de ti
+Tanto de mí
+Tu mano era mi fe, mi propia piel
+Y de repente
+
+Me soltaste, me soltaste
+Cuando más necesitaba aferrarme
+Apostaste y me obligaste
+A buscar en otras partes amor
+Oh-u-oh-o, yo sé que en ese escenario igual jugué mi papel
+Oh-u-oh-o, lo sé, se ha hecho tarde para volver
+Me soltaste, me soltaste
+Cuando más necesitaba aferrarme
+Apostaste y me obligaste
+A buscar en otras partes amor
+Oh-u-oh-o y no, yo sé que en ese escenario igual jugué mi papel
+Oh-u-oh-o, lo sé, es demasiado tarde para volver
+
+Oh-u-oh-o, lo sé
+Lo sé
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Lo sé

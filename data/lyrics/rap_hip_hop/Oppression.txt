@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Is a question of strength,
 of unshed tears,
 of being trampled under,
@@ -10,4 +11,18 @@ your birthdays with you behind bars,
 the new spring grass
 like fiery spears will count your years,
 as you start into the next year;
+=======
+Is a question of strength,
+of unshed tears,
+of being trampled under,
+and always, always,
+remembering you are human.
+Look deep to find the grains of hope and strength,
+and sing, my brothers and sisters,
+and sing. The sun will share
+your birthdays with you behind bars,
+the new spring grass
+like fiery spears will count your years,
+as you start into the next year;
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 endure my brothers, endure my sisters.

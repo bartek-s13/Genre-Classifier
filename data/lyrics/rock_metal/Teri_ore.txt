@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dil kho gaya ho gaya kisi ka
 Ab raasta mil gaya khushi ka
 Aankhon mein hai khwab sa kisi ka
@@ -45,4 +46,53 @@ Teri ore, teri ore, teri ore, teri ore
 Hai rabba
 Teri ore, teri ore, teri ore
 Teri ore, Teri ore, teri ore, teri ore
+=======
+Dil kho gaya ho gaya kisi ka
+Ab raasta mil gaya khushi ka
+Aankhon mein hai khwab sa kisi ka
+Ab raasta mil gaya khushi ka
+Rishta naya rabba dil chu raha hai
+Kheeche mujhe koi dore
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Teri ore, teri ore, teri ore
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Teri ore, teri ore, teri ore
+(Aaah)
+Khulti fizaein, khulti ghatayein
+Sar pe naya hai aasaman
+Chaaro dishayein, hass ke bulaye
+Yu sab hue hai meharbaan
+(Haan)
+Hume tou yaehi rabba kasam se pata hai
+Dil pe nahi, koi zor, koi zor
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Teri ore, teri ore, teri ore
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Ek heer thi aur tha ek raanjhan
+Kehte hai mere gaon mein
+Sacha ho dil to sau mushkilen ho
+Jhukta naseeba pao mein
+(Ho ho)
+Aanchal tera rabba falak ban gaya hai
+Ab iska nahi, koi aur, koi chore
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Teri ore, teri ore, teri ore
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Dil kho gaya ho gaya kisi ka
+Ab raasta mil gaya khushi ka
+Aankhon mein hai khwab sa kisi ka
+Ab raasta mil gaya khushi ka
+Rishta naya rabba dil chu raha hai
+Kheeche mujhe koi dore, teri ore
+Teri ore, teri ore, teri ore, teri ore
+Hai rabba
+Teri ore, teri ore, teri ore
+Teri ore, Teri ore, teri ore, teri ore
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Hai rabba

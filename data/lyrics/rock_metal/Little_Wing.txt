@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Well she's walking, through the clouds
 With a circus mind that's running round
 Butterflies and zebras
@@ -13,4 +14,21 @@ Take anything you want from me
 Anything, anything
 Fly on, little wing
 
+=======
+Well she's walking, through the clouds
+With a circus mind that's running round
+Butterflies and zebras
+And moonbeams
+And-a, fairytales
+That's all she ever thinks about
+Riding with the wind
+
+When I'm sad, she comes to me
+With a thousand smiles she gives to me free
+It's alright, she said, it's alright
+Take anything you want from me
+Anything, anything
+Fly on, little wing
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Yeah, yeah, yeah, yeah, little wing

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aah, aah
 You better beware, you better take care
 You better watch out if you've got long black hair
@@ -39,4 +40,47 @@ Buster, Buster, Block Buster!
 Buster, Buster, Block Buster!
 Buster, Buster, Block Buster!
 Buster, Buster, Block Buster!
+=======
+Aah, aah
+You better beware, you better take care
+You better watch out if you've got long black hair
+He'll come from behind, you'll go out of your mind
+You'd better not go, you'd never know what you'll find
+Aah, aah
+You look in his eyes, don't be surprised
+If you don't know what's going on behind his disguise
+Nobody knows where Buster goes
+He'll steal your woman out from under your nose
+Does anyone know the way?
+Did we hear someone say
+"We just haven't got a clue what to do!"
+Does anyone know the way?
+There's got to be a way
+To Block Buster!
+The cops are out, they're running about;
+Don't know if they'll ever be able to Block Buster out
+He's gotta be caught, he's gotta be taught
+Cause he's more evil than anyone here ever thought
+Does anyone know the way?
+Did we hear someone say
+"W-we just haven't got a c--ow!"
+Does anyone know the way?
+There's got to be a way
+To Block Buster!
+Does anyone know the way?
+Did we hear someone say
+"We just haven't got a clue what to do!"
+Does anyone know the way?
+There's got to be a way
+To Block Buster!
+Aah, aah, aah, aah
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+Buster, Buster, Block Buster!
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Buster, Buster, Block Buster!

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You gave me a shoulder when I needed it
 You showed me love when I wasn't feeling it
 You helped me fight when I was giving in
@@ -36,4 +37,44 @@ The reason why my head is still above water
 And if I could, I'd get you the moon
 And give it to you
 And if death was coming for you
+=======
+You gave me a shoulder when I needed it
+You showed me love when I wasn't feeling it
+You helped me fight when I was giving in
+And you made me laugh when I was losing it
+
+'Cause you are, you are
+The reason why I'm still hanging on
+'Cause you are, you are
+The reason why my head is still above water
+
+And if I could, I'd get you the moon
+And give it to you
+And if death was coming for you
+I'd give my life for you
+
+'Cause you are, you are
+The reason why I'm still hanging on
+'Cause you are, you are
+The reason why my head is still above water
+
+And if I could, I'd get you the moon
+And give it to you
+And if death was coming for you
+I'd give my life for you
+
+'Cause you are, you are
+Oh, you are
+Oh, you are
+You are
+
+'Cause you are, you are
+The reason why I'm still hanging on
+'Cause you are, you are
+The reason why my head is still above water
+
+And if I could, I'd get you the moon
+And give it to you
+And if death was coming for you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I'd give my life for you

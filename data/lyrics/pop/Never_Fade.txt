@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I know that you're so afraid, I feel it too
 You know I can see the pain inside of you
 I know I'm not going anywhere
@@ -38,4 +39,46 @@ I wish I could give you an answer
 Say the right words and it'd make you feel better
 But I'm just me, nothing perfect or special
 And I can't make it right today
+=======
+I know that you're so afraid, I feel it too
+You know I can see the pain inside of you
+I know I'm not going anywhere
+When the silence hits the air, you'll know it too
+I know you never asked for this, who ever would
+And you carried all the weight alone, you thought you should
+Just know I'm not going anywhere
+When life's not feeling fair
+
+I wish I could give you an answer
+Say the right words and it'd make you feel better
+But I'm just me, nothing perfect or special
+And I can't make it right today
+But I'm here and I'll never fade away
+
+I know back then you played a part for all of them
+You know when you're with me you don't have to play pretend
+I know you can speak your mind and not get scared
+When the silence hits the air, you'll know it too
+
+I wish I could give you an answer
+Say the right words and it'd make you feel better
+But I'm just me, nothing perfect or special
+And I can't make it right today
+But I'm here and I'll never fade away
+
+And I hope that you know that I'll always be someone to lean on
+And when life gets heavy, I'll carry you through
+And I'm hoping that one day it all gets easier
+It feels lighter, more beautiful for you
+And I hope that you know that I'll always be someone to lean on
+And when life gets heavy, I'll carry you through
+And I'm hoping that one day it all gets easier
+It feels lighter, more beautiful for you
+It feels lighter, more beautiful for you
+
+I wish I could give you an answer
+Say the right words and it'd make you feel better
+But I'm just me, nothing perfect or special
+And I can't make it right today
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I'm here and I'll never fade away

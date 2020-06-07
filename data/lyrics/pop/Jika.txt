@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jika teringat tentang dikau
 Jauh di mata dekat di hati
 Sempat terpikir tuk kembali
@@ -25,4 +26,33 @@ Santun kata yang ingin terucap
 Kan ku dengar caci dan puji dirimu padaku
 Kita masih muda dalam mencari keputusan
 Maafkan daku ingin kembali
+=======
+Jika teringat tentang dikau
+Jauh di mata dekat di hati
+Sempat terpikir tuk kembali
+Walau beda akan ku jalani
+Tak ada niat untuk selamanya pergi
+Jika teringat tentang dikau
+Jauh di mata dekat di hati
+Apakah sama yang kurasa
+Ingin jumpa walau ada segan
+Tak ada niat untuk berpisah denganmu
+Jika memang masih bisa mulutku berbicara
+Santun kata yang ingin terucap
+Kan ku dengar caci dan puji dirimu padaku
+Kita masih muda dalam mencari keputusan
+Maafkan daku ingin kembali
+Seumpama ada jalan tuk kembali
+Jika teringat tentang dikau
+Jauh di mata dekat di hati
+Tak ada niat untuk selamanya pergi
+Jika teringat tentang dikau
+Jauh di mata dekat di hati
+Tak ada niat untuk berpisah denganmu
+Jika memang masih bisa mulutku berbicara
+Santun kata yang ingin terucap
+Kan ku dengar caci dan puji dirimu padaku
+Kita masih muda dalam mencari keputusan
+Maafkan daku ingin kembali
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Seumpama ada jalan tuk kembali

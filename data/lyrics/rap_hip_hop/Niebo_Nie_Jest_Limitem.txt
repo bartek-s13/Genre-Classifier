@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mówi¹: niebo jest limitem, dosiêgam chmur
 Sk³adam s³owa z liter, zdania ze s³ów
 S³uch wytê¿, serce nastaw, jestem tu
@@ -49,4 +50,57 @@ Chuj z tym, ¿e jesteœ sam, ju¿ nawet nie ma naszych ³awek
 Znasz ka¿d¹ jego wadê to ob³uda, fa³sz i pekiel
 Nie wiem co jest lekiem, nie pijê od tygodnia
 Jestem bli¿ej gwiazd ni¿ niebo
+=======
+Mówi¹: niebo jest limitem, dosiêgam chmur
+Sk³adam s³owa z liter, zdania ze s³ów
+S³uch wytê¿, serce nastaw, jestem tu
+Przemierzam ulice tego miasta - czujê ból
+Mijam siê z zachwytem
+Kumple w walce o lepsze ¿ycie musz¹ lataæ za granicê
+Brak mi ich w chuj, dni ju¿ nie liczê
+Ka¿dy z nas lata po innej orbicie ju¿
+Bracie, nie mo¿esz traciæ kontroli
+Kolce ró¿ bêd¹ k³uæ tak d³ugo, jak im na to pozwolisz
+Pamiêtaj, sam podejmiesz decyzjê
+Czy p³yniesz wp³aw, czy siadasz na mieliŸnie
+
+Moje serce znowu zalewa gniew
+Znów czujê strach i pierdolony stres
+Niepokój i lêk, nie wiem który to ju¿ dzieñ
+Mia³em nieprzespan¹ noc, lub niespokojny sen
+Chcia³bym uciec gdzieœ daleko od wszystkiego
+Zacz¹æ wszystko od pocz¹tku i wymazaæ ca³¹ przesz³oœæ
+Bo mam zbyt wiele chwil, w których bym to wszystko jebn¹³ w pizdu
+Dziœ tylko dzieciaki trzymaj¹ mnie chyba przy ¿yciu
+I zrozum, nie jest mi ³atwo wyraziæ emocji
+Bo ciê¿ko jest mi mówiæ o œmierci najbli¿szej dla mnie osoby
+A jedyne co robiê dziœ, kiedy patrzê w niebo
+To za ka¿dym razem zastanawiam siê, kurwa, dlaczego?
+Nie mów mi, ¿e to jest niemo¿liwe; Tom Cruise
+Dzieñ za dniem p³ynie i chyba czas ju¿
+Odstawiæ melan¿ i szlugi, posp³acaæ raty i d³ugi
+Uwolniæ umys³, przygotowaæ siê do marszu
+Œwiat stoi otworem, sam stoisz przed wyborem
+Wiele dróg, wiele myœli; P.O.E
+Przed tob¹ kolejny kilometr (mordo)
+Nabierz si³, unieœ w górê g³owê
+I nie ufaj w¹tpliwoœci¹, te¿ niekiedy myslê, ¿e ¿ycie jest chorê
+Przyjdzie dzieñ i nie obudzisz siê nad ranem
+Przyjdzie czas, rozsypi¹ nas nad oceanem; Gandhi
+Musisz podj¹æ decyzjê
+Czy stawiasz na siebie, czy idziesz na ³atwiznê, co?
+
+Codziennie wygrywam ¿ycie, pewnie wspinam siê na szczyt
+Czasem têsknie za beztrosk¹, tak jak w '93
+Wróciæ tam, zrobiæ wdech i wstrzymaæ powietrzê
+Tak by za 20 lat lat choæ w jednym procencie byæ dzieckiem
+Bez na³ogów, uzale¿nieñ, kochaæ œwiat na czysto
+Wczeœniej spaæ, du¿o mniej chlaæ, ogarniaæ rzeczywistoœæ
+Gdzie widzisz podobieñstwo? dzisiaj wszystko jest inaczej
+Chuj z tym, ¿e jesteœ sam, ju¿ nawet nie ma naszych ³awek
+¯ycie ma wagê, kiedyœ by³o lekkie
+Znasz ka¿d¹ jego wadê to ob³uda, fa³sz i pekiel
+Nie wiem co jest lekiem, nie pijê od tygodnia
+Jestem bli¿ej gwiazd ni¿ niebo
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Z góry na nie w dó³ spogl¹dam

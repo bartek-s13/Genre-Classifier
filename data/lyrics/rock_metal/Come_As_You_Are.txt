@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Come as you are, as you were
 As I want you to be
 As a friend, as a friend
@@ -35,4 +36,43 @@ No, I don't have a gun
 No, I don't have a gun
 
 Memoria
+=======
+Come as you are, as you were
+As I want you to be
+As a friend, as a friend
+As an old enemy
+Take your time, hurry up
+Choice is yours, don't be late
+Take a rest as a friend
+As an old memoria
+
+Memoria
+Memoria
+Memoria
+
+Come doused in mud, soaked in bleach
+As I want you to be
+As a trend, as a friend
+As an old memoria
+
+Memoria
+Memoria
+Memoria
+And I swear that I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+
+
+Memoria
+Memoria
+Memoria (No, I don't have a gun)
+
+And I swear that I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+
+Memoria
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Memoria

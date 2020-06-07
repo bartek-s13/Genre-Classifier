@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Major Grammar
 
 I'm a big, bad, cowboy, run through my veins
@@ -29,4 +30,37 @@ Anybody step to me, he's a goner
 I'm a big, bad, cowboy, I love drinkin' beer
 My wife Jenny cooks, mm, smells like a deer
 It's just me and my hoes, 'bout to plow these fields
+=======
+Major Grammar
+
+I'm a big, bad, cowboy, run through my veins
+Back roads, ridin' horses, I be switchin' the lanes
+It's just me and my posse, we're ready to rumble
+Anybody step to me, he's a goner
+I'm a big, bad, cowboy, I love drinkin' beer
+My wife Jenny cooks, mm, smells like a deer
+It's just me and my hoes, 'bout to plow these fields
+I see a big, bad, cowboy when I look in the mirror, hey, hey
+
+Motherfuck that, and motherfuck this
+I sick and tired of steppin' in this fuckin' dog shit
+I got my overalls on and I'm 'bout to go to and fish
+I got my jaw filled up with tobacco dip
+Don't you try me, bitch, revolver's on my hip
+Drinkin' moonshine, it burns when I take a sip
+Holy shit, that's a motherfuckin' smokin' hot bitch
+Walked up on her, asked her, "Baby, would you like to suck my dick?"
+If she don't, oh well, that's a blessin' that she missed
+I'm nine feet tall if I'm standin' on my dick
+If she suck it, she'll get hoarse, I'm kin to a horse
+Got a big, bad, hammer, bitch, my name should've been Thor
+
+I'm a big, bad, cowboy, run through my veins
+Back roads, ridin' horses, I be switchin' the lanes
+It's just me and my posse, we're ready to rumble
+Anybody step to me, he's a goner
+I'm a big, bad, cowboy, I love drinkin' beer
+My wife Jenny cooks, mm, smells like a deer
+It's just me and my hoes, 'bout to plow these fields
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I see a big, bad, cowboy when I look in the mirror, hey, hey

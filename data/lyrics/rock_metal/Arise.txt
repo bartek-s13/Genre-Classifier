@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Obscured by the sun
 Apocalyptic clash
 Cities fall in ruin
@@ -26,4 +27,34 @@ Problems remain
 
 Obliteration of mankind
 Under a pale grey sky
+=======
+Obscured by the sun
+Apocalyptic clash
+Cities fall in ruin
+Why must we die?
+
+Obliteration of mankind
+Under a pale grey sky
+We shall arise...
+
+I did nothing, saw nothing
+Terrorist confrontation
+Waiting for the end
+Wartime conspiracy
+
+I see the world - old
+I see the world - dead
+
+Victims of war, seeking some salvation
+Last wish, fatality
+I've no land, I'm from nowhere
+Ashes to ashes, dust to dust
+Face the enemy
+Manic thoughts
+Religious intervention
+Problems remain
+
+Obliteration of mankind
+Under a pale grey sky
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We shall arise...

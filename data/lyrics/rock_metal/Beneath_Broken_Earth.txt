@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Before us the king
 As lifeless hearts sink
 Before us lay dreams
@@ -16,4 +17,24 @@ You wish to die
 Before us the king
 Our lifeless hearts sink
 Before us beneath
+=======
+Before us the king
+As lifeless hearts sink
+Before us lay dreams
+A light no one sees
+Hail to nothingness
+You wish to die
+Hail to godliness
+You wish to die
+Ungodliest ones
+The circle is done
+Ungodliest ones
+Hail to nothingness
+You wish to die
+Hail to godliness
+You wish to die
+Before us the king
+Our lifeless hearts sink
+Before us beneath
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 A light no one sees

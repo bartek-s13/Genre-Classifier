@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How many years have we waited for a ship that never set sail?
 And how many days have we wasted chasing a love that was not our own?
 I sat ashore and watched as one hopeless wave crashed upon another
@@ -14,4 +15,22 @@ And how many days have we wasted chasing a love that was not our own?
 Is this your salvation?
 Is this all you can give?
 I will not stand in reflection
+=======
+How many years have we waited for a ship that never set sail?
+And how many days have we wasted chasing a love that was not our own?
+I sat ashore and watched as one hopeless wave crashed upon another
+While my thoughts ran to the hills, my heart never reached the sea
+With only delusions of an endless journey
+I am left with an ocean between you and me
+Is this your salvation?
+Is this all you can give?
+I will not stand in reflection of someone else's dream
+The gate to my heart has been weld shut
+With the splendor of my aspirations closed in
+How many years have we waited for a ship that never set sail?
+And how many days have we wasted chasing a love that was not our own?
+Is this your salvation?
+Is this all you can give?
+I will not stand in reflection
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Of someone else's dream

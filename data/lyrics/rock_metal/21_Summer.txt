@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Now and then
 I think about you now and then
 When I see that Chevrolet
@@ -23,4 +24,31 @@ When I hear the sound of high tide thunder
 I can see your hair blowing in the breeze
 I think about how you and that 21 summer made a man of me
 Yeah you made a man of me
+=======
+Now and then
+I think about you now and then
+When I see that Chevrolet
+That certain shade, of blue
+I hear that song, the one we sang all summer long
+And even though its been so long it brings me back
+Right back to you
+
+I hope you find the storm that you were chasing
+Hope your eyes are still as full of dreams
+As they were that night when you slipped off those cut off jeans
+When I hear the sound of high tide thunder
+I can see your hair blowing in the breeze
+I think about how you and that 21 summer made a man of me
+Yeah you made a man of me
+How you been I'd love to hear bout how you've been
+You're the only broken heart I've ever had, and love to have again
+
+I hope you find the storm that you were chasing
+Hope your eyes are still as full of dreams
+As they were that night when you slipped off those cut off jeans
+When I hear the sound of high tide thunder
+I can see your hair blowing in the breeze
+I think about how you and that 21 summer made a man of me
+Yeah you made a man of me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Yeah you made a man of me

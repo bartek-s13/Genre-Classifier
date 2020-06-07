@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Letra de Todo Pasa
 Mi vista es distinta
 Es muy triste y contamina
@@ -49,4 +50,57 @@ Mi mente necesita de calma
 Que todo cambia
 Mi mundo siente que se va acabar
 Porque esto ataca
+=======
+Letra de Todo Pasa
+Mi vista es distinta
+Es muy triste y contamina
+Quiero dejar de creer
+Estarme sola y no ver
+Me siento cada vez menos viva
+Derrotada y confundida
+Sin saber que hacer
+No logro entender
+Que aunque aquí todo esta muy bien
+Mi mente no deja de correr
+
+Que todo pasa
+Que la vida de repente me alcanza
+Que estoy cansada
+Mi mente necesita de calma
+Que todo cambia
+Mi mundo siente que se va acabar
+Porque esto ataca
+En silencio parezco dudar
+La vida es un proceso
+Cada quien construyendo su reto
+Y al mismo tiempo
+Uno siente rincones inciertos
+Miro al cielo
+Pido al mundo respuestas a esto
+Que me esta comiendo
+Pero debo escarbar mis adentros
+Que aunque todo esta muy bien
+Mi mente no deja de correr
+
+Que todo pasa
+Que la vida de repente me alcanza
+Que estoy cansada
+Mi mente necesita de calma
+Que todo cambia
+Mi mundo siente que se va acabar
+Porque esto ataca
+En silencio parezco dudar
+La rudeza de mi mente es sutil
+Sin darme cuenta puede dejarme aquí
+Quiero ser fuerte, no dejar de competir
+Esta lucha es solo contra mi
+
+Que todo pasa
+Que la vida de repente me alcanza
+Que estoy cansada
+Mi mente necesita de calma
+Que todo cambia
+Mi mundo siente que se va acabar
+Porque esto ataca
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Pero sé que lo voy a lograr

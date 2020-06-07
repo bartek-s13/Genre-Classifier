@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ludzie mnie kochaj¹, nienawidz¹, ja zamawiam pizzê
 Budzik mam na szóst¹, kierunek Jerozolimskie
 Pogadamy sobie trzy godziny i wrócê na chatê
@@ -47,4 +48,55 @@ Tak naprawdê to wiem ale trudno, jebaæ to
 Ogólnie to jest wszystko OK, wszystko OK
 A chcia³bym byæ szybszy o ten krok, jeden krok
 Coœ mi ucieka, nie wiem co, nie wiem co
+=======
+Ludzie mnie kochaj¹, nienawidz¹, ja zamawiam pizzê
+Budzik mam na szóst¹, kierunek Jerozolimskie
+Pogadamy sobie trzy godziny i wrócê na chatê
+W weekend zgarnê kilka ko³a za granie dla nastolatek
+Ludzie mówi¹ "Ale ¿ycie!" kiedy patrz¹ jak mam teraz
+Kurwa, nie macie pojêcia jak ma³o mi potrzeba
+Jak bardzo boli mnie, ¿e kiedy wracasz nikt nie pyta
+Pytaj¹ mnie o featy i o to kiedy p³yta
+Boli mnie, ¿e nie umiem przekazaæ w s³owach tego uczucia Wszystko git, a jednak coœ siê chowa we mnie i chce krzyczeæ
+¯e to jebana samotnoœæ
+Nie chodzi o przyjació³, chodzi mi o kogoœ kto
+Bêdzie drug¹ liter¹ mojego "ja"
+Kto sprawi, ¿e nigdy nie bêdê czu³ siê sam
+Kto sprawi, ¿e wywalczê siebie dla kogoœ
+Bo chce tego kurwa i potrafiê, daje s³owo
+
+Ogólnie to jest wszystko OK, wszystko OK
+A chcia³bym byæ szybszy o ten krok, jeden krok
+Coœ mi ucieka, nie wiem co, nie wiem co
+Tak naprawdê to wiem ale trudno, jebaæ to
+Ogólnie to jest wszystko OK, wszystko OK
+A chcia³bym byæ szybszy o ten krok, jeden krok
+Coœ mi ucieka, nie wiem co, nie wiem co
+Tak naprawdê to wiem ale trudno, jebaæ to
+Poznaje nowych ludzi, nie poznaje nowych osób
+Mam ze sob¹ problem nie obwiniam za to losu
+Pisz¹ te œlicznotki co kiedyœ tak chcia³em "hehe"
+Ale na co mi wpierdalaæ siê w tanie seriale, krechê?
+Sypie ziomek obok, pyta czy chce ja ¿e nie wiem
+Chcieæ to ja najbardziej chcia³bym zadzwoniæ do Ciebie
+Ale nie ma fal i chuj, Ciebie te¿ nie ma jeszcze
+Ale przychodzisz do g³owy, zawsze robisz mi to przed snem
+Leci jakieœ gówno, nie wiem co to MJ. Cole i techno
+Potem Oddzia³ Zamkniêty, potem Solar z now¹ prevk¹
+Przychodzi DM czy j¹ puknê i mi przykro jakoœ
+Nie chcê tego œwiata, nie piszê siê na to
+Mo¿e jestem g³upim naiwniakiem
+Ale czujê przede wszystkim w sobie
+Prze¿ywam wiêkszoœæ i nie czujê siê zbyt bliski tym osobom
+Które kocham, bo chyba nikt mnie nie kuma
+Otwarte morze jeden cz³owiek i szalupa
+
+Ogólnie to jest wszystko OK, wszystko OK
+A chcia³bym byæ szybszy o ten krok, jeden krok
+Coœ mi ucieka, nie wiem co, nie wiem co
+Tak naprawdê to wiem ale trudno, jebaæ to
+Ogólnie to jest wszystko OK, wszystko OK
+A chcia³bym byæ szybszy o ten krok, jeden krok
+Coœ mi ucieka, nie wiem co, nie wiem co
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Tak naprawdê to wiem ale trudno, jebaæ to

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Self raised, self made
 Nothing was ever handed to me
 I tasted pain, the gutter hugged me
@@ -14,4 +15,22 @@ I learned everything the hard way
 Helpless and crisis
 Without them you never know better days
 Unsound, self bound
+=======
+Self raised, self made
+Nothing was ever handed to me
+I tasted pain, the gutter hugged me
+Till I stood up and embraced the flames
+Always pushing, always searching
+Always crossing the line
+Try to hold me back
+I swing the hammer of inner strength
+Always the hard way
+Nothing was never handed to me
+Always the hard way
+You taught me truth, you gave me strength
+I learned everything the hard way
+Helpless and crisis
+Without them you never know better days
+Unsound, self bound
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Cause you never had to fight for anything

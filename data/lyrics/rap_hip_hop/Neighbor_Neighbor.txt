@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (Alton Joseph Valier/Huey Meaux)
 Neighbour neighbour, don't you worry what goes on in my home
 You're always looking for something to gossip about
@@ -24,4 +25,32 @@ You tell everybody we fuss and fight every night
 You got troubles it's my trouble too
 Something bad's gonna happen to you
 Neighbour neighbour, don't you worry what goes on in my home
+=======
+(Alton Joseph Valier/Huey Meaux)
+Neighbour neighbour, don't you worry what goes on in my home
+You're always looking for something to gossip about
+You're running around from door to door
+Shooting your mouth about things you don't know
+Neighbour neighbour, don't you worry what goes on in my home
+Neighbour neighbour, don't you worry 'bout how I treat my wife
+You tell everybody we fuss and fight every night
+You got troubles it's my trouble too
+Something bad's gonna happen to you
+Neighbour neighbour, don't you worry what goes on in my home
+Neighbour neighbour, don't you worry about who knocks on my door
+You're always running, pacing all over the floor
+You're peeping and creeping through the hall
+Keeping your great big ear glued to my wall
+Neighbour neighbour, don't you worry what goes on in my home
+Neighbour neighbour, don't you worry about who knocks on my door
+You're always running, pacing all over the floor
+You're peeping and creeping through the hall
+Keeping your great big ear glued to my wall
+Neighbour neighbour, don't you worry what goes on in my home
+Neighbour neighbour, don't you worry 'bout how I treat my wife
+You tell everybody we fuss and fight every night
+You got troubles it's my trouble too
+Something bad's gonna happen to you
+Neighbour neighbour, don't you worry what goes on in my home
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Neighbour neighbour, don't you worry what goes on in my home

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Every day I'm just survivin'
 Keep climbin' the mountain
 Even when I feel like dyin'
@@ -43,4 +44,51 @@ Keep climbin' the mountain
 Every time I think I'm over it
 I wake up in the bottom of it all again
 I'm still alive and keep climbin'
+=======
+Every day I'm just survivin'
+Keep climbin' the mountain
+Even when I feel like dyin'
+Keep climbin' the mountain
+
+Another night I'm barely holdin' on
+One step away from being dead and gone
+Am I alive to die another day?
+Is this life that I've been livin' all that's meant for me?
+
+Every day I'm just survivin'
+Keep climbin' the mountain
+Even when I feel like dyin'
+Keep climbin' the mountain
+Every time I think I'm over it
+I wake up in the bottom of it all again
+I'm still survivin', keep climbin'
+Keep climbin' the mountain
+
+The higher I go, the harder I fall
+So I don't look down, I don't look back at all
+And when I wish it all would turn to black
+I try to see the light and push the darkness back
+
+Every day I'm just survivin'
+Keep climbin' the mountain
+Even when I feel like dyin'
+Keep climbin' the mountain
+Every time I think I'm over it
+I wake up in the bottom of it all again
+I'm still survivin', I keep climbin'
+Keep climbin' the mountain
+
+So if I'm not already too far gone
+And if I feel a pulse then I can carry on
+When I'm lost and wanna fade away
+I tell myself to live, to die another day
+
+Every day I'm just survivin'
+Keep climbin' the mountain
+Even when I feel like dyin'
+Keep climbin' the mountain
+Every time I think I'm over it
+I wake up in the bottom of it all again
+I'm still alive and keep climbin'
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Keep climbin' the mountain, the mountain

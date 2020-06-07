@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've got shackles round my feet, they tie me to this place
 They won't loosen up for love or money, or anything that's in between
 They're telling me I'm not allowed to leave
@@ -43,4 +44,51 @@ Just think about how happy you could be
 If I had the chance to say
 "I'm sorry for how I changed,"
 'Cause I would be nothing without you
+=======
+I've got shackles round my feet, they tie me to this place
+They won't loosen up for love or money, or anything that's in between
+They're telling me I'm not allowed to leave
+You kept telling me that I should pack up just in case
+'Cause you thought that I had better things in store
+I couldn't do as I was told, so I told you I didn't love you anymore
+
+But somehow you saw through it all
+And you took out all the dark thoughts that I think
+Now you don't return any of my calls
+So I guess your heart was a one time thing
+
+I wish I could take my time
+And show you that I'll be fine
+'Cause I would be nothing without you
+Nothing without you
+
+A couple hours into this long 13 hour drive
+Its just me with the lights off and I think
+I should've done better by you
+Now I can feel the shackles burn their way into my skin
+When I turn around and try to run away from all the dark thoughts
+Cause now I have nothing to prove and no one to lose
+
+And next time I'll do better
+Cause if I make the same mistakes again
+
+I wish I could take my time
+And show you that I'll be fine
+'Cause I would be nothing without you
+Nothing without you
+If I had the chance to say
+"I'm sorry for how things changed,"
+'Cause I would be nothing without you
+Nothing without you
+
+And you shaped me into who I wanted to be
+And you made me take a look at myself and see
+
+I wish I could take my time
+And show you that I'll be fine;
+Just think about how happy you could be
+If I had the chance to say
+"I'm sorry for how I changed,"
+'Cause I would be nothing without you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Nothing without you

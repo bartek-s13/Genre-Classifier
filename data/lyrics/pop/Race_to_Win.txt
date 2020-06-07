@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I always race to win, keep running 'til the end
 I gotta move and stay one step ahead
 Stay back and watch me go the only way I know
@@ -20,4 +21,28 @@ I gotta move and stay one step ahead
 Stay back and watch me go the only way I know
 Because you know I always race
 Always race
+=======
+I always race to win, keep running 'til the end
+I gotta move and stay one step ahead
+Stay back and watch me go the only way I know
+'Cause nothing's gonna slow me down (oh no!)
+I'm running really fast, step back and watch me pass
+Doing my best to stay ahead of you
+Won't let you catch me, even gonna pass me
+Because I think I know a trick or two
+
+Not gonna look back 'cause I don't wanna see
+Not gonna worry who is gaining on me
+Race to win, race to win, race to win!
+
+The race is getting rough, but I just won't give up
+The competition's getting really tight
+Not gonna happen, 'cause I'm not stoppin'
+No way, no how, I know the end's in sight
+I always race to win, keep running 'til the end
+I gotta move and stay one step ahead
+Stay back and watch me go the only way I know
+Because you know I always race
+Always race
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Always Race to Win!

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Into the Motherland the German army march!
 In the Soviet Union, Summer 1943
 Tanks line up in thousands, as far the eye can see
@@ -45,4 +46,53 @@ Into the Motherland the German Army march!
 Comrades, stand side by side, to stop the Nazi charge
 Panzers on Russian soil
 Thunder in the east
+=======
+Into the Motherland the German army march!
+In the Soviet Union, Summer 1943
+Tanks line up in thousands, as far the eye can see
+Ready for the onslaught, ready for the fight
+Waiting for the Axis, to march into the trap
+Mines are placed in darkness in the cover of the night
+Waiting to be triggered when the time is right
+Imminent invasion, imminent attack
+Once the battle's started there's no turning back
+The end of the Third Reich draws near
+Its time has come to an end
+The end of an era is near
+It's time to attack
+Into the Motherland the German Army march!
+Comrades, stand side by side, to stop the Nazi charge
+Panzers on Russian soil thunder in the east
+One million men at war, the Soviet wrath unleashed
+Fields of Prokhorovka, the heat of battle burned
+Suffered heavy losses, the tide of war has turned
+Driving back the Germans, fighting on four fronts
+Hunt them out of Russia, out of Soviet land
+Reinforce the frontline, force the Axis to retreat
+Send in all the reserves, securing their defeat
+Soldiers of the Union broke the Citadel
+"Ruins of an Army Axis rest in hell"
+The end of the Third Reich draws near
+Its time has come to an end
+The end of an era is near
+It's time to attack
+Into the Motherland the German Army march!
+Comrades, stand side by side, to stop the Nazi charge
+Panzers on Russian soil
+Thunder in the east
+One million men at war, the Soviet wrath unleashed
+Onward Comrades! Armies of the Soviet Union, Charge!
+Oh, Mother Russia, union of lands
+Will of the people, strong in command
+Oh, Mother Russia, union of lands
+Once more victorious, the Red Army stands
+The end of the Third Reich draws near
+Its time has come to an end
+The end of an era is near
+It's time to attack
+Into the Motherland the German Army march!
+Comrades, stand side by side, to stop the Nazi charge
+Panzers on Russian soil
+Thunder in the east
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 One million men at war, the Soviet wrath unleashed

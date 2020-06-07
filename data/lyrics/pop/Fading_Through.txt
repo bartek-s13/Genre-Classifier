@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I drown in the oceans
 That keep us apart
 Mapping distant stars
@@ -30,4 +31,38 @@ And can't you see it was all for you?
 Can you make this new?
 Can you make this new?
 Body crumbles to dust
+=======
+I drown in the oceans
+That keep us apart
+Mapping distant stars
+Oh their voices call me
+To the shelter of your skin
+Where the end begins
+
+Oh I'm fading through
+Oh I'm fading through
+Nothing left to do
+And can't you see it was all for you?
+
+I'd climb on rooftops
+To catch a glimpse of the moon
+A fading trail of you
+A mountain of effort
+And a wall of prayer
+But this war is to the death
+
+Oh we're fading through
+Oh we're fading through
+Nothing left to do
+And can't you see it was all for you?
+
+Oh we're fading through
+Oh we're fading through
+Nothing left to do
+And can't you see it was all for you?
+
+Can you make this new?
+Can you make this new?
+Body crumbles to dust
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I can't lose you

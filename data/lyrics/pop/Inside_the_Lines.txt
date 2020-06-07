@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Worried sky
 In need of something green to sleep at night
 Aiming high
@@ -25,4 +26,33 @@ You move me like the moon that pulls the tide
 Tried to keep our colours
 Inside the lines, inside the lines
 But it's hard to draw emotions
+=======
+Worried sky
+In need of something green to sleep at night
+Aiming high
+We're living restless, but it's you and I
+
+Can see we are the shade, the fire and rain
+True work of art is not a thing we change
+Aiming high
+We're living restless, but it's you and I
+
+Tried to keep our colours
+Inside the lines, inside the lines
+But it's hard to draw emotions
+In troubled minds, inside the lines
+
+Bold and brave
+Compared to others, we just paint them grey, uh
+Here to stay
+Know that the two of us won't fade away
+
+Can see we are the shade, the fire and rain
+True work of art is not a thing we change
+Hard to hide
+You move me like the moon that pulls the tide
+Tried to keep our colours
+Inside the lines, inside the lines
+But it's hard to draw emotions
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In troubled minds, inside the lines

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You walked with me, footprints in the sand
 And helped me understand where I'm going
 You walked with me when I was all alone
@@ -32,4 +33,40 @@ You'll find my footprints in the sand
 (I promise you, I'm always there)
 When your heart is full of sadness and despair (and despair)
 I'll carry you when you need a friend
+=======
+You walked with me, footprints in the sand
+And helped me understand where I'm going
+You walked with me when I was all alone
+With so much unknown along the way
+Then I heard you say...
+
+I promise you, I'm always there
+When your heart is filled with sorrow and despair
+I'll carry you when you need a friend
+You'll find my footprints in the sand
+
+I see my life flash across the sky
+So many times have I been so afraid
+And just when I, I thought I'd lost my way
+You gave me strength to carry on
+That's when I heard you say...
+
+I promise you, I'm always there
+When your heart is filled with sorrow and despair
+And I'll carry you when you need a friend
+You'll find my footprints in the sand
+
+When I'm weary
+Well, I know you'll be there
+And I can feel you when you say...
+
+I promise you
+I'm always there
+When your heart is filled with sadness and despair (and despair)
+I'll carry you when you need a friend (need a friend)
+You'll find my footprints in the sand
+(I promise you, I'm always there)
+When your heart is full of sadness and despair (and despair)
+I'll carry you when you need a friend
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You'll find my footprints in the sand

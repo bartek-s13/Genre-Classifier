@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Today, I feel like pleasing you more than before
 Today, I know what I wanna do, but I don’t know what for
 To be living for you is all I want to do
@@ -12,4 +13,20 @@ With you standing here, I could tell the world what it means to love
 To go on from here, I can’t use words they don’t say enough
 Please, please listen to me
 It’s taken so long to come true
+=======
+Today, I feel like pleasing you more than before
+Today, I know what I wanna do, but I don’t know what for
+To be living for you is all I want to do
+To be loving you it’ll all be there when my dreams come true
+Today you’ll make me say that I somehow have changed
+Today you’ll look into my eyes, I’m just not the same
+To be any more than all I am would be a lie
+I’m so full of love I could burst apart and start to cry
+Today, everything you want I swear it all will come true
+Today, I realize how much I’m in love with you
+With you standing here, I could tell the world what it means to love
+To go on from here, I can’t use words they don’t say enough
+Please, please listen to me
+It’s taken so long to come true
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And it’s all for you, all for you

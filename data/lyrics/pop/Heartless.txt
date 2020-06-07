@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You cut my heart in a million of pieces
 Damn, why you gotta be so heartless
 Why you gotta be so heartless
@@ -18,4 +19,26 @@ Why you gotta be so heartless
 You cut my heart in a million of pieces
 Damn, why you gotta be so heartless
 Why you gotta be so heartless
+=======
+You cut my heart in a million of pieces
+Damn, why you gotta be so heartless
+Why you gotta be so heartless
+You cut my heart in a million of pieces
+Damn, why you gotta be so heartless
+Why you gotta be so heartless
+You got me like...
+You cut my heart in a million of pieces
+Damn, why you gotta be so heartless
+Why you gotta be so heartless
+You cut my heart in a million of pieces
+Damn, why you gotta be so heartless
+Why you gotta be so heartless
+You got me like...
+You cut my heart in a million of pieces
+Damn, why you gotta be so heartless
+Why you gotta be so heartless
+You cut my heart in a million of pieces
+Damn, why you gotta be so heartless
+Why you gotta be so heartless
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You got me like

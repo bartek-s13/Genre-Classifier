@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Far above the ravengate
 The spread wings of Blashyrkh wait
 Above the roaring depths
@@ -12,4 +13,20 @@ Cry of ravens lurk the realm
 Eternally through the noctambulant grimness
 Demons stride at the Gate of Blashyrkh
 Mighty Ravendark
+=======
+Far above the ravengate
+The spread wings of Blashyrkh wait
+Above the roaring depths
+Sits the oath of frost on the elder Raven Throne
+Older mountains sleeping in my sight
+By chilling woods I stand
+A grimly sound of naked winds
+Is all that it shall ever be heard from here
+Blashyrkh
+Cometh the rightful Kings of the highest halls
+Cry of ravens lurk the realm
+Eternally through the noctambulant grimness
+Demons stride at the Gate of Blashyrkh
+Mighty Ravendark
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Blashyrkh’s Mighty Ravendark

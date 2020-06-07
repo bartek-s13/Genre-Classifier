@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've been stuck in mourning
 Waiting for the beat
 I've been running circles
@@ -34,4 +35,42 @@ And I'll be good to you
 
 Oh
 Just tell me you love me babe
+=======
+I've been stuck in mourning
+Waiting for the beat
+I've been running circles
+Searching for the key
+A message in a bottle
+Floating in the sea
+Giving me the answers
+Giving all I need
+
+And the thought of your love is enough to give me the answers
+And I hate waking up when I know that it's not with you
+Give me a chance
+Cause darling I've been loving all the things that you do
+Tell me you love me
+And I'll be good to you
+Oh yeah
+I'll be good to you babe
+I'll be good to you
+
+I was in the mountains
+Sheltered in the trees
+Following the rhythm
+Following the breeze
+And that was where you found me
+Found me in the rain
+Took me through the valley
+And you took away my pain
+Oh the thought of your love is enough to give me the answers
+And I hate waking up when I know that it's not with you
+Give me a chance
+Cause darling I've been loving all the things that you do
+Tell me you love me
+And I'll be good to you
+
+Oh
+Just tell me you love me babe
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And I'll be good to you

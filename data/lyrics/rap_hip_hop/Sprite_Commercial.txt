@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .to the tick tock ya don't stop...
 Ya put a can in yer hand and just pop the top
 Hey yo, Chris, wassup blow, what's that in yer hand?
@@ -9,4 +10,17 @@ And what's you drink? S-P-R-I-T-E, why?
 Cause it's a lifesaver when you need thirst quenchin' like a
 Kiss with a Lymon twist now you know that's kickin'
 Word - So drink up drink up, it's what you gotta do
+=======
+.to the tick tock ya don't stop...
+Ya put a can in yer hand and just pop the top
+Hey yo, Chris, wassup blow, what's that in yer hand?
+It's the S to the P-R-I-T-E can
+Understand the cause Chris, drink the crazy crazy twist
+Of unexpectedness that you should never miss
+So what's your name? Daddy M-A-C
+And what's you drink? S-P-R-I-T-E, why?
+Cause it's a lifesaver when you need thirst quenchin' like a
+Kiss with a Lymon twist now you know that's kickin'
+Word - So drink up drink up, it's what you gotta do
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Why? Cause I like the Sprite in you

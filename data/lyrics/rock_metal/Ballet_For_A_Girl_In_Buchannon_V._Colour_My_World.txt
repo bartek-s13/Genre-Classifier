@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 As time goes on
 I realize
 Just what you mean
@@ -9,4 +10,17 @@ That I've waited to share
 And dreams
 Of our moments together
 Color my world
+=======
+As time goes on
+I realize
+Just what you mean
+To me
+And now
+Now that you're near
+Promise your love
+That I've waited to share
+And dreams
+Of our moments together
+Color my world
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 With hope of loving you

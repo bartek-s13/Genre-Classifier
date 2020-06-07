@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cycles
 First it's warm and then it's too cold
 Getting sick from all this motion
@@ -25,4 +26,33 @@ Wish I could tell you why
 I try my hardest
 I would be honest
 If i could think straight
+=======
+Cycles
+First it's warm and then it's too cold
+Getting sick from all this motion
+Washed away all my devotion
+Well
+
+I never want to
+Become just like you
+It's pretty simple
+Wish I could tell you why
+I try my hardest
+I would be honest
+If i could think straight
+If i could speak my mind
+
+Swimming
+'Til the water started spinning
+Now I feel it down in my throat
+Heart's too heavy for a lifeboat
+Well
+I never want to
+Become just like you
+It's pretty simple
+Wish I could tell you why
+I try my hardest
+I would be honest
+If i could think straight
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 If i could speak my mind

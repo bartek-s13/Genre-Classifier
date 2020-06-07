@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hey, how are you doing?
 I just wanted to say that I miss you, I guess
 And I'm sorry
@@ -46,4 +47,54 @@ I'm letting go of all I've ever known
 'Cause I'm leaving
 'Cause I'm leaving
 'Cause I'm leaving
+=======
+Hey, how are you doing?
+I just wanted to say that I miss you, I guess
+And I'm sorry
+Call me back
+Bye
+
+So tell me how I'm supposed to feel now
+60 over the limit just 'cause I can
+They say, "You know, you gotta slow down
+There's no coming back"
+So young and restless, I'm a cliché, yeah
+But it's easier said than done
+
+And I can't keep waiting here
+I'm just aging
+So I'm gone
+Such a shame, and
+
+Baby, I'm leaving
+Before tomorrow comes
+I don't believe in saying "I'm never coming home"
+But I'm drawing the line
+And say whatever you like
+But I'm leaving
+I'm letting go of all I've ever known
+So falling in and falling out fast
+I'm burning up, I can't believe this got old so fast
+And I'm done with feeling like I'm told I should
+'Cause it's a feeling I'm chasing
+And I ain't found it here in a while
+
+But I can't keep waiting here
+I'm just aging
+So I'm gone
+Such a shame, and
+
+Baby, I'm leaving
+Before tomorrow comes
+I don't believe in saying "I'm never coming home"
+But I'm drawing the line
+And say whatever you like
+But I'm leaving
+I'm letting go of all I've ever known
+
+'Cause I'm leaving
+'Cause I'm leaving
+'Cause I'm leaving
+'Cause I'm leaving
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Cause I'm leaving

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fuimos libres
 Fuimos pasajeros de un falso tren
 No eras mía, nunca lo serías
@@ -55,4 +56,63 @@ Duele ser infiel (Duele ser infiel)
 Duele ser infiel (Duele ser infiel, uh)
 
 Yo sé
+=======
+Fuimos libres
+Fuimos pasajeros de un falso tren
+No eras mía, nunca lo serías
+Solo esta vez
+Te iras, me iré
+Nadie sabe nada
+Escóndete
+Relámpago, última parada
+Despídete
+
+Comenzaré a borrar tus huelas
+Ella no puede saber
+
+Hasta la otra vida
+No hay nada que hacer
+Quiero, quieres
+Pero no se herede
+Abrimos la herida
+Nos marcó la piel
+Muero, mueres
+Sin que ellos se enteren
+Duele ser infiel (Duele ser infiel)
+Duele ser infiel
+
+Yo sé
+Que tú no mereces esto
+Escúchame
+Tal vez, nunca le dimos a ese ego
+Pero así fue
+
+Comenzaré a borrar tus huelas
+Ella no puede saber, uh
+
+Hasta la otra vida
+No hay nada que hacer
+Quiero, quieres
+Pero no se herede
+Abrimos la herida
+Nos marcó la piel
+Muero, mueres
+Sin que ellos se enteren
+Duele ser infiel
+Duele ser infiel
+Duele ser infiel
+No, no, no, no, no, no, no
+Hasta la otra vida
+No hay nada que hacer
+Quiero, quieres
+Pero no se herede
+Abrimos la herida
+Nos marcó la piel
+Muero, mueres (Muero y mueres)
+Sin que ellos se enteren
+Duele ser infiel (Duele ser infiel)
+Duele ser infiel (Duele ser infiel, uh)
+
+Yo sé
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Que tú no mereces esto

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Our love was lost
 But now we've found it
 Our love was lost, oh, lost
@@ -32,4 +33,40 @@ I am here to take you every time
 Oh, our love was lost
 Lost, lost, lost, lost, lost, lost
 Our love was lost
+=======
+Our love was lost
+But now we've found it
+Our love was lost, oh, lost
+And hope was gone
+Our love was lost
+But now we've found it
+And if you flash your heart, oh, heart
+I won't deny it
+
+I promise
+I promise
+
+Your walls are up
+Too cold to touch it
+Your walls are up, oh, up
+Too high to climb
+I know it's hard
+But I can still hear it beating
+So if you flash your heart
+I won't mistreat it
+
+I promise
+I promise
+I promise
+Our love was lost
+In the rubble are all the things
+That you've, you've been dreaming of
+Keep me in mind
+When you're ready
+I am here to take you every time
+
+Oh, our love was lost
+Lost, lost, lost, lost, lost, lost
+Our love was lost
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But now it's found

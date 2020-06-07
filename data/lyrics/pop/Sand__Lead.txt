@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Find me at the water's edge if you wanna
 See you on the ocean bed if you're gonna
 Fill my boots with sand and lead if you wanna
@@ -27,4 +28,35 @@ And the air so fine?
 As the city sleeps, we can all be free
 Will you follow or break away?
 Simple even sea, whispers on the beach
+=======
+Find me at the water's edge if you wanna
+See you on the ocean bed if you're gonna
+Fill my boots with sand and lead if you wanna
+Fill my boots with sand and lead
+Shall I bring the torch to kill the shadows?
+I'll take the wheel if you do the pedals
+Bobble back and forth, the spirit levels
+Fill my boots with sand and lead
+
+Who do you hold on to
+When we're passing through
+And the air so fine?
+
+As the city sleeps, we can all be free
+Will you follow or break away?
+Simple even sea, whispers on the beach
+Will you follow or break away?
+
+Find me at the water's edge if you wanna
+See you on the ocean bed if you're gonna
+Fill my boots with sand and lead if you wanna
+Fill my boots with sand and lead
+Who do you hold on to
+When we're passing through
+And the air so fine?
+
+As the city sleeps, we can all be free
+Will you follow or break away?
+Simple even sea, whispers on the beach
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Will you follow or break away?

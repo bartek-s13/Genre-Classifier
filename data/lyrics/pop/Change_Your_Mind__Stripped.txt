@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Won't you meet me by the water?
 Maybe you and I can bitter sweetly
 Talk it over by the river side
@@ -22,4 +23,30 @@ Oh lady can I change your mind?
 I've been pulling at the hands of time
 I wish that I could give you up this time
 But oh maybe I could change your mind
+=======
+Won't you meet me by the water?
+Maybe you and I can bitter sweetly
+Talk it over by the river side
+Oh like, oh like, oh like we use to
+All I, all I, all I want is you
+Oh lady can I change your mind?
+I've been pulling at the hands of time
+I wish that I could give you up this time
+But oh maybe I can change your mind
+I've been talking to my mother, said she's missing you
+And I should be calling, back to your girl
+That's what I'm trying to do
+Oh I, oh I, oh am I getting through?
+All I, all I, all I want is you
+Oh lady can I change your mind?
+I've been pulling at the hands of time
+I wish that I could give you up this time
+But oh maybe I could change your mind
+Oh I, oh I, oh am I getting through?
+All I, all I, all I want is you
+Oh lady can I change your mind?
+I've been pulling at the hands of time
+I wish that I could give you up this time
+But oh maybe I could change your mind
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Can I change your mind?

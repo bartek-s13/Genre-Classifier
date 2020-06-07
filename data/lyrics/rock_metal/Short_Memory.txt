@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Verse 1
 Conquistador of Mexico
 The Zulu and the Navaho
@@ -27,4 +28,35 @@ Repeat repeat short memory they've all got it
 When are we going to play it again
 Got a short, got a short, got a short, got a short
 They've got a short must have a short they've got a short aah
+=======
+Verse 1
+Conquistador of Mexico
+The Zulu and the Navaho
+The Belgians in the Congo
+Plantation in Virginia
+The Raj in British India
+The deadline in South Africa
+The story of El Salvador
+The silence of Hiroshima
+Destruction of Cambodia
+(Chorus)
+Short memory, must have a short memory (x2)
+Verse 2
+The sight of hotels by the Nile
+The designated Hilton style
+With running water specially bought
+A smallish man Afghanistan
+A watch dog in a nervous land
+They're only there to lend a hand
+The friendly five a dusty smile
+Wake up in a sweat at dead of night
+And in the tents new rifles, hey, short memory
+(Chorus)
+Short Memory must have a short memory(x2)
+If you read the history books you'll see the same things happen again and again
+Repeat repeat short memory they've all got it
+When are we going to play it again
+Got a short, got a short, got a short, got a short
+They've got a short must have a short they've got a short aah
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Short memory, they've got a

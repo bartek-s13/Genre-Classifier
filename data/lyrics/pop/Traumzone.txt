@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 toksi!
 
 Ich sitz' in der U-Bahn
@@ -50,4 +51,58 @@ Ein Sonnenstrahl weckt mich, krieg' die Augen kaum auf
 Alles zu grell, mach' sie schnell wieder zu und amte aus
 Bin doch grad erst gekomm'n, im Wunderland scheint
 Der Mond bei Alice, ist das schön
+=======
+toksi!
+
+Ich sitz' in der U-Bahn
+Mittags halb zwei, mein Kopf wird so schwer
+Mit ist alles zu laut, zieh' die Kopfhörer auf
+Ich wünsch' mir so sehr zwei weiche Meter
+Mal zwei, der Sandmann holt mich ab
+Er bringt mich zu 'nem Ort, wo ich zuvor nie war
+
+Mein Puls schlägt im Takt der Nachtmusik
+Wenn ich lächelnd unter meiner Decke lieg'
+Das Gefühl für Raum und Zeit verlier'
+Raus aus dem Hier und Jetzt, flieg' ohne Reiseziel
+
+Ich lande in der Traumzone
+Der Himmel ist hier rot
+Häng' mit King Kong in der Baumkrone
+Schau' auf ein Meer aus purem Gold
+Ich lande in der Traumzone
+Der Himmel ist hier rot
+Häng' mit King Kong in der Baumkrone
+Schau' auf ein Meer aus purem Gold
+Ich fahr' mit 'nem Uber (fahr' mit 'nem Uber)
+Voll auf Wodka Beluga, Kopfhörer 2Pac
+Es ist kein Zufall (ja)
+Ich will nur Bermuda ganz ohne Flugplan
+Wo ist mein Bruder? (wo?)
+Ich suche was besseres
+Verschicke Messages per SMS
+Man muss geh'n, wenn's am besten ist
+
+Will loslassen, will nicht in Fesseln lieg'n
+Weit weg, will keine Grenzen zieh'n
+Einfach weit weg, sagt mir mein Gefühl
+Einfach Leine zieh'n, flieg' ohne Reiseziel
+
+Ich lande in der Traumzone (ja)
+Der Himmel ist hier rot (yeah)
+Häng' mit Dardy in der Baumkrone (Mister Dardy)
+Schau' auf ein Meer aus purem Gold (Gold, Digga)
+Ich lande in der Traumzone (Traumzone)
+Der Himmel ist hier rot (rot)
+Häng' mit toksi in der Baumkrone (toksi)
+Schau' auf ein Meer aus purem Gold
+Ich bin ganz leicht im weißen Pelz
+Besitz' den goldenen Kompass
+Ich bin das fünfte Element
+Rette mit Dardy die Welt
+Ein Sonnenstrahl weckt mich, krieg' die Augen kaum auf
+Alles zu grell, mach' sie schnell wieder zu und amte aus
+Bin doch grad erst gekomm'n, im Wunderland scheint
+Der Mond bei Alice, ist das schön
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Ich komm' vielleicht zu spät, doch ich will noch nicht geh'n

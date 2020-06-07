@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Harvest your love, harvest your love, for me
 I'll lay it down, I'll lay it down, slowly
 Put your hands on my face
@@ -29,4 +30,37 @@ Carries you home, home
 
 Carry me, carry me
 Carry me home
+=======
+Harvest your love, harvest your love, for me
+I'll lay it down, I'll lay it down, slowly
+Put your hands on my face
+At an orderly pace
+I see
+Put your love in the sand
+As it makes no demands
+I believe, I believe
+
+But you keep on rolling
+On a rolling stone
+And you fight until the finish line
+Carries you home
+Carries you home
+
+I had a plan, I had a plan you see
+It was based on the rules that my mother and father taught me
+Press the iron when it's hot
+And you jump right in
+Because the unfed mind devours itself
+Water your garden
+Water your garden
+Water your garden
+But you keep on rolling
+On a rolling stone
+And you fight until the finish line
+Carries you home, home
+Carries you home, home
+
+Carry me, carry me
+Carry me home
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But you keep on rolling

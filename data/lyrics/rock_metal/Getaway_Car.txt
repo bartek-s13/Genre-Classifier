@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The first time I saw you
 You were chasing down
 A cyclone
@@ -47,4 +48,55 @@ Before you drive me insane
 So get yourself a car
 And drive it all alone
 Get yourself a car
+=======
+The first time I saw you
+You were chasing down
+A cyclone
+All alone in a field
+With rail yards and clovers
+I kept rolling on and never thought
+You'd wind up chasing me
+
+Settle down, I won't hesitate
+To hit the highway
+Before you lay me to waste
+Settle up and I'll help you find
+Something to drive
+Before you drive me insane
+
+You're tired of walking and you
+Loathe the ground
+The sidewalk will barely touch your feet
+And life moves too slowly to hold you down
+With wringing hands
+You take it out on me
+
+Settle down, I won't hesitate
+To hit the highway
+Before you lay me to waste
+Settle up and I'll help you find
+Something to drive
+Before you drive me insane
+
+So get yourself a car
+And drive it all alone
+Get yourself a car
+And ride it on the wind
+
+Get yourself a car
+And drive it all alone
+Get yourself a car
+And ride it on the wind
+
+Settle down, I won't hesitate
+To hit the highway
+Before you lay me to waste
+Settle up and I'll help you find
+Something to drive
+Before you drive me insane
+
+So get yourself a car
+And drive it all alone
+Get yourself a car
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And ride it on the wind

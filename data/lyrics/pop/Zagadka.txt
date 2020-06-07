@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jestem zagadk¹
 Uczuæ pu³apk¹
 Lepiej omijaj mnie
@@ -54,4 +55,62 @@ To ca³kiem nowa ja
 Jestem zagadk¹ dnia
 To ca³kiem nowa ja
 Biegnê prosto przed siebie
+=======
+Jestem zagadk¹
+Uczuæ pu³apk¹
+Lepiej omijaj mnie
+Wci¹¿ oceniana
+Niezrozumiana
+Ukryta gdzieœ we mgle
+
+Wiêc rzucam ci wyzwanie
+Jeszcze dziœ
+Czy umiesz z³¹czyæ w¹tki
+Za mn¹ iœæ
+Jestem zagadk¹
+Twoj¹ zagadk¹
+Wiêc rzucam ci wyzwanie
+Jeszcze dziœ
+Czy umiesz z³¹czyæ w¹tki
+Za mn¹ iœæ
+Bo jestem zagadk¹
+Twoj¹ zagadk¹
+
+Jestem zagadk¹ dnia
+To ca³kiem nowa ja
+Biegnê prosto przed siebie
+Z tob¹ albo bez ciebie
+To ca³kiem nowa ja
+Jestem zagadk¹
+Sum¹ przypadków
+Znowu zgubi³eœ mój trop
+
+Wiêc rzucam ci wyzwanie
+Jeszcze raz
+Gdy ³¹czysz w¹tki
+Prosto w oczy patrz
+Bo jestem zagadk¹
+Twoj¹ zagadk¹
+
+Jestem zagadk¹ dnia
+To ca³kiem nowa ja
+Biegnê prosto przed siebie
+Z tob¹ albo bez ciebie
+To ca³kiem nowa ja
+
+Znów tworzê siebie na nowo
+I potrafiê byæ sob¹
+Uciekam
+Tworzê siebie na nowo
+I potrafiê byæ sob¹
+Uciekam
+Jestem zagadk¹ dnia
+To ca³kiem nowa ja
+Biegnê prosto przed siebie
+Z tob¹ albo bez ciebie
+To ca³kiem nowa ja
+Jestem zagadk¹ dnia
+To ca³kiem nowa ja
+Biegnê prosto przed siebie
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Z tob¹ albo bez ciebie

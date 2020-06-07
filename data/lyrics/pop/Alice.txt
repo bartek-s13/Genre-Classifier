@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oh Alice, I can't continue this way
 Oh Alice, faking smiles since you've been away
 Alice, tell me, what is his name?
@@ -31,4 +32,39 @@ Why can't this be simple? (Oh-oh-oh-oh)
 Oh Alice, I can't continue this way
 Oh Alice, faking smiles since you've been away
 Alice, tell me, what is his name?
+=======
+Oh Alice, I can't continue this way
+Oh Alice, faking smiles since you've been away
+Alice, tell me, what is his name?
+Oh Alice, breaking hearts 'cause no one's the same
+
+The night we broke, you told me I wasn't enough
+I had to throw my memories on the shelf
+You told me you didn't need any of me
+So I took a plane just to help myself
+
+Oh Alice, I can't continue this way
+Oh Alice, faking smiles since you've been away
+Alice, tell me, what is his name?
+Oh Alice, breaking hearts 'cause no one's the same
+
+I've changed my ways, I'm so different now
+A second chance seems like it would work somehow
+You told me you didn't need any of me
+I'm asking you, please just hear me out
+
+Oh Alice, I can't continue this way
+Oh Alice, faking smiles since you've been away
+Alice, tell me, what is his name?
+Oh Alice, breaking hearts 'cause no one's the same
+
+Trying not to let go
+Shadowing my echoes (Oh-oh-oh-oh)
+Trying not to let go
+Why can't this be simple? (Oh-oh-oh-oh)
+
+Oh Alice, I can't continue this way
+Oh Alice, faking smiles since you've been away
+Alice, tell me, what is his name?
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh Alice, breaking hearts 'cause no one's the same

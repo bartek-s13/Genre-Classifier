@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pon tu mano en la mía
 Hazme todo el honor
 Siente el ritmo que suena con gran claridad
@@ -40,4 +41,48 @@ Todo buen bailarín no la suelta jamás
 Y si ya no se escucha, hay que cantar
 Si pierdo el paso, improvisar
 Esta fiesta la bailo contigo lo sé
+=======
+Pon tu mano en la mía
+Hazme todo el honor
+Siente el ritmo que suena con gran claridad
+Y que solo escuchamos los dos
+Desde hoy hasta el día, que no pueda ya más
+Que tu paso y el mio sean un solo sonido
+Eres tú con quien quiero bailar
+Por favor amor, una pieza mas
+
+Y si cambia de ritmo hay que ajustar
+Y en el silencio a descansar
+Porque cuando se encuentra la pareja ideal
+Todo buen bailarín no la suelta jamás
+Y si ya no se escucha, hay que cantar
+Si pierdo el paso, improvisar
+Esta fiesta la bailo contigo lo sé
+Y hoy me muero bailando en tus brazos mujer
+
+Y si se acaba la fiesta y ya todos se van
+Y no puedo ponerme mas tiempo de pie
+Porque el baile ya ha llegado al final
+Voy a verte a los ojos y voy a sonreír
+Porque se que algún día
+En otro lugar volveré a tu lado a pedir
+Por favor, amor, una pieza más
+Y si cambia de ritmo hay que ajustar
+Y en el silencio a descansar
+Porque cuando se encuentra la pareja ideal
+Todo buen bailarín no la suelta jamás
+Y si ya no se escucha, hay que cantar
+Si pierdo el paso, improvisar
+Esta fiesta la bailo contigo lo sé
+Y hoy me muero bailando en tus brazos mujer
+
+
+Y si cambia de ritmo hay que ajustar
+Y en el silencio a descansar
+Porque cuando se encuentra la pareja ideal
+Todo buen bailarín no la suelta jamás
+Y si ya no se escucha, hay que cantar
+Si pierdo el paso, improvisar
+Esta fiesta la bailo contigo lo sé
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Y hoy me muero bailando en tus brazos mujer

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I was happy in the haze of a drunken hour
 But heaven knows I'm miserable now
 I was looking for a job and then I found a job
@@ -27,4 +28,35 @@ But heaven knows I'm miserable now
 And I naturally fled
 
 In my life, oh, why do I give valuable time
+=======
+I was happy in the haze of a drunken hour
+But heaven knows I'm miserable now
+I was looking for a job and then I found a job
+And heaven knows I'm miserable now
+
+In my life, why do I give valuable time
+To people who don't care if I live or die?
+
+Two lovers entwined pass me by
+And heaven knows I'm miserable now
+I was looking for a job and then I found a job
+And heaven knows I'm miserable now
+
+In my life, oh, why do I give valuable time
+To people who don't care if I live or die?
+
+What she asked of me at the end of the day
+Caligula would have blushed
+"Oh, you've been in the house too long", she said
+And I naturally fled
+In my life, why do I smile
+At people who I'd much rather kick in the eye?
+
+I was happy in the haze of a drunken hour
+But heaven knows I'm miserable now
+"Oh, you've been in the house too long", she said
+And I naturally fled
+
+In my life, oh, why do I give valuable time
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 To people who don't care if I live or die?

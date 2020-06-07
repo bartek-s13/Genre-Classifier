@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Screwed up and broke down
 I never wanted to
 Sat still and lost it all
@@ -27,4 +28,35 @@ No color in your face
 Sit down and talk it out
 Until we feel the sting
 They're just the same rules
+=======
+Screwed up and broke down
+I never wanted to
+Sat still and lost it all
+I never left my chair
+They're just the same walls
+And things around us change
+I'm saying what's gotta be said
+And there's no other way
+Cold feet, I don't wanna be scared
+I can only save myself
+I thought the new you
+Could fix the other one
+Not gonna wait for proof
+When you're under the gun
+They're just the same rules
+And things around us change
+I'm saying what's gotta be said
+And there's no other way
+Cold feet, I don't wanna be scared
+I can only save myself
+Moving unsteadily
+We never aim to please
+It's not so challenging
+With everything you need
+You look way down
+No color in your face
+Sit down and talk it out
+Until we feel the sting
+They're just the same rules
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And things around us change

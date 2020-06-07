@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You might know of the original sin
 And you might know how to play with fire
 But did you know of the murder committed
@@ -35,4 +36,43 @@ Dream on, white boy, black girl
 Black boy, white girl
 Dream on, the name of love - yeah
 You thought what a pity
+=======
+You might know of the original sin
+And you might know how to play with fire
+But did you know of the murder committed
+In the name of love - yeah
+You thought what a pity
+
+Dream on white boy
+Dream on black girl
+And wake up to a brand new day
+To find your dreams have washed away
+
+There was a time when I did not care
+And there was a time when the facts did stare
+There is a dream and it's held by many
+Well I'm sure you had to see
+It's open arms
+
+Dream on white boy
+Dream on black girl
+And wake up to a brand new day
+To find your dreams have washed away
+Dream on black boy
+Dream on white girl
+And wake up to a brand new day
+To find your dreams have washed away
+Dream on black boy
+Dream on white girl
+And wake up to a brand new day
+To find your dreams are washed away
+Dream on, play with fire
+White boy, black girl
+Dream on, in the name of love
+Black boy, white girl
+Dream on, white boy, black girl
+Black boy, white girl
+Dream on, the name of love - yeah
+You thought what a pity
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Original Sin

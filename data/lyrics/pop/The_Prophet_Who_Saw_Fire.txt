@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How much longer will I witness injustice
 Forced to watch the wicked triumph
 The defeat in hopelessness
@@ -12,4 +13,20 @@ When will judgement take us and put an end to apathy
 The plague will come
 For the revelation awaits
 The fury will see the end of all
+=======
+How much longer will I witness injustice
+Forced to watch the wicked triumph
+The defeat in hopelessness
+As justice perverts itself
+Every ounce of suffering
+Writhing like a sickness
+The blackened sky falls before man
+Too pure to see the evil
+Betrayed every unwavered soul
+Why is there silence when hope burns
+When will judgement take us and put an end to apathy
+The plague will come
+For the revelation awaits
+The fury will see the end of all
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In wrath remember humanity

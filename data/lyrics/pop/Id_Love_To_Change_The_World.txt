@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Everywhere is freaks and hairies
 Dykes and fairies, tell me where is sanity
 Tax the rich, feed the poor
@@ -21,4 +22,29 @@ Oh, when I don't know what to do
 Oh, when I don't know what to do
 But I don't know what to do
 So I'll leave it up to you
+=======
+Everywhere is freaks and hairies
+Dykes and fairies, tell me where is sanity
+Tax the rich, feed the poor
+Till there are no rich no more?
+
+I'd love to change the world
+But I don't know what to do
+So I'll leave it up to you
+
+Population keeps on breeding
+Nation bleeding, still more feeding economy
+Life is funny, skies are sunny
+Bees make honey, who needs money, Monopoly
+
+I'd love to change the world
+But I don't know what to do
+So I'll leave it up to you
+
+Oh, when I don't know what to do
+Oh, when I don't know what to do
+Oh, when I don't know what to do
+But I don't know what to do
+So I'll leave it up to you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I don't know what to do

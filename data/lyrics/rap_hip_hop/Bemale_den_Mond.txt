@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Es ist 5 Uhr und der Abend vorbei
 Waren auf 'ner Party im Wald, dann kam Polizei
 Ein paar von uns hellwach, ein paar andere im Halbschlaf
@@ -60,4 +61,68 @@ Die Nächte zu Kurz, die Tage zu lange
 Ich gehen schlafen, nur die Frage ist wann
 Ne Viertel Viertel nach, ne Viertel Viertel vor
 Ich bin vollkommen euphorisch, deshalb bemal' ich den Mond
+=======
+Es ist 5 Uhr und der Abend vorbei
+Waren auf 'ner Party im Wald, dann kam Polizei
+Ein paar von uns hellwach, ein paar andere im Halbschlaf
+Setz' die Kopfhörer auf und dann tanze ich weiter
+Keine Zeit um zu chillen
+Ich schau ins Schaufenster rein, ein unheimliches Bild
+Wo ist das Funkeln meiner Augen nur, ich finde es nicht
+Meine Pupillen, schwarze Löcher sie verschlingen das Licht
+Der Laternen. Ich werf' 'nen Blick zu den Sternen
+So schön ich denk' mir: Mich tritt 'n Pferd
+Klingeln bei Laszlo, doch er rastet aus ist sichtlich genervt
+Sagt: Ist nicht euer Ernst. Verpisst euch ihr Wichser
+Kommt nicht wieder her her, nein
+Also ab zum Wagen von Connor
+Der Himmel rot, die ersten Strahlen der Sonne
+Glühen wie Funken in den Augen von den sängenden Flammen
+Geblendet gedenk' ich des brennenden Verlangens
+Denn wir haben...
+
+Einen Waldbrand entfacht, tanzen wärmend ums Feuer
+Schwaden aus Rauch umarmen die kristallklare Nacht
+Komm wir bemalen den Mond
+Komm wir bemalen den Mond
+Mit einem Tropfen Blut an den Fingern
+Nichts steht im Schatten der Sonne, er soll uns an sie erinnern
+Komm wir bemalen den Mond
+Komm wir bemalen den Mond
+
+Nicht, dass die Nachbarn kommen. Es ist wahnsinnig laut
+20 Leute, 10 Quadratmeter Raum
+Alle Nase lang gelaber, ey so warm ihre Haut
+Sie umarmt mich drück fest zu und fragt:
+Na magst du mich auch? Ich weiß nicht
+Ich denke schon. Leg nach und bin mir dann sicher
+Frage den Spiegel des tiefen Schwarz ihres Blickes
+Nach dem Funkeln meiner Augen, doch er findet es nicht
+Und auch sie nur ein verblichenes Bild, ihrer Selbst
+Doch halt nicht denken, nur lachen. Streich ihr die Haare
+Beiseite, greif sie, verlier mich im leisen heiß ihres Atems
+Halten beide verzweifelt am Zeiger des beiziehenden Tages
+Weil ein eisigkaltes Leiden in Einsamkeit bereits wartet
+Aber scheiß drauf. Party, Party, doch es gibt kein Entrinnen
+Er klappt in sich zusammen, immer schön trinken
+Draußen wirds dunkel, doch es endet erst dann
+Wenns uns verzehrt. Unser brennendes Verlangen
+Heute Nacht...
+
+Wird ein Waldbrand entfacht, tanzen wärmend ums Feuer
+Schwaden aus Rauch umarmen die kristallklare Nacht
+Komm wir bemalen den Mond
+Komm wir bemalen den Mond
+Mit einem Tropfen Blut an den Fingern
+Nichts steht im Schatten der Sonne, er soll uns an sie erinnern
+Komm wir bemalen den Mond
+Komm wir bemalen den Mond
+
+Ne Viertel Viertel vor, ne Viertel Viertel nach
+Ich mach keine halben Sachen, drum ist noch ne Viertel da
+Die Nächte zu Kurz, die Tage zu lange
+Ich gehen schlafen, nur die Frage ist wann
+Ne Viertel Viertel nach, ne Viertel Viertel vor
+Ich bin vollkommen euphorisch, deshalb bemal' ich den Mond
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Mit einem Tropfen Blut an meinem Fingern im Namen der Liebe in ihrer Farbe und die ist Rot

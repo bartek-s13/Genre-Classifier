@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Evil little people made of sand
 Live in a beach and they blend in
 If you don't see them just pretend
@@ -17,4 +18,25 @@ Live in a beach and they blend in
 If you don't see them just pretend
 Evil little people made of sand
 Live in a beach and they blend in
+=======
+Evil little people made of sand
+Live in a beach and they blend in
+If you don't see them just pretend
+Evil little people made of sand
+Live in a beach and they blend in
+If you don't see them just pretend
+
+Bathing suit wrapped around my waist
+With a Capri Sun in my hand
+I don't know what you've got planned
+I jump into the hotel pool
+And your head popped out the water
+Can we stay a little longer? (Mom, can we live here?)
+
+Evil little people made of sand
+Live in a beach and they blend in
+If you don't see them just pretend
+Evil little people made of sand
+Live in a beach and they blend in
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 If you don't see them just pretend

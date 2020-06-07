@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Karamnya cinta ini
 Tenggelamkanku di duka yang terdalam
 Hampa hati terasa
@@ -11,4 +12,19 @@ Kenanglah aku sepanjang hidupmu
 Mungkin suatu saat nanti
 Kau temukan bahagia meski tak bersamaku
 Bila nanti kau tak kembali
+=======
+Karamnya cinta ini
+Tenggelamkanku di duka yang terdalam
+Hampa hati terasa
+Kau tinggalkanku meski ku tak rela
+Salahkah diriku hingga saat ini
+Ku masih mengharap kau tuk kembali
+Mungkin suatu saat nanti
+Kau temukan bahagia meski tak bersamaku
+Bila nanti kau tak kembali
+Kenanglah aku sepanjang hidupmu
+Mungkin suatu saat nanti
+Kau temukan bahagia meski tak bersamaku
+Bila nanti kau tak kembali
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Kenanglah aku sepanjang hidupmu

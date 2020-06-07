@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I signed the papers for a lifelong lease
 I rent the earth where I stay and the air I breathe
 Then you forget that deal you made with God
@@ -37,4 +38,45 @@ It's beautifully ugly at times
 So I stand back and I watch us fall
 As we break everything inside these hotel walls
 You know that life's for rent and it called us out
+=======
+I signed the papers for a lifelong lease
+I rent the earth where I stay and the air I breathe
+Then you forget that deal you made with God
+While busy finding yourself being young, being dumb, and in love
+It's all too easy and you're easily bored
+Never once has it crossed your mind that life's too short
+And there's a third person walking behind us
+A tap on the back and it's there to remind us
+Life is a blink of an eye 'til you are no more
+
+So I stand back and I watch us fall
+As we break everything inside these hotel walls
+Life's for rent and it called us out
+So I hand back the key as the door man bows
+
+They greet you welcome with roses and champagne
+When you walk through the lobby they all know your name
+But all beautiful things come with edges and thorns
+And the body you borrowed is starting to look kinda worn
+
+So I stand back and I watch us fall
+As we break everything inside these hotel walls
+Life's for rent and it called us out
+So I hand back the key as the door man bows
+
+We're just grains in the universe
+I let that comfort me when I'm anxious
+The life is beautifully ugly at times
+We're just grains in the universe
+I let that comfort me when I'm anxious
+The life is beautifully ugly at times
+It's beautifully ugly at times
+It's beautifully ugly at times
+It's beautifully ugly at times
+It's beautifully ugly at times
+
+So I stand back and I watch us fall
+As we break everything inside these hotel walls
+You know that life's for rent and it called us out
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 So I hand back the key as the door man bows

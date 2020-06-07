@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jabat tanganku
 Mungkin untuk yang terakhir kali
 Kita berbincang
@@ -41,4 +42,49 @@ Untuk masa depan
 Mungkin diriku
 Masih ingin bersama kalian
 Mungkin jiwaku
+=======
+Jabat tanganku
+Mungkin untuk yang terakhir kali
+Kita berbincang
+Tentang memori di masa itu
+Peluk tubuhku
+Usapkan juga air mataku
+Kita terharu
+Seakan tidak bertemu lagi
+
+Bersenang-senanglah
+Karena hari ini yang kan kita rindukan
+Di hari nanti
+Sebuah kisah klasik untuk masa depan
+Bersenang-senanglah
+Karena waktu ini yang kan kita banggakan
+Di hari tua
+
+Sampai jumpa kawanku
+Semoga kita selalu
+Menjadi sebuah kisah klasik
+Untuk masa depan
+Sampai jumpa kawanku
+Semoga kita selalu
+Menjadi sebuah kisah klasik
+Untuk masa depan
+
+
+Bersenang-senanglah
+Karena hari ini yang kan kita rindukan
+Di hari nanti, ooh
+
+Sampai jumpa kawanku
+Semoga kita selalu
+Menjadi sebuah kisah klasik
+Untuk masa depan
+Sampai jumpa kawanku
+Semoga kita selalu
+Menjadi sebuah kisah klasik
+Untuk masa depan
+
+Mungkin diriku
+Masih ingin bersama kalian
+Mungkin jiwaku
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Masih haus sanjungan kalian

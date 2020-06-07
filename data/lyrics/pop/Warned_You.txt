@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 He looked at me, it's no surprise
 And I
 Well, I
@@ -21,4 +22,29 @@ I warned you
 I warned you
 I warned you
 I warned you
+=======
+He looked at me, it's no surprise
+And I
+Well, I
+I could die
+But I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+And if I ever look surprised
+Well I
+I'm not trying
+To lie
+But I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+I warned you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I warned you

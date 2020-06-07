@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 So much life, why so fragile?
 So little time, please, can you make it home?
 I don't wanna see you go
@@ -14,4 +15,22 @@ Please just make it home (Mhm)
 Heartbreak, heartbreak
 You left me here, fucked-up 'til death
 I hate heartbreak, heartbreak
+=======
+So much life, why so fragile?
+So little time, please, can you make it home?
+I don't wanna see you go
+I need more time by your presence
+Light the sky, love your shine, I know
+Please just make it home
+So much life, why so fragile?
+So little time, please, can you make it home?
+I don't wanna see you go
+I need more time by your presence
+Light the sky, love your shine, I know
+Please just make it home (Mhm)
+
+Heartbreak, heartbreak
+You left me here, fucked-up 'til death
+I hate heartbreak, heartbreak
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Heartbreak, no, fuck

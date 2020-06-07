@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 No es que no te quiera
 Es que te necesito lejos
 Pues es cuando estas lejos
@@ -19,4 +20,27 @@ Déjame abrazarte por última vez
 No es que no te quiera
 Es que te necesito lejos
 Pues es cuando estas lejos
+=======
+No es que no te quiera
+Es que te necesito lejos
+Pues es cuando estas lejos
+Que (yo) más te quiero corazón
+Has vuelto a desaparecer
+Parece que te escondes
+Huyes de mis brazos
+Ya no me respondes
+Déjame verte llover
+Déjame besarte
+Déjame abrazarte por última vez
+No es que no te quiera
+Es que te necesito lejos
+Pues es cuando estas lejos
+Que (yo) más te quiero corazón
+Déjame verte llover
+Déjame besar tu piel
+Déjame abrazarte por última vez
+No es que no te quiera
+Es que te necesito lejos
+Pues es cuando estas lejos
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Que (yo) más te quiero corazón

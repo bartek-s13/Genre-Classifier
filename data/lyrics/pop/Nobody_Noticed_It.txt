@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I heard broken footsteps
 Was that you limping?
 Well, I wish that I had spent just a little bit more time
@@ -35,4 +36,43 @@ You made me
 And I love you, and
 Did you know nothing has changed?
 And now everyone, they notice it
+=======
+I heard broken footsteps
+Was that you limping?
+Well, I wish that I had spent just a little bit more time
+With you, yeah
+Tears on my ceiling
+Weren't you watching?
+Well I guess none of us will ever know what comes after
+This
+You're still lovely
+You were lovely then
+All that you had to endure
+I guess nobody noticed it
+I know your resemblance
+Mm, it's out there walking
+And I wanted you to know that I
+Haven't forgotten
+Ooh, and they tried to make you look broken
+But not while I'm living
+'Cause I wanted you to know that I heard what you said
+While it was raining
+You're still lovely
+You were lovely then
+All that you had to endure
+I guess nobody noticed it
+You made me
+And I love you, and
+Did you know nothing has changed?
+And now everyone, they notice it
+Everyone notices
+You're still lovely
+You were lovely then
+All that you had to endure
+I guess nobody noticed it
+You made me
+And I love you, and
+Did you know nothing has changed?
+And now everyone, they notice it
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Everyone notices

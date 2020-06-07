@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The sky is red, I don't understand
 Past midnight I still see the land
 People are saying the woman is damned
@@ -36,4 +37,44 @@ Warning came, no one cared
 Earth was shaking, we stood and stared
 When it came no one was spared
 Still I hear
+=======
+The sky is red, I don't understand
+Past midnight I still see the land
+People are saying the woman is damned
+She makes you burn with a wave of her hand
+The city's ablaze, the town's on fire
+The woman's flames are reaching higher
+We were fools, we called her a liar
+All I hear is
+"Burn!"
+
+I didn't believe she was the devil's sperm
+She said, "Curse you all, you'll never learn"
+"When I leave there's no return"
+The people laughed till she said, "Burn!"
+Warning came, no one cared
+Earth was shaking, we stood and stared
+When it came no one was spared
+Still I hear
+"Burn!"
+
+You know we had no time
+We could not even try
+You know we had no time
+
+
+You know we had no time
+We could not even try
+You know we had no time
+
+
+The sky is red, I don't understand
+Past midnight I still see the land
+People are saying the woman is damned
+She makes you burn with a wave of her hand
+Warning came, no one cared
+Earth was shaking, we stood and stared
+When it came no one was spared
+Still I hear
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 "Burn!"

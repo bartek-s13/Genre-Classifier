@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Down from the glen came the marching men
 With their shields and their swords
 To fight the fight
@@ -14,4 +15,22 @@ There were many more to die
 Then onward over the mountain
 Outward towards the sea
 They come to claim the emerald
+=======
+Down from the glen came the marching men
+With their shields and their swords
+To fight the fight
+They believed to be right
+Overthrow the overlords
+To the town where there was plenty
+They brought plunder, swords and flame
+When they left, the town was empty
+And children would never play again
+From their graves I heard the fallen
+Above the battle cry
+By that bridge near the border
+There were many more to die
+Then onward over the mountain
+Outward towards the sea
+They come to claim the emerald
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Without it they could not leave

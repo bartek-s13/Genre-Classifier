@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Di daun yang ikut mengalir lembut
 Terbawa sungai ke ujung mata
 Dan aku mulai takut terbawa cinta
@@ -19,4 +20,27 @@ Kau datang dan pergi oh begitu saja
 Semua kutrima apa adanya
 Mata terpejam dan hati menggumam
 Di ruang rindu kita bertemu
+=======
+Di daun yang ikut mengalir lembut
+Terbawa sungai ke ujung mata
+Dan aku mulai takut terbawa cinta
+Menghirup rindu yang sesakkan dada
+Jalanku hampa dan kusentuh dia
+Terasa hangat oh didalam hati
+Kupegang erat dan kuhalangi waktu
+Tak urung jua kulihatnya pergi
+Tak pernah kuragu dan slalu kuingat
+Kerlingan matamu dan sentuhan hangat
+Ku saat itu takut mencari makna
+Tumbuhkan rasa yang sesakkan dada
+
+Kau datang dan pergi oh begitu saja
+Semua kutrima apa adanya
+Mata terpejam dan hati menggumam
+Di ruang rindu kita bertemu
+Kau datang dan pergi oh begitu saja
+Semua kutrima apa adanya
+Mata terpejam dan hati menggumam
+Di ruang rindu kita bertemu
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Bertemu

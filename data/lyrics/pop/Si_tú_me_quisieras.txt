@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Me despedí, pero te mentí
 No me queria alejar
 Disimulé, me aguanté
@@ -49,4 +50,57 @@ Ay, ay, ay
 De mí, de este amor que se me incrusta como bala
 Que me ahorca y que me mata
 Todo sería diferente si tú me
+=======
+Me despedí, pero te mentí
+No me queria alejar
+Disimulé, me aguanté
+Pero es que ya no puedo más
+Quise borrarte, olvidarte
+Pero te vuelvo a recordar
+
+Todos los días salgo a caminar
+Hago mil cosas pa' no pensar
+Me lleno de adornos
+Sufro de trastornos
+Siempre te quiero llamar
+No quiero nada, nada, nada
+Y es que soy tan complicada
+
+Ay, ay, ay
+De mí, de este amor que se metió y que se dispara
+Se contagia y te reclama
+Ay, ay, ay
+De mí, de este amor que se me incrusta como bala
+Que me ahorca y que me mata
+Todo sería diferente si tú me quisieras
+
+Debo frenar
+Por que no puedo más
+Me duele todo
+Así me dijo el psiquiatra
+Yo sé que es mejor que me olvide de tu cara
+No quiero nada, nada, nada
+Y es que soy tan obstinada
+
+Ay, ay, ay
+De mí, de este amor que se metió y que se dispara
+Se contagia y te reclama
+Ay, ay, ay
+De mí, de este amor que se me incrusta como bala
+Que me ahorca y que me mata
+Todo sería diferente si tú me quisieras
+
+Si tú me quisieras yo dejaba todo
+Ya no iría a terapia, sé que te perdono
+Con tu pelo negro tejería un cuento
+Yo quiero vivir contigo este momento
+
+Ay, ay, ay
+De mí, de este amor que se metió y que se dispara
+Se contagia y te reclama
+Ay, ay, ay
+De mí, de este amor que se me incrusta como bala
+Que me ahorca y que me mata
+Todo sería diferente si tú me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Si tú me quisieras

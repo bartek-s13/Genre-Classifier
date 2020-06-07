@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Whirling dust in morning air, two warriors in the ring
 With the strength of two great bears
 They make their weapons sing
@@ -54,4 +55,62 @@ It's the way of the Jomsvikings
 These men aim to shatter
 It's the way of vikings
 This is how we battle
+=======
+Whirling dust in morning air, two warriors in the ring
+With the strength of two great bears
+They make their weapons sing
+Sparks fly high when steel meets steel
+And no one can believe
+That these two men are best friends, not enemies
+
+They lash out with ferocious force
+The fight grows more intense
+But each avoid the other's sword as if by seventh sense
+Their muscles ache, their bones are sore
+But none of them will yield
+They fight a two-man practice war as enemies
+
+Faster!
+Stronger!
+Fight until your dying breath!
+Fiercer!
+Harder!
+This is a matter of life and death!
+Full on fight in training
+It's the way of vikings
+Every muscle straining
+It's the way of the Jomsvikings
+These men aim to shatter
+It's the way of vikings
+This is how we battle
+It's the way of the Jomsvikings
+
+Whirling dust in morning air, two warriors in the ring
+With the strength of two great bears
+They make their weapons sing
+Sparks fly high when steel meets steel
+And no one can believe
+That these two men are best friends, not enemies
+
+Sun beats down with intense heat
+The swordsmen start to break
+Pain shoots through their tired feet with every step they take
+In this fight of iron wills
+One man takes a knee
+The other goes for the kill like an enemy
+Faster!
+Stronger!
+Fight until your dying breath!
+Fiercer!
+Harder!
+This is a matter of life and death!
+
+Full on fight in training
+It's the way of vikings
+Every muscle straining
+It's the way of the Jomsvikings
+These men aim to shatter
+It's the way of vikings
+This is how we battle
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 It's the way of the Jomsvikings

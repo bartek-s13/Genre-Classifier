@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Away out in Egypt in the valley of kings
 Where the mummified pharaohs
 Pretend dead in their sleep
@@ -23,4 +24,31 @@ Making it all shady
 Don't touch, never ever steal
 Unless you're in for the kill
 Or you'll be hit by the curse of the pharaohs
+=======
+Away out in Egypt in the valley of kings
+Where the mummified pharaohs
+Pretend dead in their sleep
+
+Don't touch, never ever steal
+Unless you're in for the kill
+Or you'll be hit by the curse of the pharaohs
+Yes you'll be hit and the curse is on you
+
+Now if you're breaking the seals
+And disturbing the peace
+Then you're starting up a curse
+Bringing evil disease
+
+Don't touch, never ever steal
+Unless you're in for the kill
+Or you'll be hit by the curse of the pharaohs
+Yes you'll be hit and the curse is on you
+
+The curse of the pharaohs can be so deadly
+Or just destroying your future
+Making it all shady
+Don't touch, never ever steal
+Unless you're in for the kill
+Or you'll be hit by the curse of the pharaohs
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Yes you'll be hit and the curse is on you

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ooh, where's my coat?
 The air's getting cold indoors
 Pawn exotic decor
@@ -19,4 +20,27 @@ And where do we go from here?
 All I own is gum, toe and sole
 I care for none, my dear
 (I care for none, my, my, my)
+=======
+Ooh, where's my coat?
+The air's getting cold indoors
+Pawn exotic decor
+A rare form of skin tone and bone now, ow
+
+The hands unfold
+Just standing alone here to hold
+The hands unfold
+Demanding for warmth here to hold now, ow
+
+And where do we go from here?
+(Where do we go, go, go, go?)
+All I own is gum, toe and sole
+I care for none, my dear
+(I care for none, my, my, my)
+All I know is you look like my home
+And where do we go from here?
+(Where do we go, go, go, go?)
+All I own is gum, toe and sole
+I care for none, my dear
+(I care for none, my, my, my)
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 All I know is you look like my home

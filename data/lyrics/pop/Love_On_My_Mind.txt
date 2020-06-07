@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I live without you
 I can live without you
 I can live without you
@@ -34,4 +35,42 @@ I live without you
 I can live without you
 I can live without you
 I can live without you
+=======
+I live without you
+I can live without you
+I can live without you
+I can live without you
+
+I got love on my mind
+And no usin' the rest of time
+I got love on my mind
+And no usin' the rest of time
+I got love...
+I can live without you
+
+I got love on my mind
+
+When the heartache is over
+I know I will be missin' you
+Won't look over my shoulder
+I know I can live without you
+
+I live without you
+I can live without you
+I can live without you
+I can live without you
+I got love on my mind
+And no usin' the rest of time
+I got love on my mind
+And no usin' the rest of time
+I got love...
+I can live without you
+
+I got love on my mind
+
+I live without you
+I can live without you
+I can live without you
+I can live without you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I got love on my mind

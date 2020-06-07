@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Semula ku tak tahu
 Engkau juga tak ingin memilikinya
 Bukankah ku lebih dulu
@@ -29,4 +30,37 @@ Kusarankan engkau mundur saja, ooo
 Repeat reff
 Repeat reff2
 Dia untuk aku
+=======
+Semula ku tak tahu
+Engkau juga tak ingin memilikinya
+Bukankah ku lebih dulu
+Biar engkau temanku
+Sebaiknya tak mengganggu
+Reff:
+Dia untukku, bukan untukmu
+Dia milikku, bukan milikmu
+Pergilah kamu, jangan kau ganggu
+Biarkan aku mendekatinya
+Kamu tak akan mungkin mendapatkannya
+Karena dia berikan aku pertanda juga
+Janganlah kamu banyak bermimpi, oooh
+Dia untuk aku
+Bukankah belum pasti
+Kamu juga kan jadi dengan dirinya
+Dia yang menentukan
+Apa yang 'kan terjadi
+Tak usah mengaturku
+Reff2:
+Dia untukku, bukan untukmu
+Dia milikku, bukan milikmu
+Lihatlah nanti, lihatlah saja
+Biarkan aku mendekatinya
+Kamu tak akan mungkin mendapatkannya
+Karena dia berikan aku pertanda juga
+Janganlah kamu banyak bermimpi, oooh
+Kusarankan engkau mundur saja, ooo
+Repeat reff
+Repeat reff2
+Dia untuk aku
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Bukan, dia untuk aku

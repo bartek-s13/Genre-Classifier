@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mr. Crowley, what went wrong in your head?
 Oh, Mr. Crowley, did you talk to the dead?
 
@@ -24,4 +25,32 @@ Standing with their backs to the wall
 
 Was it polemically sent?
 I wanna know what you meant
+=======
+Mr. Crowley, what went wrong in your head?
+Oh, Mr. Crowley, did you talk to the dead?
+
+Your life style to me seemed so tragic
+With the thrill of it all
+You fooled all the people with magic
+You waited on Satan's call
+
+Mr. Charming, did you think you were pure
+Mr. Alarming, in nocturnal rapport
+
+Uncovering things that were sacred
+Manifest on this Earth
+Conceived in the eye of a secret
+And they scattered the afterbirth
+
+
+Mr. Crowley, won't you ride my white horse?
+Mr. Crowley, it's symbolic of course
+Approaching a time that is classic
+I hear that maiden's call
+Approaching a time that is drastic
+Standing with their backs to the wall
+
+Was it polemically sent?
+I wanna know what you meant
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I wanna know, I wanna know what you meant

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 We're leaving together
 But still, it's farewell
 And maybe we'll come back
@@ -32,4 +33,40 @@ We're leaving together (The final countdown)
 We'll all miss her so
 It's the final countdown (Final countdown)
 
+=======
+We're leaving together
+But still, it's farewell
+And maybe we'll come back
+To Earth, who can tell?
+I guess there is no one to blame
+We're leaving ground (Leaving ground)
+Will things ever be the same again?
+
+It's the final countdown
+The final countdown
+Oh
+
+We're heading for Venus (Venus)
+And still, we stand tall
+'Cause maybe they've seen us
+And welcome us all, yeah
+With so many lightyears to go
+And things to be found (To be found)
+I'm sure that we'll all miss her so
+
+It's the final countdown
+The final countdown
+The final countdown (Final countdown)
+Oh
+
+The final countdown
+Oh, it's the final countdown
+The final countdown
+The final countdown (Final countdown)
+Oh, it's the final countdown
+We're leaving together (The final countdown)
+We'll all miss her so
+It's the final countdown (Final countdown)
+
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh, it's the final countdown

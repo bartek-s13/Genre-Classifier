@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hold my hand feel my love
 But understand it's all just luck
 No such thing as true love
@@ -16,4 +17,24 @@ It's all just luck, lucky love
 But that don't make love weak, it's unique
 The chances that we'd meet and just speak
 A million ways they give just to live
+=======
+Hold my hand feel my love
+But understand it's all just luck
+No such thing as true love
+Its all just luck, lucky love
+
+But that don't make love weak, it's unique
+The chances that we'd meet and just speak
+A million ways they give just to live
+And I'm just lucky this is it, this is it
+
+Plant your feet, take a stand
+In the grand scheme, it's all just chance
+No such thing as true love
+It's all just luck, lucky love
+
+But that don't make love weak, it's unique
+The chances that we'd meet and just speak
+A million ways they give just to live
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And I'm just lucky this is it, this is it

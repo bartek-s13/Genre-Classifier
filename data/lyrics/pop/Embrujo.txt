@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Es muy sorprendente la forma en que esto va
 Tomando otra dirección
 Parece que es un juego
@@ -27,4 +28,35 @@ Abrirá las puertas para que te puedas unir
 Suavemente haré que te embrujes más de mí
 Abriré las puertas para que te puedas unir
 Suavemente haré que te embrujes más de mí
+=======
+Es muy sorprendente la forma en que esto va
+Tomando otra dirección
+Parece que es un juego
+Pero si solamente te puedo mirar
+Es de hipnotizar
+
+No creo ser precipitada
+Al entregar mi corazón, que...
+
+Abrirá las puertas para que te puedas unir
+Suavemente haré que te embrujes más de mí
+
+No es coincidencia la forma en que te sigo
+Respiro si sé donde estás
+Ha pasado mucho tiempo
+Y aún siento que si sólo te puedo mirar
+Es de hipnotizar
+
+No creo ser precipitada
+Al entregar mi corazón, que...
+Abrirá las puertas para que te puedas unir
+Suavemente haré que te embrujes más de mí
+Abrirá las puertas para que te puedas unir
+Suavemente haré que te embrujes más de mí
+
+Abrirá las puertas para que te puedas unir
+Suavemente haré que te embrujes más de mí
+Abriré las puertas para que te puedas unir
+Suavemente haré que te embrujes más de mí
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (Embrujes más de mí)

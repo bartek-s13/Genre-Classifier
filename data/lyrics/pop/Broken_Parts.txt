@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flowers through the pavement
 Find a way to break
 You don’t have to say it
@@ -24,4 +25,32 @@ You’ve got some secrets you don’t need to tell
 You got some pain yeah I got some myself
 If nothing else, we can share our broken parts
 We can share our broken parts
+=======
+Flowers through the pavement
+Find a way to break
+You don’t have to say it
+Gotta be this way
+‘Cause I believe in breaking down walls
+And I’m still here to catch you if you fall
+
+All I know is you’re not showing who you truly are
+My arms open up in hoping you’ll unlock your heart
+You’ve got some secrets you don’t need to tell
+You got some pain yeah I got some myself
+If nothing else, we can share our broken parts
+
+Shadows under streetlights
+We’re fading away
+To another late night
+Turning into days
+Where we fell into morning so slow
+Starry eyes I’ll follow where you go
+
+All I know is you’re not showing who you truly are
+My arms open up in hoping you’ll unlock your heart
+You’ve got some secrets you don’t need to tell
+You got some pain yeah I got some myself
+If nothing else, we can share our broken parts
+We can share our broken parts
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We can share our broken parts

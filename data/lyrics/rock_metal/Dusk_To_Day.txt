@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I waited for the dawn
 I waited for the edge of daybreak
 This sinking feeling is keeping me awake
@@ -24,4 +25,32 @@ Endlessly, my mind is slowly wondering and I'm
 Far away, I found my way right back to here in time
 Restlessly await the dawn and shut out all the light
 Drift away; it's only you tonight
+=======
+I waited for the dawn
+I waited for the edge of daybreak
+This sinking feeling is keeping me awake
+(Is keeping me awake)
+I know what lies beneath this waking dream
+And what becomes of all our demons
+I know I'm suffering in vain
+It's just this ordinary life
+All the ordinary stress and strain
+But when it rains, it fucking pours all over me
+No time, no time for anything
+No time, no time for anyone
+Nights spent staring down the barrel defiantly
+Self-destructive, self-contradicting
+Every waking moment begins again
+Endlessly, my mind is slowly wandering and I'm
+Far away, I found my way right back to here in time
+Restlessly await the dawn and shut out all the light
+Drift away; it's only you tonight
+(Every waking moment)
+Watch the clock hands count down from dusk to day
+Overwhelming, over analyzing me
+Endlessly, my mind is slowly wondering and I'm
+Far away, I found my way right back to here in time
+Restlessly await the dawn and shut out all the light
+Drift away; it's only you tonight
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (It's only you tonight)

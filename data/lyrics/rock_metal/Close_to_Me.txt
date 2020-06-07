@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've waited hours for this
 I've made myself so sick
 I wish I'd stayed asleep today
@@ -26,4 +27,34 @@ This close to me
 But if I had your faith
 Then I could make it safe and clean
 Oh, if only I was sure
+=======
+I've waited hours for this
+I've made myself so sick
+I wish I'd stayed asleep today
+I never thought this day would end
+I never thought tonight could ever be
+This close to me
+
+Just try to see in the dark
+Just try to make it work
+To feel the fear before you're here
+I make the shapes come much too close
+I pull my eyes out, hold my breath and wait
+Until I sha-ha-ha-hake
+
+But if I had your faith
+Then I could make it safe and clean
+Oh, if only I was sure
+That my head on the door was a dream
+
+I've waited hours for this
+I've made myself so sick
+I wish I'd stayed asleep today
+I never thought this day would end
+I never thought tonight could ever be
+This close to me
+But if I had your faith
+Then I could make it safe and clean
+Oh, if only I was sure
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 That my head on the door was a dream

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jebany szlam ci¹gle p³ynie z mojej gêby
 Przewin¹³em ca³y syf, ¿ebyœ widzia³ œwiat³o w nêdzy
 Ci¹gle mêcz¹ pytania po koncercie
@@ -66,4 +67,74 @@ To Szlam, Szlam!
 On raŸno Trupi Koncerz wzniós³!
 I grdykê sztychn¹³ ciachu-ciach
 Tak zmorê œci¹³, jej g³owê wzi¹³...
+=======
+Jebany szlam ci¹gle p³ynie z mojej gêby
+Przewin¹³em ca³y syf, ¿ebyœ widzia³ œwiat³o w nêdzy
+Ci¹gle mêcz¹ pytania po koncercie
+Czy on wisia³ na tej klamce, czy tak tylko by³o w tekœcie?!
+Kurwa maæ nie chcê z wami z jednej wazy!
+Wycieraj¹ gêbê tamtym numerem, lecz wina po mojej stronie
+Po chuj pcha³em to w internet
+Gdybym tak myœla³, to nie wierzy³bym w co robiê
+Wiem ¿e gdzieœ jest jeden cz³owiek, który myœli w chuj podobnie
+Nie rób byku nic na pokaz, albo jak ludzie wol¹
+Bo jak pójdzie coœ nie tak, to i oni st¹d spierdol¹
+Kleptoman procentów, musze zajebaæ to (wuup)
+Lekarstwo na ca³e z³o
+Tak myœla³em do niedawna, odjeba³em w chuj maniany
+Ciê¿ko logicznie myœleæ, jak wiecznie najebany
+Dla dzieciaków co siê dusz¹ w swoim ciele
+Dla marzycieli, którzy ¿yj¹ w swoim œwiecie
+Dla tych co b³¹dz¹ bêdê autorytetem
+Chocia¿ nic siê nie nauczysz, jak siê na czymœ nie przejedziesz
+Nie docenisz dobra, póki z³o ciê nie poch³onie
+Nie docenisz dobrej dupy, póki szmata ciê nie kopnie
+Zrobisz jak uwa¿asz, nie bierz s³owa za pewnik
+To tylko moja sprawa
+
+Psy szczekaj¹, bo siê bardzo boj¹ burzy
+To Szlam, Szlam!
+Czym jest hejt, jeœli ca³e ¿ycie gruzy?
+To Szlam, Szlam!
+Coœ mówili, ¿e nie wyjdziemy na ludzi?
+To Szlam, Szlam!
+Nie chce mi siê o skurwieli r¹k mych brudziæ
+To Szlam, Szlam!
+Dzia³amy na wyobraŸniê, jak k¹cik dla ma³ych dzieci
+Na sali widzeñ
+Pytasz jak se radzê, ci¹gle segregujê œmieci
+Ziomuœ, to samo ¿ycie
+Suma doœwiadczeñ, skurwysynu, to jest w³aœnie nasz marketing
+Bojê siê myœleæ
+Co by by³o z wami, gdybyœcie te¿ t¹ drogê przeszli?
+Gdzie byœ chcia³ wisieæ?
+I dzisiaj w trochê lepszej furze ca³y czas ten sam typ
+Ziomek nie nazwê ciê tchórzem, ze œcian do ³ba wje¿d¿a grzyb
+Realia inne ni¿ to, co pisze rz¹dowa prasa
+I choæ nie ma  mnie w mediach, to ¿ycie gniecie mnie jak prasa
+I tylko money, money, money, sprzeda¿ wszelkich zasad
+I tylko money, money, money, jakbyœ pyta³ o co kaman
+I tylko siebie mamy, mamy, rodziny swe na barkach
+Nie zapewnisz im przysz³oœci maczank¹ w samarkach
+¯ycie p³ynie i zbiera ¿niwa ta posêpna flota
+Na masztach, zamiast ¿agli, wisi ka¿dy dobry ch³opak
+Twoja kajuta na pokaz b³yszczy jak poranna rosa
+A pod pok³adem szlam jak w piwnicy na blokach
+Atypowy to znaczy nie jak wszyscy
+W œrodku nocy mamy wyostrzone zmys³y
+Rapowe wymioty, by duch pozosta³ czysty
+Du¿o brudu w trackach to Szlam, Szlam!
+Psy szczekaj¹, bo siê bardzo boj¹ burzy
+To Szlam, Szlam!
+Czym jest hejt, jeœli ca³e ¿ycie gruzy?
+To Szlam, Szlam!
+Coœ mówili, ¿e nie wyjdziemy na ludzi?
+To Szlam, Szlam!
+Nie chce mi siê o skurwieli r¹k mych brudziæ
+To Szlam, Szlam!
+
+On raŸno Trupi Koncerz wzniós³!
+I grdykê sztychn¹³ ciachu-ciach
+Tak zmorê œci¹³, jej g³owê wzi¹³...
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I wróci³ do dom wspak

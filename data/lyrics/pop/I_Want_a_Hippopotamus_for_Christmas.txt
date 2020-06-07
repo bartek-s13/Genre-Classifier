@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I want a hippopotamus for Christmas
 Only a hippopotamus will do
 I don't want a dog, no dinky Tinker Toy
@@ -33,4 +34,41 @@ Only a hippopotamus will do
 No crocodiles, no rhinoceroses
 I only like hippopotamuses
 And hippopotamuses like me too
+=======
+I want a hippopotamus for Christmas
+Only a hippopotamus will do
+I don't want a dog, no dinky Tinker Toy
+I want a hippopotamus to play with and enjoy
+I want a hippopotamus for Christmas
+I don't think Santa Claus will mind, do you?
+He won't have to use a dirty chimney flue
+Just bring him through the front door, that's the easy thing to do
+I can see me now on Christmas morning
+Creeping down the stairs
+Oh what a joy and what surprise when I open up my eyes
+To see a hippo hero standing there
+I want a hippopotamus for Christmas
+Only a hippopotamus will do
+No crocodiles, no rhinoceroses
+I only like hippopotamuses
+And hippopotamuses like me too
+Mom says the hippo would eat me up, but then
+Teacher says a hippo is a vegetarian
+I can see me now on Christmas morning
+Creeping down the stairs
+Oh what a joy and what surprise when I open up my eyes
+To see a hippo hero standing there
+I want a hippopotamus, I want a hippopotamus
+I want it, I want it, I really really really want
+A hippopotamus
+I want a hippopotamus for Christmas
+Only a hippopotamus will do
+I don't want a dog, no dinky Tinker Toy
+I want a hippopotamus to play with and enjoy
+I want a hippopotamus for Christmas
+Only a hippopotamus will do
+No crocodiles, no rhinoceroses
+I only like hippopotamuses
+And hippopotamuses like me too
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Christmas

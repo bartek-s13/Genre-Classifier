@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hangin' out down the street
 The same old thing we did last week
 Not a thing to do but talk to you
@@ -24,4 +25,32 @@ Yeah!
 Oh yeah!
 Oh yeah!
 Woo-o-o-o!
+=======
+Hangin' out down the street
+The same old thing we did last week
+Not a thing to do but talk to you
+Not a thing to do out in the street
+Oh yeah!
+Mom and dad live upstairs
+The music's loud so we don't care
+Nixon's gone but Rock lives on
+Hell yeah
+We're still rockin' in Wisconsin
+We're all alright!
+We're all alright!
+Yeah!
+Oh!
+I'll steal a car and drive on down
+Pick you up and we'll drive around
+Not a thing to do but talk to you
+Not a thing to do
+Oh yeah
+We're still rockin in Wisconsin
+We're all alright!
+We're all alright!
+Yeah!
+Oh yeah!
+Oh yeah!
+Woo-o-o-o!
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Hello Wisconsin!

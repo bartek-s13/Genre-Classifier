@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 He didn't cry on a safari
 In over his knees
 He couldn't leave the finer life
@@ -7,4 +8,15 @@ He didn't cry on a safari
 In over his knees
 He couldn't leave the flock, he couldn't leave
 Always hugging the man
+=======
+He didn't cry on a safari
+In over his knees
+He couldn't leave the finer life
+Always hugging the ground
+But crying out for me
+He didn't cry on a safari
+In over his knees
+He couldn't leave the flock, he couldn't leave
+Always hugging the man
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But crying out for me

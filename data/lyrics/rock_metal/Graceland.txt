@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Well, I am a shallow grave
 I'm a holy ghost, whoa
 I am that tidal wave that you'll miss most
@@ -52,4 +53,60 @@ Dreams and aspirations becoming finite
 I never wanted to be your demon
 But you have made me this way
 Your lack of compassion feeds my obsession
+=======
+Well, I am a shallow grave
+I'm a holy ghost, whoa
+I am that tidal wave that you'll miss most
+Oh, so lonely, so sad
+So vicious, so mad
+Poor me, poor me
+Well, I am that empty glass that you're sipping on
+I am that cigarette that you're quitting on
+Oh, so lonely, so sad
+So vicious, so mad
+Poor me, poor me
+
+I like the steady rainfall, black and white movies
+Oh oh, getting used to the pain, I think I might use it
+Oh, poor me, poor me
+Poor me, poor me
+Yeah, poor me, poor me
+
+I'm a bad habit that you can't shake
+Oh, I'm a hip swinger
+Oh, I'm an earthquake
+So lonely, so sad
+So vicious, so mad
+Poor me, poor me, poor me
+I am your Graceland
+Oh, you're my saving grace, I swear
+I'm only one man
+Oh, I'm two-faced
+So lonely, so sad
+So vicious, so mad
+Poor me, poor me, poor me
+
+I like the steady rainfall, black and white movies
+Getting used to the pain, I think I might use it
+Oh, poor me, poor me
+
+Dear Allan
+As much as it pains me to say
+I really fell in love with you
+Why is it so hard for you to find balance between love and music?
+Why does loving me mean the death of you?
+I've experienced it first hand, your ability to love something more than music
+You've now created the things that'll haunt you the most
+Please, allow yourself to love again
+For it may do the opposite of what you fear
+You told me once that you believed love creates a respite of death
+And I've struggled to understand the entrapment that you feel
+Because I, too, fear death just as much as anyone else
+Not just the physical sense of the word
+But in the idea of what death represents
+Dreams and aspirations becoming finite
+I never wanted to be your demon
+But you have made me this way
+Your lack of compassion feeds my obsession
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I am your wolf and you are the flavor that I will forever chase to taste again

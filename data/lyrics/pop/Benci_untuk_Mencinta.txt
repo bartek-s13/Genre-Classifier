@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lirik "Benci untuk Mencinta"
 
 Oh, betapa ku saat ini
@@ -26,4 +27,34 @@ Yang kutahu pasti
 Ku benci untuk mencintaimu
 Yang kutahu pasti
 Ku benci untuk
+=======
+Lirik "Benci untuk Mencinta"
+
+Oh, betapa ku saat ini
+Ku benci untuk mencinta
+Mencintaimu
+
+Oh, betapa ku saat ini
+Ku cinta untuk membenci
+Membencimu
+
+Aku tak tahu apa yang terjadi
+Antara aku dan kau
+Yang kutahu pasti
+Ku benci untuk mencintaimu
+
+
+Aku tak tahu apa yang terjadi
+Antara aku dan kau
+Yang kutahu pasti
+Ku benci untuk mencintaimu
+Dan aku tak tahu apa yang terjadi
+Antara aku dan aku
+Yang kutahu pasti
+Ku benci untuk mencintaimu
+Yang kutahu pasti
+Ku benci untuk mencintaimu
+Yang kutahu pasti
+Ku benci untuk
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Mencintaimu

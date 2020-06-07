@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You're blind to what's in front of you
 What do you know about the truth
 Devalued as, as soon as we're cast
@@ -22,4 +23,30 @@ I'm living for my expiration
 
 It's a shame you won't live but then again, who does
 All these memories will fade in time, like tears in the rain
+=======
+You're blind to what's in front of you
+What do you know about the truth
+Devalued as, as soon as we're cast
+We were never made to last
+Just bodies made and fabricated
+We're fighting towards our life extension
+We're living for our expiration
+
+Under the surface we're not machines
+Under the surface we're living dreams
+Death lives just one breath away
+
+Somewhere my heart beats in silence
+I make my way through the violence
+Nobody lives forever
+It's a shame you won't live but then again, who does
+My endless will for resolution
+Echoing since my creation
+I'm living for my expiration
+
+
+
+It's a shame you won't live but then again, who does
+All these memories will fade in time, like tears in the rain
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Time to die

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 O laagi tum se man ki lagan
 Lagan laagi tum se man ki lagan - (3)
 Gali gali ghume dil tujhe dhundhe -2, tere bin tarase nayan
@@ -19,4 +20,27 @@ Pa da sa re ga re re sa, pa da sa re ga re re sa, ma ga re
 Pa da sa re ga re re sa
 Pa da sa re ga re sa, pa ma ga re sa, pa da sa re ga re re sa
 Sa re ga ma, ma ga dha pa
+=======
+O laagi tum se man ki lagan
+Lagan laagi tum se man ki lagan - (3)
+Gali gali ghume dil tujhe dhundhe -2, tere bin tarase nayan
+Lagan laagi tum se man ki lagan - (4)
+Aa ja o meri jaan, mere dil ka jahaan
+Maange teri khabar, dhundhe tera nishaan
+Laagi tum se man ki lagan
+Lagan laagi tum se man ki lagan - (3)
+Gali gali ghume dil tujhe dhundhe -2
+Tere bin tarase nayan
+Lagan laagi tum se man ki lagan - (4)
+Tera tujhako saunp de kya laagat hai mor
+Mera mujhamen kuchh naaheen jo hovat so tor
+Tere bin mera man, jaise ban me hiran
+Jaise pagali pawan, laagi tum se man ki lagan
+Lagan laagi tum se man ki lagan - (3)
+Aa aa...
+Pa da sa re ga re re sa, pa da sa re ga re re sa, ma ga re
+Pa da sa re ga re re sa
+Pa da sa re ga re sa, pa ma ga re sa, pa da sa re ga re re sa
+Sa re ga ma, ma ga dha pa
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Sa ni dha ni dha pa, dha pa ma pa ma ga, dha ma re ga pa

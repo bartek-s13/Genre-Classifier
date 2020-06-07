@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Just you know why
 Why you and I
 Will by and by
@@ -24,4 +25,32 @@ Sometimes we'll sigh
 Sometimes we'll cry
 And we'll know why
 Just you and I
+=======
+Just you know why
+Why you and I
+Will by and by
+Know true love ways
+Sometimes we'll sigh
+Sometimes we'll cry
+And we'll know why
+Just you and I
+Know true love ways
+Throughout the days
+Our true love ways
+Will bring us joys to share
+With those who really care
+Sometimes we'll sigh
+Sometimes we'll cry
+And we'll know why
+Just you and I
+Know true love ways
+Throughout the days
+Our true love ways
+Will bring us joys to share
+With those who really care
+Sometimes we'll sigh
+Sometimes we'll cry
+And we'll know why
+Just you and I
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Know true love ways

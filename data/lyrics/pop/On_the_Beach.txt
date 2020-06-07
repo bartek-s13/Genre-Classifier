@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Between the eyes of love
 I call your name
 Behind those guarded walls
@@ -29,4 +30,37 @@ On the beach
 (On the beach, oh, on the beach)
 On the beach
 (On the beach, oh, on the beach)
+=======
+Between the eyes of love
+I call your name
+Behind those guarded walls
+I used to go
+I promise on the wind
+There's a certain melody
+Takes me back to the place that I know, oh
+
+On the beach
+(On the beach)
+On the beach
+
+The secrets of the summer
+I will keep
+The sands of time will blow
+A mystery
+No one but you and I
+Underneath that moonlit sky
+Takes me back to the place that I know, oh
+
+On the beach
+(On the beach)
+On the beach
+(On the beach)
+
+Takes me back to the place that I know, oh
+
+On the beach
+(On the beach, oh, on the beach)
+On the beach
+(On the beach, oh, on the beach)
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 On the beach

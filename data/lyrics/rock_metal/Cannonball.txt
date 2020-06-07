@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Check check check
 One two
 
@@ -30,4 +31,38 @@ The bong in this reggae song
 Want you cuckoo cannonball
 Want you cuckoo cannonball
 In the shade, in the shade
+=======
+Check check check
+One two
+
+Spitting in a wishing well
+Blown to hell, crash
+I'm the last splash
+I know you little libertine
+I know you're a real cuckoo
+
+Want you cuckoo cannonball
+Want you cuckoo cannonball
+In the shade, in the shade
+In the shade, in the shade
+
+I know you little libertine
+I know you're a cannonball
+I'll be your whatever you want
+The bong in this reggae song
+
+In the shade
+In the shade
+Want you cuckoo cannonball
+Want you cuckoo cannonball
+Spitting in a wishing well
+Blown to hell, crash
+I'm the last splash
+I'll be your whatever you want
+The bong in this reggae song
+
+Want you cuckoo cannonball
+Want you cuckoo cannonball
+In the shade, in the shade
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In the shade, in the shade

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I don't wanna waste my time if I can't be by your side
 You really shouldn't think about God if she can't see where you hide
 We don't gotta talk about nothing nice if you wanna come down
@@ -18,4 +19,26 @@ Cause I don't gotta know...
 And if the stars collide, will she relieve my soul?
 When we feel alive I know she'll let me go
 When you read my lips, I know you feel my cold
+=======
+I don't wanna waste my time if I can't be by your side
+You really shouldn't think about God if she can't see where you hide
+We don't gotta talk about nothing nice if you wanna come down
+But she don't gotta know 'bout nothing
+But she don't gotta know...
+
+And if the stars collide, will she relieve my soul?
+And when we feel alive I know she'll let me go
+When you read my lips, I know you feel all cold
+But I promise you my heart is made of gold
+
+I don't wanna waste my time if I can't make you decide
+You're only on my mind when I need you
+I don't need to know about what you do when the sun goes down
+Cause I don't gotta know about nothing
+Cause I don't gotta know...
+
+And if the stars collide, will she relieve my soul?
+When we feel alive I know she'll let me go
+When you read my lips, I know you feel my cold
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But I promise you my heart is made of gold

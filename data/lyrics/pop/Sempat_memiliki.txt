@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mengapa Kita Bertemu
 Bila Akhirnya Dipisahkan
 Mengapa Kita Berjumpa
@@ -23,4 +24,31 @@ Engkau Mengatakan
 Merindukan Diriku Lagi
 Ingin Ku Sampaikan
 Ku Tak Hanya Sekedar Itu...
+=======
+Mengapa Kita Bertemu
+Bila Akhirnya Dipisahkan
+Mengapa Kita Berjumpa
+Tapi Akhirnya Di Jauhkan
+Kau Bilang Hatimu Aku
+Nyatanya Bukan Untuk Aku
+***
+Bintang Di Langit Nan Indah
+Dimanakah Cinta Yg Dulu
+Masihkah Aku Disana
+Di Relung Hati Dan Mimpimu
+Andaikan Engkau Disini
+Andaikan Tetap Denganku
+Reff :
+Aku Hancur Ku Terluka
+Namun Engkaulah Nafasku
+Kau Cintaku Meski Aku
+Bukan Di Benakmu Lagi
+Dan Kuberuntung
+Sempat Memilikimu...
+Back To ***
+Engkau Mengatakan
+Merindukan Diriku Lagi
+Ingin Ku Sampaikan
+Ku Tak Hanya Sekedar Itu...
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Wouwoo..Wouowwoo....

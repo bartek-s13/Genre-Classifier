@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The willow it weeps today
 A breeze from the distance is calling your name
 Unfurl your black wings and wait
@@ -35,4 +36,43 @@ May you never be broken again
 Beyond the suffering you've known
 I hope you find your way
 May you never be broken again
+=======
+The willow it weeps today
+A breeze from the distance is calling your name
+Unfurl your black wings and wait
+Across the horizon it's coming to sweep you away
+It's coming to sweep you away
+
+Let the wind carry you home
+Blackbird, fly away
+May you never be broken again
+
+The fragile cannot endure
+The wrecked and the jaded, a place so impure
+The static of this cruel world
+Cause some birds to fly long before they've seen their day
+Long before they've seen their day
+
+Let the wind carry you home
+Blackbird, fly away
+May you never be broken again
+Beyond the suffering you've known
+I hope you find your way
+May you never be broken again
+
+Ascend may you find no resistance
+Know that you made such a difference
+All you leave behind will live to the end
+The cycle of suffering goes on
+But memories of you stay strong
+Someday I too will fly and find you again
+
+
+Let the wind carry you home
+Blackbird fly away
+May you never be broken again
+Beyond the suffering you've known
+I hope you find your way
+May you never be broken again
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 May you never be broken again

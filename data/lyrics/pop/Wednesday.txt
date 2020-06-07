@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oh, my darling I can't ignore
 One little thing
 It hurts me to adore
@@ -25,4 +26,33 @@ It's hard to make plans
 Caught up again
 Oh no
 It takes so long but it's not for me
+=======
+Oh, my darling I can't ignore
+One little thing
+It hurts me to adore
+Each time I look
+I seem to find
+What's good in love
+Is not that good at all
+Oh no
+Oh no
+
+It's hard to make plans
+Caught up again
+Oh no
+It takes so long but it's not for me
+Surely you'll see
+
+So please relax and take my hand
+I'll come with you
+To see your rocking band
+Stop up the street or I'll guess far
+Take one for me, and all the rest is lost
+Oh no
+Oh no
+It's hard to make plans
+Caught up again
+Oh no
+It takes so long but it's not for me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Surely you'll see

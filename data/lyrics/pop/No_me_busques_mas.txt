@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lo que tenga que venir vendrá
 Lo que tenga que pasar pasará
 Yo ahora no me arrastro más
@@ -47,4 +48,55 @@ No te quiero volver a ver
 No, no, no me busques mas
 No, no, no me busques mas
 No, no, no me busques mas
+=======
+Lo que tenga que venir vendrá
+Lo que tenga que pasar pasará
+Yo ahora no me arrastro más
+Tu te lo has perdido ya
+Has partido mi alma en dos
+Has jugado con mi corazón
+Siempre hice caso a tu perdón
+Pero esto se acabó
+No voy a decirte lo que quieres escuchar
+No voy a escuchar lo que me quieras decir
+Siempre habla el que mas tiene que callar
+No somos perfectos aunque creas que si
+Vida solo hay una y es la que hay que vivir
+Ya no pierdo el tiempo mas pensando en ti
+Soy un hombre nuevo empiezo a sonreír
+No me busques mas porque yo ya me fui
+No, no, no me busques más
+No, no, no me busques más
+No, no, no me busques más
+Porque yo ya me fui (x2)
+No me apetece nada enamorarme de nuevo
+Sinceramente estoy soltero porque quiero
+Ahora ya no me hacen falta tus besos
+Ya no echo de menos esos momentos
+Estaba contigo a solas
+Pasando en la cama las horas
+Yo ya te he olvidado, lo siento
+Esto se acabó
+No voy a decirte lo que quieres escuchar
+No voy a escuchar lo que me quieras decir
+Siempre habla el que mas tiene que callar
+No somos perfectos aunque creas que si
+Vida solo hay una y es la que hay que vivir
+Ya no pierdo el tiempo mas pensando en ti
+Soy un hombre nuevo empiezo a sonreír
+No me busques mas porque yo ya me fui
+No, no, no me busques más
+No, no, no me busques más
+No, no, no me busques más
+Porque yo ya me fui (x2)
+No, no; no, no; no, no; porque yo ya me fui (x2)
+Se que el amor no tiene edad ni precio
+Ni fecha de caducidad ni complejos
+Pero contigo voy a hacer
+Una excepción que me irá bien
+No te quiero volver a ver
+No, no, no me busques mas
+No, no, no me busques mas
+No, no, no me busques mas
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Porque yo ya me fui (x2)

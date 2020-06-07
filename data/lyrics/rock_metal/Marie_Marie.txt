@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Well, I'm tellin' you man, I ain't no fool
 If you come along with me, you gotta be dead cool
 'Cause we're rockin' and a-rollin' on the Marie Celeste
@@ -17,4 +18,25 @@ Come with me and dance till you drop
 Well, I'm tellin' you man, I ain't no fool
 If you come along with me, you gotta be dead cool
 'Cause we're rockin' and a-rollin' on the Marie Celeste
+=======
+Well, I'm tellin' you man, I ain't no fool
+If you come along with me, you gotta be dead cool
+'Cause we're rockin' and a-rollin' on the Marie Celeste
+'Cause dead pirate cats really know how to rock the best
+Tell your moms and pops, you won't be late
+They don't matter 'cause we just can't wait
+'Cause we're rockin' and a-rollin' on the Marie Celeste
+'Cause dead pirate cats really know how to rock the best
+Now, all you cats like to stroll and bop
+Come with me and dance till you drop
+'Cause we're rockin' and a-rollin' on the Marie Celeste
+'Cause dead pirate cats really know how to rock the best
+Now, all you cats like to stroll and bop
+Come with me and dance till you drop
+'Cause we're rockin' and a-rollin' on the Marie Celeste
+'Cause dead pirate cats really know how to rock the best
+Well, I'm tellin' you man, I ain't no fool
+If you come along with me, you gotta be dead cool
+'Cause we're rockin' and a-rollin' on the Marie Celeste
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Cause gone Polecats really know how to rock the best

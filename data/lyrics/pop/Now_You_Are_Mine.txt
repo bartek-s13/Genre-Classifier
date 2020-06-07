@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 There is something you should know
 Something that will steal your stars
 Stop now, seat down
@@ -13,4 +14,21 @@ Stand now, come down
 You won't be too proud
 And you can't try to escape
 Cause now
+=======
+There is something you should know
+Something that will steal your stars
+Stop now, seat down
+It will be too loud
+And you can try to escape
+Cause now
+I can tell you
+Now you are mine
+Like a bullet in my mind
+There is nothing you could show
+Nothing that will kill your fears
+Stand now, come down
+You won't be too proud
+And you can't try to escape
+Cause now
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I can tell you

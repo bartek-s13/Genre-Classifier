@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Behind the smooth texture
 Of my eyes, way inside me,
 A part of me has died:
@@ -8,4 +9,16 @@ The chalk white scars
 That say I AM SCARED,
 Scared of what might become
 Of me, the real me,
+=======
+Behind the smooth texture
+Of my eyes, way inside me,
+A part of me has died:
+I move my bloody fingernails
+Across it, hard as a blackboard,
+Run my fingers along it,
+The chalk white scars
+That say I AM SCARED,
+Scared of what might become
+Of me, the real me,
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Behind these prison walls.

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lirik "Mungkin Nanti"
 
 Saatnya ku berkata
@@ -43,4 +44,51 @@ Saat semua di sini
 Tak usah kau tanyakan lagi
 Simpan untukmu sendiri
 Semua sesal yang kau cari
+=======
+Lirik "Mungkin Nanti"
+
+Saatnya ku berkata
+Mungkin yang terakhir kalinya
+Sudahlah lepaskan semua
+Kuyakin inilah waktunya
+
+Mungkin saja kau bukan yang dulu lagi
+Mungkin saja rasa itu telah pergi
+
+Dan mungkin bila nanti
+Kita kan bertemu lagi
+Satu pintaku jangan kau coba
+Tanyakan kembali
+Rasa yang kutinggal mati
+Seperti hari kemarin
+Saat semua di sini
+
+Dan bila hatimu termenung
+Bangun dari mimpi-mimpimu
+Membuka hatimu yang dulu
+Cerita saat bersamaku
+Mungkin saja kau bukan yang dulu lagi
+Mungkin saja rasa itu telah pergi
+
+Dan mungkin bila nanti
+Kita kan bertemu lagi
+Satu pintaku jangan kau coba
+Tanyakan kembali
+Rasa yang kutinggal mati
+Seperti hari kemarin
+Saat semua di sini
+
+
+Dan mungkin bila nanti
+Kita kan bertemu lagi
+Satu pintaku jangan kau coba
+Tanyakan kembali
+Rasa yang kutinggal mati
+Seperti hari kemarin
+Saat semua di sini
+
+Tak usah kau tanyakan lagi
+Simpan untukmu sendiri
+Semua sesal yang kau cari
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Semua rasa yang kau beri

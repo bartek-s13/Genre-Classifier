@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Such a lonely day and it's mine
 The most loneliest day of my life
 Such a lonely day should be banned
@@ -20,4 +21,28 @@ The most loneliest day of my life
 The most loneliest day of my life
 The most loneliest day of my life...
 Such a lonely day and it's mine
+=======
+Such a lonely day and it's mine
+The most loneliest day of my life
+Such a lonely day should be banned
+It's a day that I can't stand
+
+The most loneliest day of my life
+The most loneliest day of my life
+
+Such a lonely day shouldn't exist
+It's a day that I'll never miss
+Such a lonely day and it's mine
+The most loneliest day of my life
+
+And if you go, I wanna go with you
+And if you die, I wanna die with you
+Take your hand and walk away
+
+
+The most loneliest day of my life
+The most loneliest day of my life
+The most loneliest day of my life...
+Such a lonely day and it's mine
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 It's a day that I'm glad I survived

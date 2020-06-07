@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Boy, it sure is a nice day today
 I believe I’ll go back out in the garden
 And dig me up some worms…
@@ -44,4 +45,52 @@ Eh, hand me a tall glass, darlin’
 And about two more a’ those fish sandwiches…
 Woo, this sure is good…
 I ain't had this much fun
+=======
+Boy, it sure is a nice day today
+I believe I’ll go back out in the garden
+And dig me up some worms…
+And go fishin’!
+Alright, I got me a nice little spot picked out down there on the crick
+Boy, them perch is bitin' like crazy. Yessir. Powerful
+I'm goin' fish-fish, fish-fish, fish-fish, fishin'
+I'm goin' fishin', hook, sinker, an' line
+I said, fish-fish, fish-fish, fish-fish, fishin'....
+Boy, I’m a-goin’ fishin’ just to ease my mind
+Ya know, some folks say that fishin' on a Sunday's a sin
+I don’t believe in that though…
+If a fish bite my line on a Sunday, I'm gonna reel 'im on in. (haha)
+I Believe I'll take 'em on home, fry 'em up good an' have a ball....
+‘Cause I don't see nothin wrong with fishin’ on Sunday at all. (haha)
+I'm goin' fish-fish, fish-fish, fish-fish, fishin'
+Boy, I'm goin' fishin', hook, sinker, an' line
+I said, fish-fish, fish-fish, fish-fish, fishin'. (hahaha)
+Yes, I’m a-goin’ fishin’ just to ease my mind
+Alright!
+I’ll take my pole and my jug, down to the river
+Gonna sit up on the bank
+Every time the fish starts to nibble
+I’m gonna take me another drink
+I'm goin' fish-fish, fish-fish, fish-fish, fishin'
+Yes, I'm goin' fishin', hook, sinker, an' line. Woo!
+I said, fish-fish, fish-fish, fish-fish, fishin'. (hahaha)
+Yes Lord, I’m goin’ fishin’ just to ease my mind
+Now see there, look at this big ol’ string of fish
+Ol’ Charlie ‘n them tried to tell me I wouldn’t catch nothin’
+Look at the catfish on the end. Woo! He’s a big one
+I’m gonna get the whole neighborhood over here
+And fry these up, sit ‘n have a good ol’ fish fry, yessir
+Ooh, it’s startin’ to smell good already. Yessir
+Hey, bust out a couple bottles a ketchup, salt’n’pepper
+A couple a loaves of bread, an’
+We’ll just have a time here tonight. Yessir
+Get that old boy next door
+To come play his fiddle for us…
+Send ol Charlie Daniels out for a
+Couple bottles of Corn Liquor, will ya
+Aww, here he comes back with it…
+Eh, hand me a tall glass, darlin’
+And about two more a’ those fish sandwiches…
+Woo, this sure is good…
+I ain't had this much fun
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 In about a hundred years…

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Adjie Soetama
 Disaat kau berjalan dimuka rumahku
 Penuh gaya
@@ -12,4 +13,20 @@ Reff :
 Hati yang berbunga
 Pada pandangan pertama
 Oh Tuhan tolonglah
+=======
+Adjie Soetama
+Disaat kau berjalan dimuka rumahku
+Penuh gaya
+Tersita pandanganku hingga kuterpesona
+Siapakah dirimu hatipun ingin tahu
+Segera
+Dimanakah rumahmu siapakah namamu
+Sebutkanlah
+Kuingin berkenalan terbawa dalam mimpi
+Diriku dimabuk asmara
+Reff :
+Hati yang berbunga
+Pada pandangan pertama
+Oh Tuhan tolonglah
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Aku cinta aku cinta dia

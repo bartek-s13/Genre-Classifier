@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What you know about
 Opening the oven so the house gets warm?
 Forever cursing the day you were born
@@ -35,4 +36,43 @@ I'm the bloodshot eyes
 And the weathered face
 I'm the cross to bear
 In this world of shit
+=======
+What you know about
+Opening the oven so the house gets warm?
+Forever cursing the day you were born
+Forever alone, where do I begin?
+&amp; I ain't never met a demon that didn't want in
+
+So can you picture me rolling
+Playing "picture me rolling"?
+95-South and I don't know where I'm going
+I just wanna be free
+So can you picture me rolling?
+Laid back and I'm smokin
+Left it all behind
+And then I just kept going
+I just wanna be free
+Yeah and I talk about pain
+Cause I know pain
+They tell me expand, but man
+I stay in my lane
+And y'all try and talk hard
+But you ain't been in no gang
+And I been stabbed 5 times
+That's why I stay on my aim
+Where were you
+When I was slumped over?
+When I was hunched over
+Pulling glass out my shoulder?
+Where were you?
+Still avoiding the truth
+You just a pussy with a tool
+Man I know about you
+I am the pain
+I'm the wind and the rain
+I'm the bloodshot eyes
+And the weathered face
+I'm the cross to bear
+In this world of shit
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 ...And we ain't gotta live like this

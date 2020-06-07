@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fog in the streets, a church clock beats
 Midnight, darkness all around
 You better beware, you better take care
@@ -28,4 +29,36 @@ He's a killer, he'll rip out your heart
 On a one way track and you're not coming back
 'Cause the killer's, 'cause the killer's
 'Cause the killer's on the attack, attack, attack
+=======
+Fog in the streets, a church clock beats
+Midnight, darkness all around
+You better beware, you better take care
+Be prepared for the shock
+The time has come and he's the one
+Who's breathing down your neck
+Coming from behind, now it's your time
+A loser will die
+Fast as a shark, he'll cut out of the dark
+He's a killer, he'll rip out your heart
+On a one way track and you're not coming back
+'Cause the killer's on the attack
+Surprise attack, coming from the back
+An expert of the deadly knack
+Just take care, just beware
+Be prepared for the fight
+Fast as a shark, he'll cut out of the dark
+He's a killer, he'll rip out your heart
+On a one way track and you're not coming back
+'Cause the killer's on the attack
+Watch out, watch out
+Fast as a shark, he'll cut out of the dark
+He's a killer, he'll rip out your heart
+On a one way track and you're not coming back
+'Cause the killer's on the attack
+Fast as a shark, he'll cut out of the dark
+He's a killer, he'll rip out your heart
+On a one way track and you're not coming back
+'Cause the killer's, 'cause the killer's
+'Cause the killer's on the attack, attack, attack
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Attack, attack, attack, attack

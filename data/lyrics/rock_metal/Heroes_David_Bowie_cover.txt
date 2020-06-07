@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I, I will be king
 And you, shall be my queen
 Though nothing, will never drive them away
@@ -24,4 +25,32 @@ Oh we can beat them, forever and ever
 Then we could be heroes, just for one day
 We can be heroes, we can be heroes
 We can be heroes, just for one day
+=======
+I, I will be king
+And you, shall be my queen
+Though nothing, will never drive them away
+But we can beat them, forever and ever
+Cause we can be heroes, just for one day
+
+And you, you are insane
+And I, I am the same
+Cause we're lovers, and that is the truth
+Yes we're lovers, and we're in that booth
+
+Though nothing, will keep us together
+We could stop time, forever and ever
+We can be heroes
+What d'you say?
+
+I, I can remember (I remember)
+Standing, by the wall (by the wall)
+And the guns, were all ready to fire (ready to fire)
+And we kissed, as though we never can fall (never can fall)
+
+And the shame, was on another city
+Oh we can beat them, forever and ever
+Then we could be heroes, just for one day
+We can be heroes, we can be heroes
+We can be heroes, just for one day
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We can be heroes

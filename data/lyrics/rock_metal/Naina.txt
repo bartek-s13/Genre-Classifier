@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Singer : Rahat Fateh Ali KhanOther Songsnainon ki mat maaniyo re
 Nainon ki mat suniyo
 Nainon ki mat maaniyo re
@@ -41,4 +42,49 @@ Jagte jaadu phukenge re jagte jagte jaadu
 Jagte jaadu phukenge re neenden banjar kar denge
 Naina thag lenge - 2 thag lenge naina thag lenge
 Naina thag lenge thag lenge naina thag lenge -2
+=======
+Singer : Rahat Fateh Ali KhanOther Songsnainon ki mat maaniyo re
+Nainon ki mat suniyo
+Nainon ki mat maaniyo re
+Nainon ki mat suniyo
+Nainon ki mat suniyo re
+Naina thag lenge - 2 thag lenge naina thag lenge
+Naina thag lenge thag lenge naina thag lenge
+Jagte jaadu phukenge re jagte jagte jaadu
+Jagte jaadu phukenge re neenden banjar kar denge
+Naina thag lenge - 2 thag lenge naina thag lenge
+Naina thag lenge thag lenge naina thag lenge
+Nainon ki mat maaniyo re
+Bhala manda dekhe na paraya na saga re
+Nainon ko toh dasne ka chaska laga re
+Bhala manda dekhe na paraya na saga re
+Nainon ko toh dasne ka chaska laga re
+Nainon ka zehar nasheela re - 4
+Baadalon mein satrangiyan bonve
+Bhor talak barsaave
+Baadalon mein satrangiyan bonve
+Naina baanvra kar denge
+Naina thag lenge - 2 thag lenge naina thag lenge
+Naina thag lenge thag lenge naina thag lenge -2
+Naina raat ko chalte chalte swargan mein le jaave
+Megh malhaar ke sapne dije hariyali dikhlave
+Naina raat ko chalte chalte swargan mein le jaave
+Megh malhaar ke sapne dije hariyali dikhlave
+Nainon ki zubaan pe bharosa nahi aata
+Likhad parakh na rasid na khaata
+Nainon ki zubaan pe bharosa nahi aata
+Likhad parakh na rasid na khaata
+Saari baat hamari - 2
+Bin baadal barsaaye saawan saawan bin barsaata
+Bin baadal barsaaye saawan naina baanwara kar denge
+Naina thag lenge - 2 thag lenge naina thag lenge
+Nainon ki mat maaniyo re
+Nainon ki mat suniyo
+Nainon ki mat suniyo re
+Naina thag lenge
+Jagte jaadu phukenge re jagte jagte jaadu
+Jagte jaadu phukenge re neenden banjar kar denge
+Naina thag lenge - 2 thag lenge naina thag lenge
+Naina thag lenge thag lenge naina thag lenge -2
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Naina

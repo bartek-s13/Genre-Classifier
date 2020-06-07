@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Who draws the crowd
 And plays so loud
 Baby, it's the guitar man
@@ -49,4 +50,57 @@ Another place to play
 Any way
 Got to play
 Either way
+=======
+Who draws the crowd
+And plays so loud
+Baby, it's the guitar man
+Who's gonna steal the show
+You know, baby
+It's the guitar man
+He can make you love
+He can make you cry
+He will bring you down
+Then he'll get you high
+Something keeps him going
+Miles and miles a day
+To find another place to play
+Night after night
+Who treats you right
+Baby, it's the guitar man
+Who's on the radio
+You go listen to the guitar man
+Then he comes to town
+And you see his face
+And you think you might
+Like to take his place
+Something keeps him drifting
+Miles and miles away
+Searching for the songs to play
+Then you listen to the music
+And you like to sing-along
+You want to get the meaning
+Out of each and every song
+Then you find yourself a message
+And some words
+To call your own
+And take them home
+He can make you love
+He can get you high
+He will bring you down
+Then he'll make
+Make you cry
+Something keeps him moving
+But no one seems to know
+What it is that makes him go
+Then the lights begin to flicker
+And the sound is getting dim
+The voice begins to falter
+And the crowds are getting thin
+But he never seems to notice
+He's just got to find
+Another place to play
+Any way
+Got to play
+Either way
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Got to play

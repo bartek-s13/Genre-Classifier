@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The sky is cryin....
 Can't you see the tears roll down the street
 The sky is cryin....
@@ -15,4 +16,23 @@ That my baby, she don't love me no more
 I've got a real real bad feelin'
 That my baby don't love me no more
 Well, this guy, this guy's been cryin'
+=======
+The sky is cryin....
+Can't you see the tears roll down the street
+The sky is cryin....
+Can't you see the tears roll down the street
+I've been lookin' for my baby
+And I wonder where can she be
+I saw my baby early one morning
+She was walkin' on down the street
+I saw my baby early this morning
+She was walkin' on down the street
+You know it hurt me, hurt me so bad
+Made my poor heart skip a beat
+I've got a real real real real bad feelin'
+That my baby, she don't love me no more
+I've got a real real bad feelin'
+That my baby don't love me no more
+Well, this guy, this guy's been cryin'
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Can't you see the tears roll down my nose

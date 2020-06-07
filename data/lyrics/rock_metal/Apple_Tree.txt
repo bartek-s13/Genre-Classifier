@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dear Sir, can you remember me
 I'm the one that picked the apple tree
 Dear Sir, can you remember me
@@ -29,4 +30,37 @@ Ohh my love i can recognize
 Dear Sir, can you remember me
 I'm the one that picked the apple tree
 Dear Sir, can you remember me
+=======
+Dear Sir, can you remember me
+I'm the one that picked the apple tree
+Dear Sir, can you remember me
+I'm the one that picked the apple tree
+Dear Sir, can you remember me
+Have a look inside the family tree
+Dear Sir, can you remember me
+Have a look inside the family tree
+
+Your daughter is so fine to see
+Unraveled some mystery in me
+When i see the apple in disguise
+Ohh my love i can recognize
+
+Dear Sir, can you remember me
+I'm the one that picked the apple tree
+Dear Sir, can you remember me
+I'm the one that picked the apple tree
+Dear Sir, can you remember me
+I seen the forest for the tree
+Dear Sir, can you remember me
+I seen the forest for the tree
+
+Your daughter is so fine to see
+Unraveled some mystery in me
+When i see the apple in disguise
+Ohh my love i can recognize
+
+Dear Sir, can you remember me
+I'm the one that picked the apple tree
+Dear Sir, can you remember me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I'm the one that picked the apple tree

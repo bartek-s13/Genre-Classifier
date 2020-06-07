@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 No bye, no aloha
 Gone with a rock promoter
 A rock promoter
@@ -12,4 +13,20 @@ I know, I saw
 And now may die
 No bye, no aloha
 Gone with a rock promoter
+=======
+No bye, no aloha
+Gone with a rock promoter
+A rock promoter
+I know, I saw
+And now may die
+Oh, the treats
+Saw it on the wall
+'Motherhood means mental freeze.'
+(Freezeheads)
+No aloha
+I know, I saw
+And now may die
+No bye, no aloha
+Gone with a rock promoter
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 A rock promoter

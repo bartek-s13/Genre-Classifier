@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Keep me high, keep me breathing
 Before my head hits the ground (hey)
 Thought I was fine with believing
@@ -34,4 +35,42 @@ You just don't know it yet, yet, yet, yet
 You just don't know it yet
 You just don't know it
 You just don't know it yet, know it yet, know it yet
+=======
+Keep me high, keep me breathing
+Before my head hits the ground (hey)
+Thought I was fine with believing
+But I found my way out
+
+My father said, "Don't you worry, don't you worry 'bout a thing"
+My father said, "There's a reason, hear me calling"
+He said, "Don't you worry 'bout tomorrow, don't you ever forget
+You will find that heaven's in you, you just don't know it yet"
+
+You just don't know it yet, yet, yet, yet, yet
+You just don't know it yet, yet, yet, yet
+You will find that heaven's in you, you just don't know it yet
+
+(Hey, hey, hey, hey)
+You just don't know it yet, yet, yet, yet, yet (hey, hey)
+You will find that heaven's in you, you just don't know it yet
+
+I believe in a feeling
+It's more than you know (hey)
+Give me life, give me meaning
+And I will never let go
+My father said, "Don't you worry, don't you worry 'bout a thing"
+My father said, "There's a reason, hear me calling"
+He said, "Don't you worry 'bout tomorrow, don't you ever forget
+You will find that heaven's in you, you just don't know it yet"
+
+You just don't know it yet, yet, yet, yet, yet
+You just don't know it yet, yet, yet, yet
+You will find that heaven's in you, you just don't know it yet
+
+(Hey, hey, hey, hey)
+You just don't know it yet, yet, yet, yet
+You just don't know it yet
+You just don't know it
+You just don't know it yet, know it yet, know it yet
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You will find that heaven's in you, you just don't know it yet

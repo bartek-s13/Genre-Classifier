@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 KitschKrieg, Trap Astaire
 Mulligan, UK-Trompeter
 Originator, Love Parade
@@ -57,4 +58,65 @@ Ey, du am Crossfader
 Es wird immer später
 Miriam Makeba
 Addis Abeba
+=======
+KitschKrieg, Trap Astaire
+Mulligan, UK-Trompeter
+Originator, Love Parade
+Heinrich der Schäfer
+Mir aus den Augen, ihr seid keine
+Mir aus den Augen, ihr seid keine...
+
+Je später der Abend, Gäste umso schöner
+Jeder der heute fehlt, ist ein Verräter, aye
+Squad Goin' Up, wir sind bad wie Darth Vader
+Regen fällt, will meinen Stan Smith's ans Leder
+Genau solche Dinge frustrieren den Raver
+Bullen, Security, Knarren, nasse Paper
+Bleichgesichtige Auf-die-Sneaker-Treter
+All diese Dinge frustrieren den Raver
+
+Doch am meisten frustrieren den Raver
+Andere Raver, die mein' sie wär'n Raver
+Künstliche Bräune, Sonnenbank Flavour
+All diese Raver frustrieren den Raver
+Ich schütt' euch meinen Longdrink über'n Blazer
+Mir aus den Augen, ihr seid keine Raver
+Schlange stehen überall, zu viele Streber
+Und Kids die performen, als wär'n sie auf Äther
+Hm, was es auch ist mein Freund, mach keine Fehler
+All diese Dinge frustrieren den Raver
+Lauwarmer Fusel und Pfandmarken, Gläser -
+Ohne Limette, Barpersonal-Schläfer
+Tropfen im Appleton, Asche im Jever
+All diese Dinge frustrieren den Raver
+Zwei GoGo Girls ist nicht gleich Major Lazer
+'Ne Fahne schwenken, du Pferd, das kann jeder
+Wer außer mir Autotune sagt, ist ein Hater
+Techno und BoomBap frustrieren den Raver
+Lieber zu Hause mit Anita Baker
+Curfew um Vier, Licht an, "Jetzt geht ihr!"
+All diese Dinge frustrieren den Raver
+Mir aus den Augen, ihr seid keine Raver
+
+Mir aus den Augen, ihr seid keine Raver
+Mulligan, UK -Trompeter
+Album hieß "Ravers", der Originator
+Lange vor Love Parade, Heinrich dem Schäfer
+Mir aus den Augen, ihr seid keine Raver
+Solche Raver frustrieren den Raver
+Macht euch vom Acker, ihr seid keine Gegner
+All diese Dinge frustrieren den…
+All diese Dinge frustrieren den Raver
+Doch am meisten frustrieren den Raver
+Andere Raver, die mein', sie wär'n Raver
+Künstliche Bräune, Sonnenbank Flavour
+All diese Raver frustrieren den Raver
+Ich schütt' euch meinen Longdrink über'n Blazer
+Mir aus den Augen, ihr seid keine Raver
+
+Ey, du am Crossfader
+Es wird immer später
+Miriam Makeba
+Addis Abeba
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Aye

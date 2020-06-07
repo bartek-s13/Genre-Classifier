@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to the place where all the creatures meet
 The last building to your left on a dead-end street
 You'll find skeleton bones outside on the pavement
@@ -54,4 +55,62 @@ Weren't you prepared?
 Or could it be that you were scared?
 It's just not fair that you couldn't be there
 Because you really missed a lot, I'm tellin' you
+=======
+Welcome to the place where all the creatures meet
+The last building to your left on a dead-end street
+You'll find skeleton bones outside on the pavement
+And torture chambers down in the basement
+Cobwebs hangin' over your head
+And music bein' played by the Grateful Dead
+And spinnin' on the turntables back to back
+Is no other than my main man wolfman Jack
+The M.C. of the night rappin' to the tunes
+Was the creature from the black lagoon
+There's a sign on the door that can't be missed
+It reads: "Enter... But at your own risk"
+'Cause people seen reported goin' in the haunted house
+But never again seen comin' out
+You ask me if it's true
+I'll leave it up to you
+Here's an invite
+I hope I see you tonight
+
+We sent out invitations for weeks and weeks
+We invited in all kinds of creeps
+Like Dr. Jekyll and Mr. Hyde
+The Addams family and the monster five
+The invisible man
+Where could he be? We know he got inside the party free
+One of these days they're gonna catch him red-handed
+If not for sneakin' in free
+For being a booty bandit
+The bartender was cute
+But kinda hairy
+And Dracula was killin' those Bloody Marys
+He got drunk as a skunk
+And started trouble all night
+But everybody knew his bark was bigger than his bite
+It was the only place for you to be
+The first 200 witches in the party were free
+And all was well until the clock struck 12
+Everybody jumped up and started raisin' hell
+They were screaming
+They were breakin'
+They were foaming at the mouth
+Just minor side effects of the haunted house
+You'll have haunted dreams all in your sleep
+You'll be tossin' and turnin' to the funky beat
+Frankenstein was there with some crazy looking chick
+I think she said her name was "Voodoo on a stick"
+She had a big fat head and a skinny body
+I wouldn't be caught with her alone
+There is none at a party
+Igor was there with the monster crew
+I seen everybody there except you
+Why didn't you come?
+Weren't you prepared?
+Or could it be that you were scared?
+It's just not fair that you couldn't be there
+Because you really missed a lot, I'm tellin' you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We really brought the place down at the haunted house of rock!

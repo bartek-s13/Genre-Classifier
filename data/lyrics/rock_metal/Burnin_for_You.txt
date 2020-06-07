@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Home in the valley, home in the city
 Home isn't pretty, ain't no home for me
 Home in the darkness, home on the highway
@@ -33,4 +34,41 @@ I'm livin' for givin' the devil his due
 An' I'm burnin', I'm burnin', I'm burnin' for you
 I'm burnin', I'm burnin', I'm burnin' for you
 I'm burnin', I'm burnin', I'm burnin' for you
+=======
+Home in the valley, home in the city
+Home isn't pretty, ain't no home for me
+Home in the darkness, home on the highway
+Home isn't my way, home I'll never be
+
+Burn out the day
+Burn out the night
+I can't see no reason to put up a fight
+I'm livin' for givin' the devil his due
+
+An' I'm burnin', I'm burnin', I'm burnin' for you
+I'm burnin', I'm burnin', I'm burnin' for you!
+
+Time is the essence, time is the season
+Time ain't no reason, got no time to slow
+Time everlasting, time to play B-sides
+Time ain't on my side, time I'll never know
+
+Burn out the day
+Burn out the night
+I'm not the one to tell you what's wrong and what's right
+I've seen signs of what a prison their lives went through
+
+And I'm burnin', I'm burnin', I'm burnin' for you
+I'm burnin', I'm burnin', I'm burnin' for you!
+
+
+Burn out the day
+Burn out the night
+I can't see no reason to put up a fight
+I'm livin' for givin' the devil his due
+
+An' I'm burnin', I'm burnin', I'm burnin' for you
+I'm burnin', I'm burnin', I'm burnin' for you
+I'm burnin', I'm burnin', I'm burnin' for you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I'm burnin', I'm burnin', I'm burnin' for you!

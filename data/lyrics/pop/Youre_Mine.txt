@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sunday morning, I wake up
 You're beside me, breathing so loud
 The wall is empty and so flat
@@ -37,4 +38,45 @@ Suddenly, I look at you
 And all the mirrors vanish from my mind
 And I know that I'm slow in the morning
 Suddenly, I look at you
+=======
+Sunday morning, I wake up
+You're beside me, breathing so loud
+The wall is empty and so flat
+The world around me is too large, oh
+
+And I know that I'm slow in the morning
+As I fall into a hole without an end
+Until, suddenly, I look at you
+And all the mirrors vanish from my mind
+
+Oh, oh, ah-ah, ah-ah, oh
+Oh, ah-ah, ah-ah, oh
+You're mine
+Oh, oh, ah-ah, ah-ah, oh
+Oh, ah-ah, ah-ah, oh
+You're mine
+
+Sunday morning, I wake up
+You're beside me, breathing so loud
+The wall is empty and so flat
+The world around me is too large, oh
+
+And I know that I'm slow in the morning
+As I fall into a hole without an end
+Until, suddenly, I look at you
+And all the mirrors vanish from my mind
+
+Oh, oh, ah-ah, ah-ah, oh
+Oh, ah-ah, ah-ah, oh
+You're mine
+Oh, oh, ah-ah, ah-ah, oh
+Oh, ah-ah, ah-ah, oh
+You're mine
+
+And I know that I'm slow in the morning
+Suddenly, I look at you
+And all the mirrors vanish from my mind
+And I know that I'm slow in the morning
+Suddenly, I look at you
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And all the mirrors vanish from my mind

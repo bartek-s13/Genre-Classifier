@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I could hear them howling from afar
 I saw them rushing to your car
 In a moment all went screaming wild
@@ -26,4 +27,34 @@ Like breaking diamonds with your hand
 And the river grows inside of me
 And the river grows inside of me
 And the river grows inside of me
+=======
+I could hear them howling from afar
+I saw them rushing to your car
+In a moment all went screaming wild
+Until the darkness killed the light
+
+I remember running to the sea
+The burning houses and the trees
+I remember running to the sea
+Alone and blinded by the fear
+
+And the river flows beneath your skin
+Like savage horses kept within
+And all is wasted in the sand
+Like breaking diamonds with your hand
+
+I remember running to the sea
+Remember falling to my knees
+I remember gliding off the shore
+Until I touched the ocean floor
+
+And the river flows beneath your skin
+Like savage horses kept within
+And all is wasted in the sand
+Like breaking diamonds with your hand
+
+And the river grows inside of me
+And the river grows inside of me
+And the river grows inside of me
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And the river grows inside of me

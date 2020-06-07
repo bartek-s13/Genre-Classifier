@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 If you're leaving, close the door
 I'm not expecting people, anymore
 Hear me grieving, lying on the floor
@@ -21,4 +22,29 @@ I'm a blind man
 Now my room is cold
 When a blind man cries
 Lord, you know
+=======
+If you're leaving, close the door
+I'm not expecting people, anymore
+Hear me grieving, lying on the floor
+Whether I'm drunk or dead, I really ain't too sure
+
+I'm a blind man
+I'm a blind man
+And my world is pale
+When a blind man cries
+Lord, you know
+There ain't a sadder tale
+
+
+Had a friend once, in a room
+Had a good time, but it ended much too soon
+In a cold month, in that room
+We found a reason, for the things we had to do
+
+I'm a blind man
+I'm a blind man
+Now my room is cold
+When a blind man cries
+Lord, you know
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 He feels it from his soul

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Last time, we were in it, in it
 Translating our feelings within
 Now we're right back in it, in it
@@ -46,4 +47,54 @@ Nobody
 No one really wins this time
 No one really wins this time around
 No one really wins this time
+=======
+Last time, we were in it, in it
+Translating our feelings within
+Now we're right back in it, in it
+All I, all I can say is
+
+Hold me back, tell me something
+Something that will bring me closer to you
+Had enough, fall back in
+Falling for the thing that brought me
+
+Love, our love, our love can't make it now
+Can't we, can't we, can't save it now
+Our love, our love, won't make it now
+No one really wins this time
+No one really wins this time around
+No one really wins this time
+Nobody
+
+Last time, we were in it, in it
+We had, we had nothing in between us
+Now we're right down in it, in it
+Million different reasons you should hold me
+Hold me back, tell me something
+Something that will bring me closer to you
+Had enough, fall back in
+Falling for the thing that brought me
+
+Love, our love, our love can't make it now
+Can't we, can't we, can't save it now
+Our love, our love won't make it now
+No one really wins this time
+No one really wins this time around
+No one really wins this time
+Nobody
+
+No one, no one, no one, no, no
+No one, no one, no one, no, no
+
+Love, our love, our love, can't make it now
+Can't we, can't we, can't save it now
+Our love, our love won't make it now
+No one really wins this time
+No one really wins this time around
+No one really wins this time
+Nobody
+No one really wins this time
+No one really wins this time around
+No one really wins this time
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Nobody

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jikalau telah datang
 Waktu yang dinanti
 Ku pasti bahagiakan
@@ -40,4 +41,48 @@ Ku pasti akan datang
 Untukmu
 
 Kuharap dikau sabar
+=======
+Jikalau telah datang
+Waktu yang dinanti
+Ku pasti bahagiakan
+Dirimu seorang
+Kuharap dikau sabar
+Menunggu
+
+Berilah daku waktu
+'Tuk wujudkan semua
+Janji ini untukmu
+Ku tak akan lupa
+Kuharap dikau sabar
+Menunggu
+Ku pasti akan datang
+Untukmu
+
+Untaian kata-kata
+Yang kuucapkan untukmu
+Tak seindah kata cinta
+Yang dia berikan padamu
+Namun kau selalu ada di
+Hatiku
+Berilah daku waktu
+'Tuk wujudkan semua
+Janji ini untukmu
+Ku tak akan lupa
+Kuharap dikau sabar
+Menunggu
+Ku pasti akan datang
+Untukmu
+
+
+Oh, jikalau telah datang
+Waktu yang dinanti
+Ku pasti bahagiakan
+Dirimu seorang
+Kuharap dikau sabar
+Menunggu
+Ku pasti akan datang
+Untukmu
+
+Kuharap dikau sabar
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 'Tuk menunggu

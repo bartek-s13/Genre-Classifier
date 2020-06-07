@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Well you can bump and grind
 It is good for your mind
 Well you can twist and shout
@@ -21,4 +22,29 @@ But you won't fool the children of the revolution
 No, you won't fool the children of the revolution
 No, you won't fool the children of the revolution
 No, you won't fool the children of the revolution
+=======
+Well you can bump and grind
+It is good for your mind
+Well you can twist and shout
+Let it all hang out
+
+But you won't fool the children of the revolution
+No, you won't fool the children of the revolution
+No, no, no
+
+Well you can Terraplane
+In the falling rain
+I drive a Rolls-Royce
+Cause it's good for my voice
+
+But you won't fool the children of the revolution
+No, you won't fool the children of the revolution
+No, no, no
+Yeah
+
+But you won't fool the children of the revolution
+No, you won't fool the children of the revolution
+No, you won't fool the children of the revolution
+No, you won't fool the children of the revolution
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 No way!

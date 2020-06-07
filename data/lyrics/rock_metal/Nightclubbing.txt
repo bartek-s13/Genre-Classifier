@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nightclubbing, we're nightclubbing
 We're what's happening
 Nightclubbing, we're nightclubbing
@@ -18,4 +19,26 @@ Like the nuclear bomb
 
 When we're Nightclubbing
 Bright-white clubbing
+=======
+Nightclubbing, we're nightclubbing
+We're what's happening
+Nightclubbing, we're nightclubbing
+We're an ice machine
+We see people brand new people
+They're something to see
+
+Nightclubbing, we're nightclubbing
+Bright-white clubbing
+Oh isn't it wild?
+
+Nightclubbing, we're nightclubbing
+We're walking through town
+Nightclubbing, we're nightclubbing
+We walk like a ghost
+We learn dances brand new dances
+Like the nuclear bomb
+
+When we're Nightclubbing
+Bright-white clubbing
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh isn't it wild?

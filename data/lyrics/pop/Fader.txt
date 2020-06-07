@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I'm in transit
 Floating, stranded on this boat
 And I pledge my self allegiance
@@ -48,4 +49,56 @@ Oh, it's fading, fader
 (I'm in transit)
 Oh, it's fading, fader (Ah, sweet as a moment, be that it may)
 Oh, it's fading, fader
+=======
+I'm in transit
+Floating, stranded on this boat
+And I pledge my self allegiance
+To a better night's sleep at home
+And the sweet, sweet sun's comin' down hard
+The sun's comin' down hard, it burns the bones
+So hold a hand for cover, hold a hand for cover
+Hold a hand for cover from harm
+
+Woo-oo-oo-ooh, oo-oo-oo-ooh, oo-oo-oo-ooh, oo-ooh
+Talk, don't change a thing
+Woo-oo-oo-ooh, woo-oo-oo-ooh, woo-oo-oo-ooh
+Oh, it's fading, fader
+Woo-oo-oo-ooh, oo-oo-oo-ooh, oo-oo-oo-ooh, oo-ooh
+Words don't sink, they swims
+Woo-oo-oo-ooh, woo-oo-oo-ooh, woo-oo-oo-ooh
+Oh, it's fading, fader
+
+Bless this mess
+We tried our best, that's all that we can do
+While the angels walk with the lonely ones
+In the cold rain to rescue you
+And this fable world's comin' down hard
+The wall's comin' down hard on all our homes
+So hold a hand for cover, hold a hand for cover
+Hold a hand for cover from harm
+
+Woo-oo-oo-ooh, oo-oo-oo-ooh, oo-oo-oo-ooh, oo-ooh
+Talk, don't change a thing
+Woo-oo-oo-ooh, woo-oo-oo-ooh, woo-oo-oo-ooh
+Oh, it's fading, fader
+Woo-oo-oo-ooh, oo-oo-oo-ooh, oo-oo-oo-ooh, oo-ooh
+Words don't sink, they swims
+Woo-oo-oo-ooh, woo-oo-oo-ooh, woo-oo-oo-ooh
+Oh, it's fading, fader
+
+
+Woo-oo-oo-ooh, oo-oo-oo-ooh, oo-oo-oo-ooh, oo-ooh
+Talk, don't change a thing
+Woo-oo-oo-ooh, woo-oo-oo-ooh, woo-oo-oo-ooh
+Oh, it's fading, fader (I'm in transit)
+Woo-oo-oo-ooh, oo-oo-oo-ooh, oo-oo-oo-ooh, oo-ooh
+Words don't sink, they swims
+(Ah, sweet as a moment, be that it may)
+Woo-oo-oo-ooh, woo-oo-oo-ooh, woo-oo-oo-ooh
+Oh, it's fading, fader
+
+(I'm in transit)
+Oh, it's fading, fader (Ah, sweet as a moment, be that it may)
+Oh, it's fading, fader
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oh, it's fading, fader

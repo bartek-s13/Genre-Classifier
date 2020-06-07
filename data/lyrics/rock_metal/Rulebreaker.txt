@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I have a thousand voices in my head
 They're calling ma again and again
 And when the lights go down
@@ -40,4 +41,48 @@ He's a rulebreaker
 Born a rebel and born to die alone
 Rulebreaker
 Hell on wheels
+=======
+I have a thousand voices in my head
+They're calling ma again and again
+And when the lights go down
+I'm all alone
+It's just so silent
+Hear the rattlesnakes call
+Chasing storms
+Where the cold wind blows
+To save my restless soul
+I'm on my way to the other side
+He's a rulebreaker
+Hell on wheels
+And it's not my last goodbye
+Rulebreaker
+Hell on wheels
+And there's no one left to hide
+He's a rulebreaker
+Born a rebel and born to die alone
+Rulebreaker
+Hell on wheels
+Into the great unknown
+I'm a broken rebel
+On a neverending highway
+Waiting for a falling star
+I had a dream
+But now I'm believing
+The story I tell
+Leaves another scar
+Chasing storms
+Where the cold wind blows
+To save my restless soul
+I'm on my way to the other side
+He's a rulebreaker
+Hell on wheels
+And it's not my last goodbye
+Rulebreaker
+Hell on wheels
+And there's no one left to hide
+He's a rulebreaker
+Born a rebel and born to die alone
+Rulebreaker
+Hell on wheels
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Into the great unknown

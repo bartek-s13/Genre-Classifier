@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 By burial this night
 Nitocrys weaves the spell
 Down the vault's misty light
@@ -26,4 +27,34 @@ Beard the faceless one
 Morbid Tales
 Morbid Tales
 Morbid Tales
+=======
+By burial this night
+Nitocrys weaves the spell
+Down the vault's misty light
+The lurking Sphinx dwells
+Agony and nightmares
+To Yog-Sothoth they moan
+Nightfall, morbid affairs
+Bear the faceless one
+In the nuclear domain
+Arcades lost in eternal scries
+Written by the insane
+Nitocrys orders must
+Agony and nightmares
+To Yog-Sothoth they moan
+Nightfall, morbid affair
+Bear the faceless one
+Are you morbid?
+Mummy's rebirth by wrath
+Below the temple of Nile
+Vanished in Osiris' path
+Above us reigns the necrophile
+Agony and nightmares
+To Yog-Sothoth they're none
+Nightfall, morbid affairs
+Beard the faceless one
+Morbid Tales
+Morbid Tales
+Morbid Tales
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Morbid Tales

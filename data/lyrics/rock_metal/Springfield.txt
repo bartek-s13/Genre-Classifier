@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 How did I get here?
 I don’t belong here
 How did I get here?
+=======
+How did I get here?
+I don’t belong here
+How did I get here?
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I don’t belong here

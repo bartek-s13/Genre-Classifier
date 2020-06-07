@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Standin' on a bridge, see the water keep flowin' by, by
 I flipped a quarter in the river, then I headed for the other side, side
 I made the same wish that I always do
@@ -28,4 +29,36 @@ Got it all laid out so beautifully
 Don't you worry 'bout a thing, baby, we can run away from it all
 Squeezin' every drop outta what's left of my time
 Jumpin' on tormorrow before it goes by
+=======
+Standin' on a bridge, see the water keep flowin' by, by
+I flipped a quarter in the river, then I headed for the other side, side
+I made the same wish that I always do
+I'm just fool enough to think they ever come true
+Came in like a lion, now I'm out like a lamb
+They don't even know who I am
+
+Miles and miles wide open for me
+Got it all laid out so beautifully
+Don't you worry 'bout a thing, baby, we can run away from it all
+
+Old ghost whistle in the wind in the dead of night, night
+I'm walkin' through the valley of the shadow headin' for the light, light
+I wore out my welcome like I always do
+Got to find myself a life that's shiny new
+They say that the truth is gonna set us free
+I ain't waitin' 'round to see
+
+Miles and miles wide open for me
+Got it all laid out so beautifully
+Don't you worry 'bout a thing, baby, we can run away from it all
+Squeezin' every drop outta what's left of my time
+Jumpin' on tormorrow before it goes by
+No matter what they say, baby, we can run away from it all
+
+Miles and miles wide open for me
+Got it all laid out so beautifully
+Don't you worry 'bout a thing, baby, we can run away from it all
+Squeezin' every drop outta what's left of my time
+Jumpin' on tormorrow before it goes by
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 No matter what they say, baby, we can run away from it all

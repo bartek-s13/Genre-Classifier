@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Waiting for the break of day
 Searching for something to say
 Flashing lights against the sky
@@ -18,4 +19,26 @@ Spinning room is sinking deep
 Searching for something to say
 Waiting for the break of day
 Twenty five or six to four
+=======
+Waiting for the break of day
+Searching for something to say
+Flashing lights against the sky
+Giving up I close my eyes
+Sitting cross-legged on the floor
+Twenty five or six to four
+
+Staring blindly into space
+Getting up to splash my face
+Wanting just to stay awake
+Wondering how much I can take
+Should I try to do some more?
+Twenty five or six to four
+{Instrumental}
+
+Feeling like I ought to sleep
+Spinning room is sinking deep
+Searching for something to say
+Waiting for the break of day
+Twenty five or six to four
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Twenty five or six to four

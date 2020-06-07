@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cold Wind In The Morning
 A Telegram Arrives
 Arriving With No Warning
@@ -46,4 +47,54 @@ There Will Be Sorrow – Until Tomorrow
 So Cry, Soldier, Cry
 Another letter- You should know better
 Cry, Solider, Cry
+=======
+Cold Wind In The Morning
+A Telegram Arrives
+Arriving With No Warning
+Another Mother Cries
+Husbands, Sons And Brothers
+Hailed The Call To War
+Blinded By The Others
+The Promise – One For All
+What’s It All In Aid Of
+Obeying The Command
+Cold And Tired And Hungry
+Dying For Some Land
+(Chorus)
+Why Don’t You Cry, Soldier, Cry
+Another Letter – You Should Know Better
+Cry, Soldier, Cry
+There Will Be Sorrow – Until Tomorrow
+So Cry, Soldier, Cry
+The Fear And All The Sadness
+Of What It Has Become
+In This World Of Madness
+Another Soldier Gone
+Salute The Highest Honour
+The Folding Of The Flag
+Finally The End Is
+Another Bodybag
+And All The Time Your Comrades
+Their Backs Against The Wall
+A Band Of Brothers Fighting
+One By One They Fall
+(Chorus )
+Why Don’t You Cry, Soldier, Cry
+Another Letter – You Should Know Better
+Cry, Soldier, Cry
+There Will Be Sorrow – Until Tomorrow
+So Cry, Soldier, Cry
+What’s It All In Aid Of
+Obeying The Command
+Cold And Tired And Hungry
+Dying For Some Land
+(Chorus )
+Why Don’t You Cry, Soldier, Cry
+Another Letter – You Should Know Better
+Cry, Soldier, Cry
+There Will Be Sorrow – Until Tomorrow
+So Cry, Soldier, Cry
+Another letter- You should know better
+Cry, Solider, Cry
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 There Will be Sorrow- Until Tomorrow

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sun warm on my face, I hear you
 Down below moving slow
 And it's morning
@@ -6,4 +7,14 @@ To learn to kill and take the will
 From unknown faces
 Today was the day for action
 Leave my bed to kill instead
+=======
+Sun warm on my face, I hear you
+Down below moving slow
+And it's morning
+Take my time this morning, no hurry
+To learn to kill and take the will
+From unknown faces
+Today was the day for action
+Leave my bed to kill instead
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Why should it happen?

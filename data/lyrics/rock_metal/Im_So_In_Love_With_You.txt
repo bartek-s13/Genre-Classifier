@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You're the reason I live again
 You gave me shelter when I needed a friend
 I fell in love with you
@@ -18,4 +19,26 @@ I'm in love with you
 I'm so in love holding you
 It's all I ever want to do
 All I ever want to do
+=======
+You're the reason I live again
+You gave me shelter when I needed a friend
+I fell in love with you
+I'm so in love with you
+And girl you're crazy
+You want a man like me
+So many others can set you free
+I'm in love with you
+And thank you showing me my way home
+When I'm holding you
+I'm so in love with you
+I am in love with you
+I am in love with you
+I'm in love
+I'm in love with you
+I'm in love with you
+I'm in love with you
+I'm so in love holding you
+It's all I ever want to do
+All I ever want to do
+>>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You're the reason I live again
