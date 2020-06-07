@@ -1,4 +1,8 @@
 import logging
+
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.svm import LinearSVC
+
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s')
 import pandas as pd
 import re
@@ -20,6 +24,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 import pandas
 import numpy as np
@@ -89,11 +94,12 @@ def get_songs(filename: str):
     return zip(data.artist, data.name)
 
 
-def create_pipeline(X, y):
+def create_pipeline(X, y, ngram=(1, 1), df=0.4):
     pipeline = Pipeline([
-        ('tfidf', TfidfVectorizer(max_features=300, ngram_range=(1, 3))),
+        ('tfidf', TfidfVectorizer(max_features=300, ngram_range=ngram, max_df=df)),
         ('scaler', StandardScaler(with_mean=False)),
-        ('svc', svm.SVC()),
+        ('svr', svm.SVR()),
+        # ('svc', svm.SVC())
     ])
     pipeline.fit(X, y)
     return pipeline
@@ -179,16 +185,33 @@ def lyrics_downloader(filename, songs_per_artist=6, songs_num=3000):
 
 
 if __name__ == "__main__":
-    genre = ["pop", "rock"]
+    genre = ["pop", "rock_metal"]
+    data = []
+    for i, gen in enumerate(genre):
+        mypath = f"data/lyrics/{gen}"
+        for j in [f for f in os.listdir(mypath) if os.path.isfile(os.path.join(mypath, f))]:
+            data.append([get_lyrics_from_file(gen, j), i])
+    data = np.array(data)
+    data = data[data[:, 0] != '']
+    X_train, X_test, y_train, y_test = train_test_split(data[:, 0], data[:, 1].astype('int'), test_size=0.30, random_state=42)
+    pip = create_pipeline(X_train, y_train)
 
-    vec = [get_lyrics_from_file("pop", "Never_Really_Over.txt")]
-    vec_y = [1]
-    for i in ["Bon_Appétit.txt", "Dark_Horse.txt", "What_Lovers_Do.txt", "Swish_Swish.txt"]:
-        vec.append(get_lyrics_from_file("pop", i))
-        vec_y.append(0)
-    pip = create_pipeline(vec, vec_y)
-    predicted = pip.predict([get_lyrics_from_file("pop", "Roar.txt")])
-    print(genre[predicted[0]])
+
+    # for i in [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6)]:
+    #     # for j in [0.1, 0.3, 0.4, 0.5, 0.7]:
+    #     for j in [0.4]:
+    #         pip = create_pipeline(X_train, y_train, i, j)
+    #         print(f"ngrams: {i} \t max_df: {j} \t score: {pip.score(X_test, y_test)}")
+    lol = pip.predict(X_test)
+    print(lol)
+    # vec = [get_lyrics_from_file("pop", "Never_Really_Over.txt")]
+    # vec_y = [1]
+    # for i in ["Bon_Appétit.txt", "Dark_Horse.txt", "What_Lovers_Do.txt", "Swish_Swish.txt"]:
+    #     vec.append(get_lyrics_from_file("pop", i))
+    #     vec_y.append(0)
+    # pip = create_pipeline(vec, vec_y)
+    # predicted = pip.predict([get_lyrics_from_file("pop", "Roar.txt")])
+    # print(genre[predicted[0]])
     # genre_indicators(pip.named_steps['tfidf'].get_feature_names(), pip.named_steps['svc'].coef_, genre)  # TODO nie działa jeszcze
 
 
