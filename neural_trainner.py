@@ -180,16 +180,16 @@ def train_network(train_x, train_y, test_x, test_y, embedding_matrix, answer_key
 
 
 EMBEDDING_DIM = 50
-DICTIONARY_DIM = 3000
+DICTIONARY_DIM = 5000
 
 MAX_SEQUENCE_LENGTH = 750
 
 if __name__ == "__main__":
 
-    # d = make_dict(DICTIONARY_DIM)
-    # emb = make_embeddings(d, DICTIONARY_DIM)
-    #
-    # convert_lyrics()
+    d = make_dict(DICTIONARY_DIM)
+    emb = make_embeddings(d, DICTIONARY_DIM)
+
+    convert_lyrics()
 
     model, answer_key, test_x, test_y = prepare_data_and_train()
     wyn = model.predict(test_x, batch_size=128)
