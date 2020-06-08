@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Jackie is a punk
 Judy is a runt
 They both went down to Berlin
@@ -35,42 +34,4 @@ Oh, I don't know why
 Perhaps they'll die, oh yeah
 Perhaps they'll die, oh yeah
 Perhaps they'll die, oh yeah
-=======
-Jackie is a punk
-Judy is a runt
-They both went down to Berlin
-Joined the Ice Capades
-
-And oh, I don't know why
-Oh, I don't know why
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-
-Second verse, same as the first
-Jackie is a punk
-Judy is a runt
-They both went down to Berlin
-Joined the Ice Capades
-
-And oh, I don't know why
-Oh, I don't know why
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-
-Third verse, different from the first
-Jackie is a punk
-Judy is a runt
-They both went down to Frisco
-Joined the SLA
-
-And oh, I don't know why
-Oh, I don't know why
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
-Perhaps they'll die, oh yeah
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Perhaps they'll die, oh yeah

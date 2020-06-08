@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "Blue Monday"
 Blarin' loudly out the speakers
 Fluorescent liquid in his beaker
@@ -32,39 +31,4 @@ And sometimes, I see you’re fine
 She said
 "If you dance with me, darlin'
 If you take me home
-=======
-"Blue Monday"
-Blarin' loudly out the speakers
-Fluorescent liquid in his beaker
-Another night they’ve gone too far
-She said
-"I don't usually do this kind of thing
-Does it change the way you think of me?"
-Thinkin' isn’t his forte
-
-And she said
-"If you dance with me, darlin'
-If you take me home
-Will we talk in the mornin'?"
-
-They leave
-Weave around the night's commotion
-And dodge a Mexican standoff
-And catch a cab back to his flat
-There's no romance
-Sprawled out across the couch
-Can't even make his fuckin' face out
-An age old ritual
-And she said
-"If you dance with me, darlin'
-If you take me home
-Will we talk in the mornin’?"
-
-And sometimes, I close me eyes
-And sometimes, I see you’re fine
-
-She said
-"If you dance with me, darlin'
-If you take me home
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Will we talk in the mornin’?"

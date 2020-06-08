@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Trapped in purgatory
 A lifeless object, alive
 Awaiting reprisal
@@ -18,25 +17,4 @@ Raining blood
 From a lacerated sky
 Bleeding its horror
 Creating my structure
-=======
-Trapped in purgatory
-A lifeless object, alive
-Awaiting reprisal
-Death will be their acquittance
-The sky is turning red
-Return to power draws near
-Fall into me, the sky's crimson tears
-Abolish the rules made of stone
-
-Pierced from below, souls of my treacherous past
-Betrayed by many, now ornaments dripping above
-
-Awaiting the hour of reprisal
-Your time slips away
-
-Raining blood
-From a lacerated sky
-Bleeding its horror
-Creating my structure
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Now, I shall reign in blood

@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 Page 1
 Page 2
 
 Page 3
 Page 4
-=======
-Page 1
-Page 2
-
-Page 3
-Page 4
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Page 5

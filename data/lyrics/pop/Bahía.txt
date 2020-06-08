@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Ya va un día más que no como y qué
 Estoy perdiendo el tiempo con todo lo que hago
 Algunas cosas mudan, cambian de lugar
@@ -13,20 +12,4 @@ Nada de lo que me ata es real
 Ya va un día más, las cosas no se pierden
 Sólo se transforman
 Ya va un día más, el tiempo no existe
-=======
-Ya va un día más que no como y qué
-Estoy perdiendo el tiempo con todo lo que hago
-Algunas cosas mudan, cambian de lugar
-Me estoy volviendo loco y no te puedo encontrar
-Se está prendiendo fuego todo mi lugar
-Miro por la ventana los autos pasar
-Y cuando llueve se hincha la puerta
-Y después no puedo salir
-Tengo que salvar mis desiertos
-Así puedo al fin dormir
-Nada de lo que me ata es real
-Ya va un día más, las cosas no se pierden
-Sólo se transforman
-Ya va un día más, el tiempo no existe
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Y aún nadie lo nota

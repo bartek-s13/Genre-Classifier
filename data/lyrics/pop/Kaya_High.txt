@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Big city, no limits
 Smoke it up boy
 I'm feeling Kaya High
@@ -9,16 +8,4 @@ I'm feeling Kaya High
 I'm feeling Kaya High
 I'm feeling Kaya High
 I'm feeling Kaya High
-=======
-Big city, no limits
-Smoke it up boy
-I'm feeling Kaya High
-Don't mix your drinks
-And pour another one
-Don't tell your mother, she don't need to know
-I'm feeling Kaya High
-I'm feeling Kaya High
-I'm feeling Kaya High
-I'm feeling Kaya High
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Don't tell your mother, she don't need to know

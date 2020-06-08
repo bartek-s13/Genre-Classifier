@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 I wish I could fly away
 And then you could come back down
 Forever to turn the page
@@ -8,15 +7,4 @@ I wish I could fly away
 And live with the birds and planes
 No match for the girl whose face
 Is made up of tiny stars
-=======
-I wish I could fly away
-And then you could come back down
-Forever to turn the page
-I saw all the sparks today
-Who can rest if I'm alight?
-I wish I could fly away
-And live with the birds and planes
-No match for the girl whose face
-Is made up of tiny stars
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Who can rest if I'm alight?

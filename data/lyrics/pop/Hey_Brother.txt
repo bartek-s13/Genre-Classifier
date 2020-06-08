@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hey, brother
 There's an endless road to rediscover
 Hey, sister
@@ -36,43 +35,4 @@ Oh brother, I will hear you call
 What if I lose it all?
 Oh sister, I will help you out
 Oh, if the sky comes falling down
-=======
-Hey, brother
-There's an endless road to rediscover
-Hey, sister
-Know the water's sweet but blood is thicker
-
-Oh, if the sky comes falling down
-For you, there's nothing in this world I wouldn't do
-
-Hey, brother
-Do you still believe in one another?
-Hey, sister
-Do you still believe in love?
-I wonder
-
-Oh, if the sky comes falling down
-For you, there's nothing in this world I wouldn't do
-
-What if I'm far from home?
-Oh brother, I will hear you call
-What if I lose it all?
-Oh sister, I will help you out
-Oh, if the sky comes falling down
-For you, there's nothing in this world I wouldn't do
-
-Hey, brother
-There's an endless road to rediscover
-Hey, sister
-Do you still believe in love? I wonder
-
-Oh, if the sky comes falling down
-For you, there's nothing in this world I wouldn't do
-
-What if I'm far from home?
-Oh brother, I will hear you call
-What if I lose it all?
-Oh sister, I will help you out
-Oh, if the sky comes falling down
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 For you, there's nothing in this world I wouldn't do

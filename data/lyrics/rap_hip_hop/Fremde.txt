@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  (Live-Version)
 Reiß' die Welt auf, steig' aus dem Hades
 Göttliche Komödie, weiß was mein Part ist
@@ -34,41 +33,4 @@ Und am Scheidepunkt geht's um Entscheidungen
 Und wo zwei Menschen sind, sind meist zwei Meinungen
 Doch ich geh meinen Weg bis ans Ende
 Sehnsucht nach der Zukunft, Heimweh nach der Fremde
-=======
- (Live-Version)
-Reiß' die Welt auf, steig' aus dem Hades
-Göttliche Komödie, weiß was mein Part ist
-Grüß vom Gipfelkreuz, balancier' am Abgrund
-Hochmut oder Flugangst - Frage der Betrachtung
-Achtung Achtung! Das hier wird nicht gefällig
-Schreib 'ne schwarze 13, Junge, 7-stellig
-Und ich geh' mein' Weg bis an's Ende
-Sehnsucht nach der Zukunft, Heimweh nach der Fremde - Ende
-
-Und jetzt steh ich hier, im Kegel der Scheinwerfer
-Gläserne Seele, wer will den ersten Stein werfen
-Fühl diese Stille im Tornadoauge
-Daumen in der Faust Siegeswille oder Aberglaube
-Brot und Spiele Holde Knaben Volkes Gnade
-Des Kaisers Daumen entscheidet, wie viel Erfolg ich habe
-Les' mein' vollen Namen Leuchtreklame LEDs
-Sehn mich nach Hause den treuen Namen Penelopes
-Junger Tod schnelles Leben für den Thron in Stellung gehn
-Die Welle sehn und die Welle nehm'n
-Ich geh meinen Weg bis ans Ende
-Sehnsucht nach der Zukunft Heimweh nach der Fremde
-
-Ich heb' mein Glas und salutier' dir, Universum
-Dir ist ganz egal, ob und wer ich bin
-Du bist ungerecht und deshalb voller Hoffnung
-Ich setzte alles Warte auf den Wind
-Haltet die Welt an ich will austeigen
-Was soll'n wir mehr fürchten den Ruhm oder sein ausbleiben
-Die Götter die wir riefen, die Köter die noch schliefen
-Wecken aus allen Ecken kriechen Spötter aus Verliesen
-Und am Scheidepunkt geht's um Entscheidungen
-Und wo zwei Menschen sind, sind meist zwei Meinungen
-Doch ich geh meinen Weg bis ans Ende
-Sehnsucht nach der Zukunft, Heimweh nach der Fremde
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Werd Teil der RGD-Community!

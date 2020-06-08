@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Here I stand all alone
 Have my mind turned to stone
 Have my heart filled up with ice
@@ -29,36 +28,4 @@ And they say, play this song again
 In my heart, in my soul
 I really hate to pay this toll
 Should be strong, young and bold
-=======
-Here I stand all alone
-Have my mind turned to stone
-Have my heart filled up with ice
-To avoid it's breakin' twice
-Thanks to you, my dear old friend
-But you can't help, this is the end
-Of a tale that wasn't right
-I won't have no sleep tonight
-
-In my heart, in my soul
-I really hate to pay this toll
-Should be strong, young and bold
-But the only thing I feel is pain
-It's alright, we'll stay friends
-Trustin' in my confidence
-And let's say it's just alright
-You won't sleep alone tonight
-
-In my heart, in my soul
-I really hate to pay this toll
-Should be strong, young and bold
-But the only thing I feel is pain
-With my heart, with my soul
-Some guys cry, you've bought and sold
-They've been strong, young and bold
-And they say, play this song again
-
-In my heart, in my soul
-I really hate to pay this toll
-Should be strong, young and bold
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 But the only thing I feel is pain

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Dear Friend, how have you been?
 I think about you from time to time
 Some day, I'd love to know
@@ -35,42 +34,4 @@ I spend hours in this room
 Trying to formulate my feelings
 And clear the thought of you
 Dear Friend, how have you been?
-=======
-Dear Friend, how have you been?
-I think about you from time to time
-Some day, I'd love to know
-How you have grown since our last goodbye
-
-I know the world is changing quickly
-And I couldn't tell you why
-It's beyond my understanding
-But I'd love it if we tried
-Growing older every moment
-Time's falling through my hands
-And I don't have to know the meaning
-But I'd love to have a chance
-
-These days so much has changed
-I stay awake though it's hard sometimes
-I'd love to know what you think
-Oh, I miss when you'd share what was on your mind
-
-Oh, I just don't know how we'll do it
-I leave my window open wide
-And as far as I'm concerned
-I forget from time to time
-I'm so curious about you
-I just saw you in my dream
-You showed up just to surprise me
-And disappeared so suddenly
-Apologies for being scattered
-I just couldn't go to sleep
-I hope you don't think that I'm crazy
-If that's really what you think
-Sometimes I just feel so helpless
-I spend hours in this room
-Trying to formulate my feelings
-And clear the thought of you
-Dear Friend, how have you been?
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 I think about you from time to time

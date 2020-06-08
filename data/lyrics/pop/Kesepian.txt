@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Di mana, kamu di mana
 Di sini, bukan
 Ke mana, kamu ke mana
@@ -30,37 +29,4 @@ Agar aku tak kesepian
 Jangan pergi-pergi lagi
 Aku tak mau sendiri
 Temani aku 'tuk sebentar saja
-=======
-Di mana, kamu di mana
-Di sini, bukan
-Ke mana, kamu ke mana
-Ke sini, bukan
-Katanya pergi sebentar
-Ternyata lama
-Tahukah aku sendiri
-Menunggu kamu
-
-Jangan pergi-pergi lagi
-Aku tak mau sendiri
-Temani aku 'tuk sebentar saja
-Agar aku tak kesepian
-
-Katanya pergi sebentar
-Ternyata lama
-Tahukah aku sendiri
-Menunggu kamu
-
-Jangan janji-janji terus
-Aku tak mau kau bohong
-Temani aku 'tuk sebentar saja
-Agar aku tak kesepian
-
-Jangan pergi-pergi lagi
-Aku tak mau sendiri
-Temani aku 'tuk sebentar saja
-Agar aku tak kesepian
-Jangan pergi-pergi lagi
-Aku tak mau sendiri
-Temani aku 'tuk sebentar saja
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Agar aku tak kesepian

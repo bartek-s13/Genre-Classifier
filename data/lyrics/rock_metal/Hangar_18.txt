@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Welcome to our fortress tall
 I'll take some time to show you around
 Impossible to break these walls
@@ -17,24 +16,4 @@ The military intelligence
 Two words combined that can't make sense
 
 Possibly I've seen too much
-=======
-Welcome to our fortress tall
-I'll take some time to show you around
-Impossible to break these walls
-For, you see, the steel is much too strong
-Computer banks to rule the world
-Instruments to sight the stars
-
-Possibly I've seen too much
-Hangar 18, I know too much
-
-Foreign life forms, inventory
-Suspended state of cryogenics
-Selective amnesia's the story
-Believed foretold, but who'd suspect
-The military intelligence
-Two words combined that can't make sense
-
-Possibly I've seen too much
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Hangar 18, I know too much

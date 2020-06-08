@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Think about the times when you're happy
 Think about the times when you're sad
 Think about the life you're living
@@ -18,25 +17,4 @@ You are in the world
 And your life belongs to you
 You are living
 You are of the earth
-=======
-Think about the times when you're happy
-Think about the times when you're sad
-Think about the life you're living
-Think about your life and be glad
-You are living
-You are in the world
-And your life belongs to you
-You are living
-You are of the earth
-And the earth is of you, too
-There'll be times when you're lonely
-There'll be times when you're down
-There are times when you remember
-With a smile or a frown
-You are living
-You are in the world
-And your life belongs to you
-You are living
-You are of the earth
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And the earth is of you, too

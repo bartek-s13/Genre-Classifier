@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 We sail through endless skies
 Stars shine like eyes, the black night sighs
 The moon in silver dreams
@@ -11,18 +10,4 @@ Bathed in cool breeze, silver starlight
 Breaks dawn from night
 And so, we pass on by
 The crimson eye of great god Mars
-=======
-We sail through endless skies
-Stars shine like eyes, the black night sighs
-The moon in silver dreams
-Pours down in beams, light of the night
-The earth, a purple blaze
-Of sapphire haze in orbit always
-
-While down below the trees
-Bathed in cool breeze, silver starlight
-Breaks dawn from night
-And so, we pass on by
-The crimson eye of great god Mars
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 As we travel, the universe

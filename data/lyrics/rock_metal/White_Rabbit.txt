@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 One pill makes you larger
 And one pill makes you small
 And the ones that mother gives you
@@ -26,33 +25,4 @@ And the White Knight is talking backwards
 And the Red Queen's off with her head
 Remember what the Dormouse said
 Feed your head
-=======
-One pill makes you larger
-And one pill makes you small
-And the ones that mother gives you
-Don't do anything at all
-Go ask Alice
-When she's ten feet tall
-
-And if you go chasing rabbits
-And you know you're going to fall
-Tell 'em a hookah smoking caterpillar
-Has given you the call...
-He called Alice
-When she was just small
-
-When the men on the chessboard
-Get up and tell you where to go
-And you've just had some kind of mushroom
-And your mind is moving low
-Go ask Alice
-I think she'll know
-
-When logic and proportion
-Have fallen sloppy dead
-And the White Knight is talking backwards
-And the Red Queen's off with her head
-Remember what the Dormouse said
-Feed your head
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Feed your head

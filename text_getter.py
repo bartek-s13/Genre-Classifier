@@ -117,6 +117,8 @@ def normalize_lyric(lyric: str):
 
 def genre_indicators(feature_names, feature_importances, id_to_genre):  # TODO: do naprawienia (svc nie jest liniowy, nie można pobrac coef)
     for i, genre in enumerate(feature_importances):
+        if i >= len(id_to_genre):
+            break
         scored_features = list(zip(feature_names, genre.data))
         scored_features = sorted(scored_features, key=lambda x: x[1], reverse=True)
         print("W rozpoznaniu gatunku {lang} najważniejsze cechy to:".format(lang=id_to_genre[i]))
@@ -187,8 +189,9 @@ def lyrics_downloader(filename, songs_per_artist=6, songs_num=3000):
     os.chdir('..')
     print(os. getcwd())
 
+
 if __name__ == "__main__":
-    genre = ["pop", "rock_metal", "rap_hip_hop"]
+    genre = ["pop", "rock_metal", "rap_hip_hop", "country"]
     data = []
     for i, gen in enumerate(genre):
         mypath = f"data/lyrics/{gen}"
@@ -214,7 +217,6 @@ if __name__ == "__main__":
     # songs = get_songs("rap_hip_hop")
     # for z in songs:
     #     print(str(z[0]) + '\t' + str(z[1]))
-<<<<<<< HEAD
         #lyric = normalize_lyric(get_lyrics(str(z[1]), str(z[0])))
         #if lyric is not None:
             #print(lyric)
@@ -223,17 +225,16 @@ if __name__ == "__main__":
         # if lyric:
         #     print(lyric)
         # break
-    logger = logging.getLogger()
-    logger.setLevel(logging.INFO)
-    import sys
-    ch = logging.StreamHandler(sys.stdout)
-    ch.setLevel(logging.INFO)
-    logger.addHandler(ch)
-    #for filename in os.listdir("data/titles/"):
-        #lyrics_downloader(filename)
-    for file in ['rock_metal', 'rap_hip_hop', 'country']:
-        lyrics_downloader(file, songs_per_artist=8)
-=======
+    # logger = logging.getLogger()
+    # logger.setLevel(logging.INFO)
+    # import sys
+    # ch = logging.StreamHandler(sys.stdout)
+    # ch.setLevel(logging.INFO)
+    # logger.addHandler(ch)
+    # #for filename in os.listdir("data/titles/"):
+    #     #lyrics_downloader(filename)
+    # for file in ['rock_metal', 'rap_hip_hop', 'country']:
+    #     lyrics_downloader(file, songs_per_artist=8)
     # lyric = normalize_lyric(get_lyrics(str(z[1]), str(z[0])))
     # if lyric is not None:
     # print(lyric)
@@ -252,4 +253,3 @@ if __name__ == "__main__":
     # # for filename in os.listdir("data/titles/"):
     # # lyrics_downloader(filename)
     # lyrics_downloader('rock_metal')
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29

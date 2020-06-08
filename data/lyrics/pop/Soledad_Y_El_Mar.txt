@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 En el canto de las olas
 Encontré un rumor de luz
 Por un canto de gaviotas
@@ -25,32 +24,4 @@ Que me cante el mar
 Un bolero de soledad
 Que me cante el mar
 Que ando sola con soledad
-=======
-En el canto de las olas
-Encontré un rumor de luz
-Por un canto de gaviotas
-Supe que allí estabas tú
-Despidiendo últimamente todo lo que sucedió
-Hoy saludo a mi presente y gusto de este dulce adiós
-Voy a navegar en tu puerto azul
-Quisiera saber de dónde vienes tú
-Vamos a dejar que el tiempo pare
-Ver nuestros recuerdos en los mares
-Y esta soledad tan profunda
-Que en el canto de las olas me quisiera sumergir
-Embriagándome en su aroma algo nuevo descubrí
-Voy a navegar en tu puerto azul
-Quisiera saber de dónde vienes tú
-Vamos a dejar que el tiempo pare
-Ver nuestros recuerdos en los mares
-Y esta soledad tan profunda
-Que me cante el mar
-Un bolero de soledad
-Que me cante el mar
-Que ando sola con soledad
-Que me cante el mar
-Un bolero de soledad
-Que me cante el mar
-Que ando sola con soledad
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Soledad y el mar

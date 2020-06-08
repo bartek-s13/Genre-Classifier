@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 Detener la mirada
 Afilar el alma
 Escribir un poema
 Aprender todo de nuevo
 Ver una estrella
 Llorarle al río
-=======
-Detener la mirada
-Afilar el alma
-Escribir un poema
-Aprender todo de nuevo
-Ver una estrella
-Llorarle al río
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Mandar todo a la mierda

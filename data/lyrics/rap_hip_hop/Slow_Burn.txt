@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Don't stop if you run away
 No turning back, no other fate
 You want to laugh, want to celebrate
@@ -18,25 +17,4 @@ Fahrenheit, you're in centigrade
 I did the math, I don't want to play
 Remember that, remember that
 Let's get it out of the way
-=======
-Don't stop if you run away
-No turning back, no other fate
-You want to laugh, want to celebrate
-You ruined that, faithfully
-Move along I will hesitate
-Fahrenheit, you're in centigrade
-I did the math, I don't want to play
-You wouldn't ask, truthfully
-Let's get it out of the way
-The long, slow burn
-Don't wait for a rainy day
-You're lucky now, but that'll change
-I'm burning out, I don't want to fade
-It couldn't last, truthfully
-Move along I will hesitate
-Fahrenheit, you're in centigrade
-I did the math, I don't want to play
-Remember that, remember that
-Let's get it out of the way
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 The long, slow burn

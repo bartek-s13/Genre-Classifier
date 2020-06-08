@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Well it's floodin' down in Texas
 All of the telephone lines are down
 And I've been tryin' to call my baby
@@ -13,20 +12,4 @@ Man it's about to drive poor me insane
 Well, I'm leavin' you baby
 Lord, and I'm goin' back home to stay
 Well back home there's no floods or tornados
-=======
-Well it's floodin' down in Texas
-All of the telephone lines are down
-And I've been tryin' to call my baby
-Lord, and I can't get a single sound
-
-Well dark clouds are rollin' in
-Man I'm standin' out in the rain
-Yeah floodwater keep a rollin'
-Man it's about to drive poor me insane
-
-
-Well, I'm leavin' you baby
-Lord, and I'm goin' back home to stay
-Well back home there's no floods or tornados
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Baby, and the sun shines every day
