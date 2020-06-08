@@ -26,8 +26,10 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
 import pandas
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def request_song_info(song_title, artist_name):
@@ -126,6 +128,19 @@ def genre_indicators(feature_names, feature_importances, id_to_genre):  # TODO: 
             print("\t'{feature}': {score}".format(feature=feature, score=score))
 
 
+def draw_confusion_matrix(conf, id_to_genre):
+    fig, ax = plt.subplots(figsize=(6, 5))
+    ax.matshow(conf, alpha=0.3)
+    for i in range(conf.shape[0]):
+        for j in range(conf.shape[1]):
+            ax.text(x=j, y=i, s=conf[i, j], va='center', ha='center')
+    plt.xticks(list(range(4)), id_to_genre)
+    plt.yticks(list(range(4)), id_to_genre)
+    plt.xlabel('Przewidziana etykieta')
+    plt.ylabel('Rzewczywista etykieta')
+    plt.savefig('confusion_matrix_svc.png')
+
+
 def get_lyrics_from_file(genre: str, file: str) -> str:
     try:
         with open(f"data/lyrics/{genre}/{file}", 'r') as f:
@@ -202,10 +217,12 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = train_test_split(data[:, 0], data[:, 1].astype('int'), test_size=0.30)
 
     n_grams = (1, 3)
-    max_df = 0.3
+    max_df = 0.7
     pip = create_pipeline(X_train, y_train, n_grams, max_df)
     print(f"\nngrams: {n_grams} \t max_df: {max_df} \t score: {pip.score(X_test, y_test)}\n")
-
+    y_pred = pip.predict(X_test)
+    conf = confusion_matrix(y_true=y_test, y_pred=y_pred)
+    draw_confusion_matrix(conf, genre)
     genre_indicators(pip.named_steps['tfidf'].get_feature_names(), pip.named_steps['svc'].coef_, genre)
 
 
