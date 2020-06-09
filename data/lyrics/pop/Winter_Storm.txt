@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Pain, don't go
 You remind me of a winter storm
 Faith, don't grow
@@ -14,21 +13,4 @@ If I stay, if I stay, don't go
 Don't go, go, go
 Oh, don't go, go, go
 Pain, don't go
-=======
-Pain, don't go
-You remind me of a winter storm
-Faith, don't grow
-When they say you've been sore
-If I stay, if I stay, don't go
-If I stay, if I stay, don't go
-Pain, don't go
-You remind me of a summer storm
-Faith, don't grow
-When they say you've been sore
-If I stay, if I stay, don't go
-If I stay, if I stay, don't go
-Don't go, go, go
-Oh, don't go, go, go
-Pain, don't go
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 You remind me of a winter storm

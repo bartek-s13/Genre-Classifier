@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Popularity : 7 users have visited this page
 Sponsored links
 Kapag ang puso'y natutong magmahal
@@ -25,32 +24,4 @@ Itong bato sa
 ... Bu-hangin
 Coda:
 Bato sa buhangin
-=======
-Popularity : 7 users have visited this page
-Sponsored links
-Kapag ang puso'y natutong magmahal
-Bawat tibok ay may kulay at buhay
-Ngunit kung ang pagsuyo'y lilipas din
-Bagay kaya ang bato sa buhangin?
-Chorus:
-Kay hirap unawain
-Bawat damdamin
-Pangakong magmahal hanggang libing
-Sa langit, may tagpuan din
-At doon hihintayin
-Itong bato sa buhangin
-Ngunit kung ang pagsuyo'y lilipas din
-Bagay kaya ang bato sa
-... Buhangin
-Chorus:
-Kay hirap unawain
-Bawat damdamin
-Pangakong magmahal hanggang libing
-Sa langit, may tagpuan din
-At doon hihintayin
-Itong bato sa
-... Bu-hangin
-Coda:
-Bato sa buhangin
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (Ooh-ahh)

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 People are strange when you're a stranger
 Faces look ugly when you're alone
 Women seem wicked when you're unwanted
@@ -32,39 +31,4 @@ When you're strange
 No one remembers your name
 When you're strange
 When you're strange
-=======
-People are strange when you're a stranger
-Faces look ugly when you're alone
-Women seem wicked when you're unwanted
-Streets are uneven when you're down
-
-When you're strange
-Faces come out of the rain
-When you're strange
-No one remembers your name
-When you're strange
-When you're strange
-When you're strange
-
-People are strange when you're a stranger
-Faces look ugly when you're alone
-Women seem wicked when you're unwanted
-Streets are uneven when you're down
-
-When you're strange
-Faces come out of the rain
-When you're strange
-No one remembers your name
-When you're strange
-When you're strange
-When you're strange
-Alright, yeah
-
-When you're strange
-Faces come out of the rain
-When you're strange
-No one remembers your name
-When you're strange
-When you're strange
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 When you're strange

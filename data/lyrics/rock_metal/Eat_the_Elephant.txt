@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Looming, omnipresent
 This task ahead
 This task at hand
@@ -33,40 +32,4 @@ Just go all in
 
 Where to begin eludes me
 Without you to remind me
-=======
-Looming, omnipresent
-This task ahead
-This task at hand
-Ominous and daunting
-Crippling undertaking, I'm frozen
-Where to begin eludes me
-Without you to remind me
-
-Just take the step
-Just take the swing
-Just take the bite
-Just go all in
-
-Where to begin eludes me
-Rooting ever deeper
-This massive endeavor
-Ominous and daunting
-Crippling undertaking
-
-Just take the step
-Just take the swing
-Just take the bite
-Just go all in
-Take the step
-Take the swing
-Take the bite
-Just take the bite
-Take the step
-Take the swing
-Take the bite
-Just go all in
-
-Where to begin eludes me
-Without you to remind me
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Just begin

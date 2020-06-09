@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Eight miles high, and when you touch down
 You'll find that it's stranger than known
 Signs in the street, that say where you're going
@@ -10,17 +9,4 @@ In places, small faces unbound
 Round the squares, huddled in storms
 Some laughing, some just shapeless forms
 Sidewalk scenes, and black limousines
-=======
-Eight miles high, and when you touch down
-You'll find that it's stranger than known
-Signs in the street, that say where you're going
-Are somewhere just being their own
-Nowhere is there warmth to be found
-Among those afraid of losing their ground
-Rain gray town, known for its sound
-In places, small faces unbound
-Round the squares, huddled in storms
-Some laughing, some just shapeless forms
-Sidewalk scenes, and black limousines
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Some living, some standing alone

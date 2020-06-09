@@ -26,8 +26,10 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
 import pandas
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def request_song_info(song_title, artist_name):
@@ -117,11 +119,26 @@ def normalize_lyric(lyric: str):
 
 def genre_indicators(feature_names, feature_importances, id_to_genre):  # TODO: do naprawienia (svc nie jest liniowy, nie można pobrac coef)
     for i, genre in enumerate(feature_importances):
+        if i >= len(id_to_genre):
+            break
         scored_features = list(zip(feature_names, genre.data))
         scored_features = sorted(scored_features, key=lambda x: x[1], reverse=True)
         print("W rozpoznaniu gatunku {lang} najważniejsze cechy to:".format(lang=id_to_genre[i]))
         for feature, score in scored_features[:5]:
             print("\t'{feature}': {score}".format(feature=feature, score=score))
+
+
+def draw_confusion_matrix(conf, id_to_genre):
+    fig, ax = plt.subplots(figsize=(6, 5))
+    ax.matshow(conf, alpha=0.3)
+    for i in range(conf.shape[0]):
+        for j in range(conf.shape[1]):
+            ax.text(x=j, y=i, s=conf[i, j], va='center', ha='center')
+    plt.xticks(list(range(4)), id_to_genre)
+    plt.yticks(list(range(4)), id_to_genre)
+    plt.xlabel('Przewidziana etykieta')
+    plt.ylabel('Rzewczywista etykieta')
+    plt.savefig('confusion_matrix_svc.png')
 
 
 def get_lyrics_from_file(genre: str, file: str) -> str:
@@ -187,8 +204,9 @@ def lyrics_downloader(filename, songs_per_artist=6, songs_num=3000):
     os.chdir('..')
     print(os. getcwd())
 
+
 if __name__ == "__main__":
-    genre = ["pop", "rock_metal", "rap_hip_hop"]
+    genre = ["pop", "rock_metal", "rap_hip_hop", "country"]
     data = []
     for i, gen in enumerate(genre):
         mypath = f"data/lyrics/{gen}"
@@ -199,10 +217,12 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = train_test_split(data[:, 0], data[:, 1].astype('int'), test_size=0.30)
 
     n_grams = (1, 3)
-    max_df = 0.3
+    max_df = 0.7
     pip = create_pipeline(X_train, y_train, n_grams, max_df)
     print(f"\nngrams: {n_grams} \t max_df: {max_df} \t score: {pip.score(X_test, y_test)}\n")
-
+    y_pred = pip.predict(X_test)
+    conf = confusion_matrix(y_true=y_test, y_pred=y_pred)
+    draw_confusion_matrix(conf, genre)
     genre_indicators(pip.named_steps['tfidf'].get_feature_names(), pip.named_steps['svc'].coef_, genre)
 
 
@@ -214,7 +234,6 @@ if __name__ == "__main__":
     # songs = get_songs("rap_hip_hop")
     # for z in songs:
     #     print(str(z[0]) + '\t' + str(z[1]))
-<<<<<<< HEAD
         #lyric = normalize_lyric(get_lyrics(str(z[1]), str(z[0])))
         #if lyric is not None:
             #print(lyric)
@@ -223,17 +242,16 @@ if __name__ == "__main__":
         # if lyric:
         #     print(lyric)
         # break
-    logger = logging.getLogger()
-    logger.setLevel(logging.INFO)
-    import sys
-    ch = logging.StreamHandler(sys.stdout)
-    ch.setLevel(logging.INFO)
-    logger.addHandler(ch)
-    #for filename in os.listdir("data/titles/"):
-        #lyrics_downloader(filename)
-    for file in ['rock_metal', 'rap_hip_hop', 'country']:
-        lyrics_downloader(file, songs_per_artist=8)
-=======
+    # logger = logging.getLogger()
+    # logger.setLevel(logging.INFO)
+    # import sys
+    # ch = logging.StreamHandler(sys.stdout)
+    # ch.setLevel(logging.INFO)
+    # logger.addHandler(ch)
+    # #for filename in os.listdir("data/titles/"):
+    #     #lyrics_downloader(filename)
+    # for file in ['rock_metal', 'rap_hip_hop', 'country']:
+    #     lyrics_downloader(file, songs_per_artist=8)
     # lyric = normalize_lyric(get_lyrics(str(z[1]), str(z[0])))
     # if lyric is not None:
     # print(lyric)
@@ -252,4 +270,3 @@ if __name__ == "__main__":
     # # for filename in os.listdir("data/titles/"):
     # # lyrics_downloader(filename)
     # lyrics_downloader('rock_metal')
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Counting the days
 Blurred
 Scared
@@ -28,35 +27,4 @@ Knifed
 Right in my back
 Side
 Cleaned
-=======
-Counting the days
-Blurred
-Scared
-Knifed
-Right in my side
-Killed
-Burned
-Destiny rise
-Feared
-Sewn
-Sentence day
-Killed
-Scared
-Burned
-Skinned and wanting to die
-Gone
-Feared
-Turned
-Sentenced to death
-Cold
-Chained
-Soon... sentence day
-Killed
-Burned
-Scared
-Knifed
-Right in my back
-Side
-Cleaned
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Death, it comes my way

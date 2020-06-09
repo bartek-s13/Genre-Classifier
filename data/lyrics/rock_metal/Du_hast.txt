@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Du, du hast, du hast mich
 Du, du hast, du hast mich
 Du, du hast, du hast mich
@@ -34,41 +33,4 @@ Sie lieben auch in schlechten Tagen?
 Willst du bis der Tod euch scheidet
 Treu ihr sein
 (Ja) Nein
-=======
-Du, du hast, du hast mich
-Du, du hast, du hast mich
-Du, du hast, du hast mich
-Du, du hast, du hast mich
-
-Du, du hast, du hast mich, du hast mich
-Du hast mich gefragt, du hast mich gefragt
-Du hast mich gefragt und ich hab' nichts gesagt
-
-Willst du bis der Tod euch scheidet
-Treu ihr sein für alle Tage?
-(Ja) Nein
-(Ja) Nein
-Willst du bis zum Tod, der scheide
-Sie lieben auch in schlechten Tagen?
-(Ja) Nein
-(Ja) Nein
-
-Du, du hast, du hast mich
-Du, du hast, du hast mich
-Du, du hast, du hast mich, du hast mich
-Du hast mich gefragt, du hast mich gefragt
-Du hast mich gefragt und ich hab' nichts gesagt
-
-Willst du bis der Tod euch scheidet
-Treu ihr sein für alle Tage?
-(Ja) Nein
-(Ja) Nein
-Willst du bis zum Tod der Scheide
-Sie lieben auch in schlechten Tagen?
-(Ja) Nein
-(Ja) Nein
-Willst du bis der Tod euch scheidet
-Treu ihr sein
-(Ja) Nein
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 (Ja) Nein

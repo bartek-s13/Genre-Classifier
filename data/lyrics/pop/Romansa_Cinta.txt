@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Sejenak kau hadir menemaniku
 Terasa begitu indah tuk dilukiskan
 *
@@ -13,20 +12,4 @@ Sebuah kisah yang tlah kita rajut
 Terukir untuk kita jaga
 Dibatas bening jiwa
 Yang kita cipta bersama
-=======
-Sejenak kau hadir menemaniku
-Terasa begitu indah tuk dilukiskan
-*
-Seberkas bayangmu tercipta di benakku
-Setelah ku rasakan dalamnya artimu
-Reff:
-Dalam detik penuh bahagia
-Tlah kucoba tuk resapi
-Satu yang terbaik
-Untuk dirimu kini
-Sebuah kisah yang tlah kita rajut
-Terukir untuk kita jaga
-Dibatas bening jiwa
-Yang kita cipta bersama
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Kembali *, reff

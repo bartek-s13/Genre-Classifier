@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Adentro tuyo
 Caigo del sol
 Adentro tuyo
@@ -24,31 +23,4 @@ Caigo del sol
 Adentro tuyo
 Y es único
 Es único
-=======
-Adentro tuyo
-Caigo del sol
-Adentro tuyo
-Es único
-Es único
-
-Cuerpos de luz
-Corriendo en pleno cielo
-Cristales de amor amarillo
-No dejaré que seas fría
-Yo podría calentarte
-Para abandonarme y renacer
-
-Explosiones en tus ojos
-Agujeros en la tierra
-Y un verde profundo en el mar
-Hay algo en el aire
-Un detalle infinito
-Y quiero que dure para siempre
-
-Adentro tuyo
-Caigo del sol
-Adentro tuyo
-Y es único
-Es único
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Es único

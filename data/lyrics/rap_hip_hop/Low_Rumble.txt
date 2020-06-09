@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This weight
 It's mine alone
 Heavy
@@ -14,21 +13,4 @@ It's mine alone
 Like the waves
 Sink, swim, or drown
 Waiting
-=======
-This weight
-It's mine alone
-Heavy
-Sliding down
-Waiting
-Don't bother waiting
-This way
-It's mine alone
-No escape
-From what I found
-This weight
-It's mine alone
-Like the waves
-Sink, swim, or drown
-Waiting
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Don't bother waiting

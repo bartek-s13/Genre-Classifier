@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Oh, say can you see, by the dawn's early light
 What so proudly we hailed at the twilight's last gleaming
 Whose broad stripes and bright stars, thro' the perilous fight
@@ -6,13 +5,4 @@ O'er the ramparts we watched, were so gallantly streaming
 And the rockers' red glare, the bombs bursting in air
 Gave proof thro' the night that our flag was still there
 O say, does that star spangled banner yet wave
-=======
-Oh, say can you see, by the dawn's early light
-What so proudly we hailed at the twilight's last gleaming
-Whose broad stripes and bright stars, thro' the perilous fight
-O'er the ramparts we watched, were so gallantly streaming
-And the rockers' red glare, the bombs bursting in air
-Gave proof thro' the night that our flag was still there
-O say, does that star spangled banner yet wave
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 O'er the land of the free and the home of the brave

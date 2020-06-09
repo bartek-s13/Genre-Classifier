@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Slow down
 Don’t leave this town
 Yes, I’m scared of anything
@@ -26,33 +25,4 @@ I can’t be myself and carry on when you’re not there
 I don’t want you to go, no
 Tell me you’ll stay
 Tell me this heart you gave me won’t go away
-=======
-Slow down
-Don’t leave this town
-Yes, I’m scared of anything
-But I don’t want you to remember me
-Well I’m not young and free
-I’m trying to build myself back
-But I’m waiting for you to call
-
-Far too many times
-Have I asked you to carry me
-And I promise this time I’m ready
-I just needed space and clarity
-
-But I already know
-I already care
-I can’t be myself and carry on
-When you’re not there
-I don’t want you to go
-Tell me you’ll stay
-Tell me this heart that you gave me won’t go away
-
-And I already know
-I already care
-I can’t be myself and carry on when you’re not there
-I don’t want you to go, no
-Tell me you’ll stay
-Tell me this heart you gave me won’t go away
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Tell me this heart you gave me won’t go away

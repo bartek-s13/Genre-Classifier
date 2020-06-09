@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 We're standing here by the abyss
 And the world is in flames
 Two star-crossed lovers reaching out
@@ -24,31 +23,4 @@ And He is insurrection, He is spite, He's the force that made me be
 He is, He's the shining and the light without whom I cannot see
 And He is the disobedience that holds us together
 He is Nostro Dispater, Nostr'Alma Mater
-=======
-We're standing here by the abyss
-And the world is in flames
-Two star-crossed lovers reaching out
-To the beast with many names
-
-He is, He's the shining and the light without whom I cannot see
-And He is insurrection, He is spite, He's the force that made me be
-He is Nostro Dispater, Nostr'Alma Mater
-He is
-
-We are hiding here inside a dream
-And all our doubts are now destroyed
-The guidance of the morning star
-Will lead the way into the void
-
-He is, He's the shining and the light without whom I cannot see
-And He is insurrection, He is spite, He's the force that made me be
-He is Nostro Dispater, Nostr'Alma Mater
-He is
-
-He is, He's the shining and the light without whom I cannot see
-And He is insurrection, He is spite, He's the force that made me be
-He is, He's the shining and the light without whom I cannot see
-And He is the disobedience that holds us together
-He is Nostro Dispater, Nostr'Alma Mater
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 And we are falling over the precipice

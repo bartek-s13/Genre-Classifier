@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello, hello, can you hear me as I scream your name?
 Hello, hello, do you need me before I fade away?
 
@@ -22,29 +21,4 @@ Deep in the dark, I don't need the light
 There's a ghost inside me
 It all belongs to the other side
 We live, we love, we lie (We live, we love, we lie)
-=======
-Hello, hello, can you hear me as I scream your name?
-Hello, hello, do you need me before I fade away?
-
-Is this the place that I call home
-To find what I've become?
-Walk along the path unknown
-We live, we love, we lie
-Deep in the dark I don't need the light
-There's a ghost inside me
-It all belongs to the other side
-We live, we love, we lie (We live, we love, we lie)
-
-Hello, hello, nice to meet you, voice inside my head
-Hello, hello, I believe you, how can I forget?
-
-Is this the place that I call home
-To find what I've become?
-Walk along the path unknown
-We live, we love, we lie
-Deep in the dark, I don't need the light
-There's a ghost inside me
-It all belongs to the other side
-We live, we love, we lie (We live, we love, we lie)
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 We live, we love, we lie

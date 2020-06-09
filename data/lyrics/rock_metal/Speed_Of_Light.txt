@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Music: Tolkki
 Words: Kotipelto
 Today is just another day
@@ -12,19 +11,4 @@ Although the years have passed by
 I will give it all I have inside... Everything
 I'm away lost in my thoughts
 Everyday my life goes by
-=======
-Music: Tolkki
-Words: Kotipelto
-Today is just another day
-Of my life too short to live
-I should have some kind of meaning
-A destiny to believe in
-Before I go to sleep
-I find some pictures of a time
-When everything was still so fine
-Although the years have passed by
-I will give it all I have inside... Everything
-I'm away lost in my thoughts
-Everyday my life goes by
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 At the speed of light

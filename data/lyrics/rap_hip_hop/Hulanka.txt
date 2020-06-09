@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Szynkareczko
 Szafareczko
 Bój siê Boga, stój!
@@ -42,49 +41,4 @@ Nie zaszkodziæ
 Oblej miodem nas!
 By pogodziæ
 Nie zaszkodziæ
-=======
-Szynkareczko
-Szafareczko
-Bój siê Boga, stój!
-Tam siê œmiejesz
-A tu lejesz
-Miód na kaftan mój!
-Tam siê œmiejesz
-A tu lejesz
-Miód na kaftan mój!
-Nie darujê
-Wyca³ujê!
-Jakie oczko, brew!
-Nó¿ki ma³e
-Z¹bki bia³e
-Hej! spali mnie krew!
-Nó¿ki ma³e, z¹bki bia³e
-Hej! spali mnie krew!
-Có¿ tak bracie
-Wci¹¿ dumacie?
-Bierz tam smutki czart!
-Pe³no nêdzy
-Ot, pij prêdzej
-Œwiat ten diab³a wart!
-Pe³no nêdzy
-Ot, pij prêdzej
-Œwiat ten diab³a wart!
-Piane nogi
-Zb³¹dz¹ z drogi
-Có¿ za wielki srom?
-Krzykiem ¿ony
-Rozbudzony
-Trafisz gdzie twój dom
-Krzykiem ¿ony
-Rozbudzony
-Trafisz gdzie twój dom
-Pij, lub kijem
-Siê pobijem!
-Biegnij dziewczê w czas
-By pogodziæ
-Nie zaszkodziæ
-Oblej miodem nas!
-By pogodziæ
-Nie zaszkodziæ
->>>>>>> 90db020b12b12b404d07858ed8015a3bcf7a8c29
 Oblej miodem nas!
