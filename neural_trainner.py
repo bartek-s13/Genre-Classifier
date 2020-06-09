@@ -5,10 +5,12 @@ import numpy as np
 import os
 import pickle
 from keras.preprocessing.sequence import pad_sequences
-from keras.models import Sequential
+from keras.models import Sequential, save_model
 from keras.layers import Embedding, Dense, Conv1D, MaxPooling1D, Flatten, AveragePooling1D, GlobalAveragePooling1D, \
     GlobalMaxPooling1D
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
 
 stopwords = set(stopwords.words('english') + list(punctuation))
 
@@ -35,11 +37,11 @@ def make_dict(size: int, filedir: str = "data/lyrics") -> dict:
 
             tok = word_tokenize(s.lower())  # zakładam, że zawsze jest angielski
             for t in tok:
-                # if t not in stopwords:  # glove ma dla nich embeddingi więc zobaczymy jak działa bez, a najwyżej się będzie zamieniać
-                if t in d.keys():
-                    d[t] += 1
-                else:
-                    d[t] = 1
+                if t not in stopwords:  # glove ma dla nich embeddingi więc zobaczymy jak działa bez, a najwyżej się będzie zamieniać
+                    if t in d.keys():
+                        d[t] += 1
+                    else:
+                        d[t] = 1
 
     # print(d, len(d))
     d = sorted(d.items(), key=lambda x: x[1],
@@ -112,10 +114,10 @@ def make_embeddings(dictionary: dict, size: int):
 def prepare_data_and_train():
     length = []
     train_x, train_y, test_x, test_y = [], [], [], []
-    answer_key = dict()
+    answer_key = []
     quant = len(os.listdir("data/dictionaries/lyrics"))
     for i, f in enumerate(os.listdir("data/dictionaries/lyrics")):
-        answer_key[f[:-7]] = i
+        answer_key.append(f[:-7])
         split = []
         with open(f"data/dictionaries/lyrics/{f}", 'rb') as file:
             split = pickle.load(file)
@@ -160,7 +162,7 @@ def train_network(train_x, train_y, test_x, test_y, embedding_matrix, answer_key
 
     # print(np.asarray(test_x)[0], train_y[0], "\n", test_x[0], test_y[0])
     acc, val_acc, epoch = 0., 0., 0
-    while acc <= val_acc + 0.035 or epoch < 2:
+    while val_acc <= 0.77 and (acc <= val_acc + 0.03 or epoch < 2):
         history = model.fit(np.asarray(train_x), np.asarray(train_y),
                             validation_data=(np.asarray(test_x), np.asarray(test_y)),
                             epochs=1, batch_size=32)
@@ -179,6 +181,19 @@ def train_network(train_x, train_y, test_x, test_y, embedding_matrix, answer_key
     return model
 
 
+def draw_confusion_matrix(conf, id_to_genre):
+    fig, ax = plt.subplots(figsize=(6, 5))
+    ax.matshow(conf, alpha=0.3)
+    for i in range(conf.shape[0]):
+        for j in range(conf.shape[1]):
+            ax.text(x=j, y=i, s=conf[i, j], va='center', ha='center')
+    plt.xticks(list(range(4)), id_to_genre)
+    plt.yticks(list(range(4)), id_to_genre)
+    plt.xlabel('Przewidziana etykieta')
+    plt.ylabel('Rzewczywista etykieta')
+    plt.savefig('confusion_matrix_net.png')
+
+
 EMBEDDING_DIM = 50
 DICTIONARY_DIM = 5000
 
@@ -186,17 +201,35 @@ MAX_SEQUENCE_LENGTH = 750
 
 if __name__ == "__main__":
 
-    d = make_dict(DICTIONARY_DIM)
-    emb = make_embeddings(d, DICTIONARY_DIM)
+    # d = make_dict(DICTIONARY_DIM)
+    # emb = make_embeddings(d, DICTIONARY_DIM)
+    #
+    # convert_lyrics()
+    #
+    # model, answer_key, test_x, test_y = prepare_data_and_train()
+    # wyn = model.predict(test_x, batch_size=128)
+    # wyn2 = model.predict_classes(test_x, batch_size=128)
+    # count = 0
+    # t_y = []
+    # for w2, r in zip(wyn2, test_y):
+    #     # print(w1, w2, r)
+    #     if r[0] == 1:
+    #         t_y.append(0)
+    #     elif r[1] == 1:
+    #         t_y.append(1)
+    #     elif r[2] == 1:
+    #         t_y.append(2)
+    #     elif r[3] == 1:
+    #         t_y.append(3)
+    #     if r[w2] == 1:
+    #         count += 1
+    # print(count / len(test_y) * 100, '%')
+    #
+    # conf = confusion_matrix(t_y, wyn2)
+    # draw_confusion_matrix(conf, answer_key)
+    # print(conf)
 
-    convert_lyrics()
-
-    model, answer_key, test_x, test_y = prepare_data_and_train()
-    wyn = model.predict(test_x, batch_size=128)
-    wyn2 = model.predict_classes(test_x, batch_size=128)
-    count = 0
-    for w2, r in zip(wyn2, test_y):
-        # print(w1, w2, r)
-        if r[w2] == 1:
-            count += 1
-    print(count / len(test_y) * 100, '%')
+    with open("data/networks/networkFinal.pickle", 'rb') as file:
+        model = pickle.load(file)
+    model.summary()
+    save_model(model, "data/networks/netFin.h5")
